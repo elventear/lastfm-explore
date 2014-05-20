@@ -1,0 +1,1311 @@
+1399643000	Last Caress	Misfits		9c880970-352d-473e-ac82-ebeb503a94e9	936addc3-91aa-49de-8ec0-0dc186de151f	
+1399642185	Scream	Misfits		84db6f7d-3c74-4fdc-a67e-c4412468261b	936addc3-91aa-49de-8ec0-0dc186de151f	
+1399641806	Die, Die My Darling - Fox Studio 1983	Misfits			936addc3-91aa-49de-8ec0-0dc186de151f	
+1399476570	Òlavur Riddarós	Valravn			f4520423-6f7a-4b37-b820-941dbd47459a	
+1398106203	Tjuren	Hedningarna		8cdeb9b7-bd73-49e4-bb13-e27007a97e84	2fd6f2b0-832e-4c6b-896a-cfbead330fca	
+1398103551	Shelter	Icon of Coil		8db86104-ab91-4214-a75d-e448d2086f93	8a27bc4d-3210-4748-a6a7-b42b768c1ec0	
+1390515527	Adir Adirim (Featuring Victoria Hanna)	Balkan Beat Box			aaaca27e-cbb4-42d8-91be-57e902120817	
+1389984427	Electric Girl	She			422eb05d-4fbe-4901-84eb-d95decd1d834	
+1389983189	Spirals in Hyperspace	Ozric Tentacles		dd03a5b8-622a-4219-ac1b-09a50cc817b1	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1389382730	Soulmelt Pt.2	My Personal Murderer			57701fc3-266a-4fcf-81b8-4ee7e459bd9b	
+1389285767	Angel in Coma	My Personal Murderer		bdbcfb89-600b-437b-93df-38312d92fec4	57701fc3-266a-4fcf-81b8-4ee7e459bd9b	
+1389248674	Jeremy	Pearl Jam		b4b9e9e4-dfab-43c6-9a60-cc88146d4d65	83b9cbe7-9857-49e2-ab8e-b57b01038103	
+1389248670	Even Flow	Pearl Jam		3e3fb2a5-4477-4df2-a429-c59e3ea5ee24	83b9cbe7-9857-49e2-ab8e-b57b01038103	
+1389248668	Once	Pearl Jam		9afacfe5-1eea-40bc-90dd-8f02dc4ac9e3	83b9cbe7-9857-49e2-ab8e-b57b01038103	
+1389211786	Stray Bullit Woman	Greenleaf		a3608bfd-6ecd-40c0-bc86-2055c3fdf9c3	1cc120dd-f410-449b-86df-8771ec8e1db3	
+1388782939	Day 1	Yuksek			d6285d95-8ee1-4de2-8ceb-ff90098ab1d1	
+1388782736	STRONG	雅-MIYAVI-		9c89df22-463a-43d3-acdb-5be8dc941d23		
+1388782586	Ha Na Bi	Jin Oki				
+1388387597	How to Kill a Horse	Brother Dege			c33bad43-1d00-48ad-850f-5585e3f583cd	
+1388386028	The Battle of New Orleans	Brother Dege		8ed21341-411c-41dd-8aad-ca29bce1a90e	c33bad43-1d00-48ad-850f-5585e3f583cd	
+1388384953	Too Old to Die Young	Brother Dege		2e47187c-0b5f-47ce-a3dc-1d0a7360a66d	c33bad43-1d00-48ad-850f-5585e3f583cd	
+1386006005	Big News I	Clutch		0e68a0bd-8180-4167-badb-ddee64066cf7	0cdb0359-5698-487d-9aae-a25fb4dcdc4d	
+1384980386	Planet of Sound	Pixies		a3339d7c-d326-4288-880d-c4ca78cd7913	b6b2bb8d-54a9-491f-9607-7b546023b433	
+1384977701	Here Comes Your Man	Pixies		9da091d1-2aa3-4482-891f-dd994310d24e	b6b2bb8d-54a9-491f-9607-7b546023b433	
+1384975362	Europe - 2007 Digital Remaster	Killing Joke			f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a	
+1384974595	Tabazan - 2007 Digital Remaster	Killing Joke			f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a	
+1384974474	Kings And Queens - 2007 Digital Remaster	Killing Joke			f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a	
+1384973000	H8 U 2	LukHash			ed9e6bc3-9714-4b07-a401-30fbf0a60d4d	
+1384534603	Pale Empress	The Merry Thoughts		a4fd64db-dbe1-4d53-9be6-df497d59d21e	a43b2ae6-5877-41d1-a99a-592e1839035a	
+1384531514	The Fox (What Does The Fox Say?)	Ylvis		9233785f-7e96-42b6-869d-f4d56decf6a5	18e9528e-a4af-4e09-9a35-ea11c7a7ae43	
+1384531509	Dirty Deeds	Joan Jett		1dedad26-55c3-4371-b2a1-9649a8af0092	f376828a-b438-4fda-bb2e-dcd5fbe81f83	
+1384531497	Lucretia My Reflection	The Sisters of Mercy		5fb99500-0135-4946-941e-3cdf43b6c7b2	553d8166-27b0-49fe-b8e4-89a984e2c375	
+1384381973	Chan Chan	La Barranca		082194a7-e869-4531-bdb8-3e90f5008424	95aa4d8c-1983-406d-b2e3-944265394ebb	
+1384381136	El Cometa	La Barranca		e2e9ffef-d3a2-46d6-b6fc-b11f013008d2	95aa4d8c-1983-406d-b2e3-944265394ebb	
+1384192172	Ends Where It Starts	Jolly		3148c467-655f-4ba8-bea0-a58d91b27ca7	e5eda186-3173-4c4d-b011-04c40e170af7	
+1383941207	Deadwing	Porcupine Tree		c1ee8b8a-b0e9-43c0-bb39-d92bb49c95a3	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1383670254	Black Box Messiah	Diablo Swing Orchestra		e1e3c3fb-5126-4bb7-ab27-b6b47bc2cb93	af723a8a-d3db-46c2-82a3-201dde8fa27f	
+1383600525	Mass Rapture	Diablo Swing Orchestra		19ec43c0-24fb-4bb3-a4fd-a31ceea1bdcb	af723a8a-d3db-46c2-82a3-201dde8fa27f	
+1383588671	Yo Voy Ganao	Systema Solar			aa895e35-e7c5-446b-9f62-26b27ea5b8a2	
+1382989291	Julia Delaney / Star of the County Down	Dante Bucci			0c70e20a-5b84-4b89-aecb-b8e10da45ab5	
+1382394686	Fearless	VNV Nation		07e31c1b-d080-4f4f-9204-a504b4c459a1	8385f26a-f374-4a04-9aad-4442ce24db2b	
+1381934622	Mambo Inn	Grant Green		f6ca8fe7-c1ac-4221-832e-80997239a581	1a88b270-d763-48d5-a62c-2bb9cabb140c	
+1381513496	Lullaby for a fat Jellyfish	Igorrr			aec46991-e896-4c1f-80cc-aed97b0cdc73	
+1381511821	Tout Petit Moineau	Igorrr			aec46991-e896-4c1f-80cc-aed97b0cdc73	
+1380901031	Ouverture II en si mineur, BWV 1067: VII. Badinerie	Johann Sebastian Bach			24f1766e-9635-4d58-a4d4-9413f9f98a4c	
+1380738670	Kullina Wahed	The Nile Project				
+1380735767	Shagwab	The Nile Project				
+1380590534	La Bayamesa	Buena Vista Social Club		93eb6045-fc56-4e71-8577-583fcbd31e60	2a85ecff-41e9-4be1-aca6-c87054a4c334	
+1380568193	Gay Bar	Electric Six		1322b545-bb68-4b37-ae83-cac96e0ef0c4	54b0584e-4e5e-4976-80d4-eea7a82a7213	
+1380311551	Be Electric	The Qemists		ee3a0697-cfb0-427e-a3de-23ab63dc2c76	eae38719-96b6-4aa5-8303-5bb08f953c86	
+1380308971	Dem Na Like Me	The Qemists			eae38719-96b6-4aa5-8303-5bb08f953c86	
+1380291585	Backwaters	Drenge		12a7e6b6-04a8-4456-8f76-48991f361bdd	b7f40a7c-0b93-45ad-9ae3-3bf6e28e9dd4	
+1380291565	I Want To Break You In Half	Drenge		d83d2679-3e4a-4d39-8265-fcb0b8e558a6	b7f40a7c-0b93-45ad-9ae3-3bf6e28e9dd4	
+1380142490	Sputnik	Ulanbator		91657500-4bbf-4b4a-ba2a-0ccf7372599b	cc50f85f-f177-4548-83f4-e05df58d57cd	
+1380142452	Lost Weekend	The Qemists			eae38719-96b6-4aa5-8303-5bb08f953c86	
+1380142447	Stompbox	The Qemists		36cab1d8-b3ce-4f0c-9a65-6512c656ffc4	eae38719-96b6-4aa5-8303-5bb08f953c86	
+1378327690	Hiding Out	Spock's Beard				
+1378325001	Agony	James Labrie		065bfb60-81f3-4c11-934d-eceb9fed3a62	cc7d3375-dabd-4091-8884-4638069f5909	
+1377720051	SZ2	Battles		7c83fa10-c061-448b-b931-b54246758b47	8522b9b6-b295-48d7-9a10-8618fb80beb8	
+1375729353	Wings for Marie, Part 1	Tool		15dc8caf-2ce8-4c2f-9246-42c80d13cfb5	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1375729321	10,000 Days (Wings, Part 2)	Tool		157dcdbc-f9d0-4b70-9883-d98bb05a57ed	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1375204887	Atlas	Battles		aa34ab42-8fdc-452d-8761-250846c1caaa	8522b9b6-b295-48d7-9a10-8618fb80beb8	
+1374503450	Dance of the Aristocrats	The Aristocrats		4e568a75-425b-4697-bcb3-d5655b3f4c64	2781c4f4-c039-42ec-a728-2add7ad09cd7	
+1374163149	Second Time	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1374077346	Fishing Grounds	Feersum Ennjin		908de5eb-430f-4065-bd28-dd331de26e1b	2b265981-2ada-49a4-9a9a-2c9c855ea85f	
+1373912024	Aprieta (Oye Como Va)	Joe Cuba			0cc80504-26d9-4083-943f-4cf93c854be5	
+1373911711	La Palomilla	Joe Cuba			0cc80504-26d9-4083-943f-4cf93c854be5	
+1373911280	El Pito (I'll Never Go Back To Georgia)	Joe Cuba		5c4c2605-2de9-4de7-8b8c-13178ee16f23	0cc80504-26d9-4083-943f-4cf93c854be5	
+1373911086	Bang! Bang!	Joe Cuba		ce8e6e69-0e97-4434-aa27-e8ab11319579	0cc80504-26d9-4083-943f-4cf93c854be5	
+1373318225	Falling the Same Way	Sandwell District		5b8f9413-3831-47b7-b282-e5d7a67ada2c	e0940825-2829-4fcc-85c6-3a6eaf4bc306	
+1373298105	Summernight Horizon	Anathema		cb8de691-df98-4350-bedb-af423bb2e88a	20aa23e3-3532-42ca-acf6-e8c2e9df2688	
+1373297766	Thin Air	Anathema		8f5f109f-c7d1-4641-b3b6-2888bb483e89	20aa23e3-3532-42ca-acf6-e8c2e9df2688	
+1372692443	Sssnakepit - Rout Remix	Enter Shikari			329f95db-f02e-40bf-a5f7-0dea11529ce3	
+1372691224	Radiate	Enter Shikari			329f95db-f02e-40bf-a5f7-0dea11529ce3	
+1372686792	Of Matter – Proxy	TesseracT			acaede2d-f652-4a37-9ce0-efd994a3e678	
+1372449997	Moscow	Impact Fuze				
+1372092639	Teseract	bob sands				
+1371656542	Came Back Haunted	Nine Inch Nails		bf0e2165-a833-4509-bd90-929af741a1bb	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1371575857	Astronomy Domine (Stereo)	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1371575854	Lucifer Sam (Stereo)	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1371575852	Matilda Mother (Stereo)	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1371575850	Flaming (Stereo)	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1371575827	Pow R. Toc. H (Stereo)	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1371134022	Burn Pigs Burn	Pitchfork		8c5463f7-eb4f-4694-8829-44abc5702b9d	bd8a3b68-a63a-4636-a5e7-200536f3b2c2	
+1371057135	Vertebrae	Praxis		217839ae-412e-4a04-8074-ff9d701ea28a	81430c37-f195-41bb-ba06-aeefd76e6ab7	
+1370880024	Whitewash	Buckethead		169d4579-6efe-4805-9498-87eec815a1f0	b5179744-f217-4455-9d8b-17b8d4fdeb93	
+1370551397	Secrets	Mission of Burma		ef0377af-86fb-43d7-b409-7f73b3418754	4d8acc9e-121c-45f8-aff6-02fafd84a9ae	
+1370534065	The Great Southern Trendkill	Pantera		01e10e7f-331a-4dba-8b98-9772d4c203a2	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1370533543	Smooth Sailing	Queens of the Stone Age		6cf3e21d-75be-40c6-884c-907a9b300668	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1370020978	Burn the Witch	Queens of the Stone Age		87804c36-982e-47dd-816a-598285bfff92	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1369774293	Sangre De Mis Manos	Downset				
+1369772656	Empower	Downset				
+1369082043	On Dark Rivers	Spiritual Beggars		26646a5d-0b01-4ab8-9eff-5bdec363cf61	608cce09-a3fc-4063-b51e-7d7b6a86fd9c	
+1368813000	Etnik	İlhan Erşahin			53912419-3cd1-4ffb-a38d-7da7340fc4f2	
+1368805343	Uku	Dengue Fever		064cdda4-67f1-4e1f-a562-801bc3ccd9fb	e6791155-ec80-4a7a-b108-54481ff73ead	
+1368803444	Seeing Hands	Dengue Fever		38c5d8a1-67ef-484c-94d5-c6023ef371be	e6791155-ec80-4a7a-b108-54481ff73ead	
+1368466468	Fairlight	Com Truise		c5d15eef-d7df-4a5f-aa13-b1c71a59dc40	51f1ca49-846a-4ef1-b4fa-187ecc88bbe5	
+1367958487	Promenade	Street Sweeper Social Club		e6d4a018-3ea7-4325-b2ba-54658599516a	fdde76e2-6450-4fab-8b6a-64ab21f1d8fe	
+1367950196	Sweet Magic Pain	Spiritual Beggars		171c12b8-48dc-4da1-976a-a11baa9ab4d8	608cce09-a3fc-4063-b51e-7d7b6a86fd9c	
+1367870827	Sunday Morning	Modwheelmood		0c671eb5-68e1-4bc4-87b0-bc21f92b1855	5dd561f7-7264-42cb-a3b2-bddeb750eb39	
+1367870821	My American Prayer	Downset				
+1367861558	Whew! What A Dream	Lenny White			296a6a56-033f-42cb-a170-188b532f6c14	
+1367265966	The Great Plains	Scale the Summit		3f43355f-2936-44fa-82df-c7c13adc1341	37221dd7-41b1-49fa-ac32-08f8277f72cf	
+1367255137	Manók Tánca	After Crying		6364aebc-0955-4f7f-8b7f-591456df3c76	bc86859e-2509-4977-9de4-909805ea24ed	
+1366998937	Only Shallow	My Bloody Valentine		20dcc1ad-ab5e-42e0-ab97-7a196698554f	8ca01f46-53ac-4af2-8516-55a909c0905e	
+1366995796	Soft as Snow (But Warm Inside)	My Bloody Valentine		14dfb9ef-6506-4fa2-91c9-2f5e3c07a42c	8ca01f46-53ac-4af2-8516-55a909c0905e	
+1366783629	Black Dog	Keith Emerson		c10909a5-afe3-45e5-b4d2-b67ad58c36ae	e1350b4d-286e-40f1-894f-8c88a03351fe	
+1366782215	The Price of Everything and the Value of Nothing	Animals as Leaders		3e27a773-d126-4c2c-b817-17b3cf154c10	5c2d2520-950b-4c78-84fc-78a9328172a3	
+1366781734	Behaving Badly	Animals as Leaders		ae4acd9a-b1a7-471e-a29e-ae8925926a67	5c2d2520-950b-4c78-84fc-78a9328172a3	
+1366640868	Avril 14th	Aphex Twin		39048851-f6f7-4b0f-83e0-b6456d8ae9fd	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1366561768	Clarity In Chaos	Chimp Spanner		8e4752f2-5fc0-44dc-82fc-0580191a1515	a9d72c8b-fea3-4927-9521-156e6fe05f37	
+1366560793	Forever for Her (Is Over for Me)	The White Stripes		5d920857-47d5-41ae-8569-f6a2213f3ed1	11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5	
+1366560318	My Doorbell	The White Stripes		1fc69cf2-7f32-4591-af4c-732cc205620b	11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5	
+1365972586	Dawn	Gojira		79a629a8-91d6-489b-b07d-4867c6d8a83b	1c5efd53-d6b6-4d63-9d22-a15025cf5f07	
+1365904394	Supererogation	Chimp Spanner		5834d7d3-ffab-4e8b-b805-5d07f7d8d845	a9d72c8b-fea3-4927-9521-156e6fe05f37	
+1365693058	Dizzi Jig	Dizzi Dulcimer		851f2667-2d5f-4dae-8fd0-cade40515b1e	09246e01-4be3-4ed8-930a-68ea25e3c325	
+1365540833	And Who's The God Now?!...	Indukti			216de703-21b9-4396-a01f-7927a754c4a7	
+1365540383	Sansara	Indukti		746c2387-cceb-4dd6-9532-3731a2ec7850	216de703-21b9-4396-a01f-7927a754c4a7	
+1365537028	Dark Age Of Technology	Chimp Spanner		6f46c288-8797-45bf-a6da-5758c690f551	a9d72c8b-fea3-4927-9521-156e6fe05f37	
+1365486166	Stockholm	OSI		c86915e8-657c-4649-84ab-5ded8cd50ac9	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1365188901	Young Lust	Pink Floyd		d6a733ce-cc94-4e6a-9425-de82066f3479	83d91898-7763-47d7-b03b-b92132375c47	
+1365089332	Dragula	Rob Zombie		db1980f5-6517-4d64-bb65-3c770625d7bc	c995a379-60b9-404b-bd97-a7e2de0751d3	
+1364935024	Toccata	Peter Banks			ee61338f-e200-4e3c-9e9a-695b7b36bfc0	
+1364935015	The Sheriff	Peter Banks			ee61338f-e200-4e3c-9e9a-695b7b36bfc0	
+1364935012	Hoedown	Jordan Rudess		2b5b9eaa-0f90-4ce2-af90-6f53faaf2577	e1fae725-6396-4ea7-a047-03ef4d4502a1	
+1364935010	A Time And A Place	Doane Perry			de28c0d5-12c9-42c2-a392-49a556e0c888	
+1364935006	Tarkus	Derek Sherinian			735cf8e5-6ce8-44d5-9f82-8d888df7b409	
+1364935004	Karn Evil 9 - 1st Impression	Simon Phillips			3c752615-a63b-419a-8d63-d90652fdd9d2	
+1364928855	Guardians Of The Tomb	Saxon		56d69f31-c710-459a-9556-286afc46bfd2	bbd80354-597e-4d53-94e4-92b3a7cb8f2c	
+1364928547	Made In Belfast	Saxon		4610c656-11a5-48ca-b397-9e6210bf532a	bbd80354-597e-4d53-94e4-92b3a7cb8f2c	
+1364392076	Bereft In The Abyss	Orphaned Land		134b0d29-7000-4d85-9de4-bdb988322b50	3877a6a1-093c-4478-b5a6-58a99a1338db	
+1364392070	Sapari	Orphaned Land		2a37569f-ae57-4a0b-8da3-9ffdbada15e9	3877a6a1-093c-4478-b5a6-58a99a1338db	
+1363895461	Kat Food	Dixie Dregs		83c95523-a892-434f-90b6-533f4992cf73	9978a09b-4467-4790-9bde-424f004b7312	
+1363893431	Hog Funk	Niacin		f94d6519-c007-4e47-9f12-52e947ce0f3f	c494890b-465a-4718-ae72-47bd70434e50	
+1363839966	Book Of Hours	Bozzio Levin Stevens		2f5fc8b6-879e-4624-b05d-a14fe5984cb4	7f76b176-6f20-4845-85a4-5d616e421734	
+1363838869	Black Light Syndrome	Bozzio Levin Stevens		323d7cd6-89bb-4322-a715-f97c1bbe2e04	7f76b176-6f20-4845-85a4-5d616e421734	
+1363838501	Dark Corners	Bozzio Levin Stevens		1d1bea15-f4be-4c6b-a092-c6222ebda063	7f76b176-6f20-4845-85a4-5d616e421734	
+1363724768	Asi Se Compone Un Son	Ismael Miranda		a9ffe908-51ab-4465-8515-935c3a3ef180	08111ced-84f9-49bd-a6b4-0d920348f723	
+1363711228	Spectrum of Eternity	Soilwork		c7617838-1585-47a6-be91-a0907abfc293	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1362795171	Toccata & Fugue In D Minor	Jacques Loussier		5d641713-563a-44d3-a9b4-237e4bc717b3	387821e6-a7b2-495b-81d3-7139f1f8233c	
+1362788026	The Writing on My Father's Hand	Dead Can Dance		87d46662-8204-46d0-98a6-d8e6bf5cb5f1	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1362787833	Kiko	Dead Can Dance		2bacd192-b518-4591-9b11-c67cf39ab397	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1362785699	Goodbye Blue Sky	Pink Floyd		de3fa532-8ef4-4aa3-869a-9e9309b5503a	83d91898-7763-47d7-b03b-b92132375c47	
+1362764801	Siberian Khatru - Live LP from Yessongs	Yes			8353f93f-163e-48c2-bb75-9f18987a3d46	
+1362762323	Sehnsucht	Rammstein		51a84cd9-ed6a-40ee-bcea-9f429595f857	b2d122f9-eadb-4930-a196-8f221eeb0c66	
+1362761844	Counting Bodies Like Sheep To The Rhythm Of The War Drums	A Perfect Circle		404bf0cd-6ee7-41ff-981f-c0a27998012b	078a9376-3c04-4280-b7d7-b20e158f345d	
+1362761589	I'm Afraid of Americans	David Bowie		acdd9c06-2312-4783-95f8-c565d10c7da7	5441c29d-3602-4898-b1a1-b77fa23b8e50	
+1362760959	B Mashina	Laibach		52accb62-720e-4ce5-982b-15f7ea825d02	c779e090-909f-4403-a90e-c1d08cdbb719	
+1362752558	Dyers Eve	Metallica		1dfbb8da-acec-4d23-8e2f-db6573f97807	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1362679178	To Mega Therion	Therion		fc20692c-64bf-4562-8e73-c3e899d3afc4	c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a	
+1362678630	Creeping Death	Metallica		031d40dd-5ee0-46b4-abc6-c78b05ab06c4	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1362674926	Got Me Wrong	Alice in Chains		06afa29c-581b-4ce1-b0cb-389697aae1a1	4bd95eea-b9f6-4d70-a36c-cfea77431553	
+1362674785	Refuse To Be Denied	Anthrax		485ba9e0-f7d6-431a-aebf-cb7e8d571c0a	315126eb-86bc-475c-a308-b8edfdd6c08c	
+1362674622	Inner Universe	Origa		3ed5279b-475b-4154-a027-b2caeb2dd644	b5536488-a4da-4e87-9779-d5351c00729d	
+1362554195	Dawn of Victory	Rhapsody		00dabf68-6743-40e9-9758-47f850bad88d		
+1362500946	Dead City Radio and the New Gods of Supertown	Rob Zombie		042da63c-919e-4a0a-b7f9-1b42ae751f93	c995a379-60b9-404b-bd97-a7e2de0751d3	
+1361556244	Long Live The Misanthrope	Soilwork		39d2e5c8-6982-4641-a0f6-a90013541793	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1360600668	Guarachi Guaro	Cal Tjader		f877e3ab-acc4-417d-8dd1-3e108ba3227c	1015b5e3-8e3d-4d78-806a-c530cf742e66	
+1360519154	Volver a Nacer	Flor de Loto			b42a1066-a303-421e-a0e8-316db542b3f4	
+1360434194	Noche Azul	Flor de Loto			b42a1066-a303-421e-a0e8-316db542b3f4	
+1360433286	Atlantis	Flor de Loto			b42a1066-a303-421e-a0e8-316db542b3f4	
+1360364414	Feel Like Falling	Riverside		1df7e152-386e-44e6-b383-19a69715860d	077102c2-9dbf-4515-8531-3878461c68b0	
+1360358892	Celebrity Touch	Riverside			077102c2-9dbf-4515-8531-3878461c68b0	
+1360275587	The Day the World Went Away	Nine Inch Nails		242007dc-2f04-4d16-8fa4-c91c642d427d	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1360274814	The Fragile	Nine Inch Nails		7c94d43a-117c-4271-825a-8c868939a7c3	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1360259384	Ghosts	Ladytron		505dcbdf-45d2-4c35-86af-ffd2f086e2a7	b45335d1-5219-4262-a44d-936aa36eeaed	
+1360258852	Emerge	Fischerspooner		8d19eb55-122d-4cc4-bd31-369906a5ccf5	a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0	
+1359960706	Folia: Rodrigo Martinez (1490)	Jordi Savall		1d821bf6-274f-430c-a4af-4ff530aee86e	15e6a554-f554-4c6b-a687-f73c7bbe2cbd	
+1359751116	Quint	Minotaur Shock		24784f1a-b365-4dc0-a6b0-f1458e4a29be	68efbbef-3e2d-488b-ad0f-ca9b7e4f0d46	
+1359740913	Elisabeth	Ciccada		5f23a837-2d8a-4125-9751-dcc3829a0a4f	4f08facc-0282-4a8a-af8c-63efd8ba252c	
+1359733511	Take Five (Nicola Conte Remix)	Roberto Roena		88416879-133b-44d0-8a97-eb06a8e7e7fb	93ad0701-1348-4abd-83f0-cea0568fc283	
+1359670903	Light From Your Lighthouse	The Fireman		b313ba98-9624-457a-829f-ccd4d25b8cbe	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1359670126	Sing The Changes	The Fireman		9efbf594-6175-4398-8e4c-f95db747294d	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1359669509	Owe war sint verswunden	Estampie		d6e24fa7-9dc0-44bb-98e4-8673c4f6f6d9	b4534df7-18e3-4035-93a5-473b72efc19f	
+1359669469	Trotto	Estampie		00faaaa6-c661-4cb7-b9e7-4f787bf1f6ed	b4534df7-18e3-4035-93a5-473b72efc19f	
+1359669445	Quen na virgen	Estampie		ada7ced6-974c-48b7-ae68-9fa46df89144	b4534df7-18e3-4035-93a5-473b72efc19f	
+1359497755	Sleep	RPWL		6c702001-57b2-41c4-9bb7-407fbd88a62f	80301f91-cb5a-4f02-bd2a-ead999a7dc06	
+1358883106	Sorgmantel	Änglagård		cf7aa411-3c7b-4a2b-b88c-0779c16b8852	6344d70b-da12-4f93-b7e0-c0be55044c41	
+1358875194	Ur Vilande	Änglagård		b714ba79-1893-4d29-814d-5697eb853f45	6344d70b-da12-4f93-b7e0-c0be55044c41	
+1358752543	Wu-Tang Clan Ain't Nothing Ta F**K Wit - Clean	Tom Morello			42a636a0-dbe4-4d0c-abe2-1590fad9531b	
+1358750543	One Man Army	Prodigy			2996c6a2-215d-4f78-aed6-81a130b04816	
+1358663375	Naïf 2	Lazuli		26ad6895-75af-4d5e-87fc-b20a8aedc5c2	3a192d2c-7cdd-41ee-904b-b4d06cf36592	
+1358662888	Un été	Lazuli		e1a6844d-614b-4012-b091-2b462b1c19e7	3a192d2c-7cdd-41ee-904b-b4d06cf36592	
+1358661060	Rien d'important	Lazuli		f97d098e-ee73-471a-91d9-c73212ff8042	3a192d2c-7cdd-41ee-904b-b4d06cf36592	
+1358436582	Red River	Blood Red Shoes			cd830a8f-89d2-4e96-96cb-7a497e51d437	
+1358271636	Boogaloo Blues	Johnny Colon				
+1358180996	Pud-Da-Din	Joe Cuba Sextet		55762946-43f5-4052-aafc-95d5bfcd258c	15a1d7e4-30bc-4580-a441-abc8a51fcc34	
+1357683228	Stream Of Consciousness	Dream Theater		116a9b38-5abc-4299-8a1f-875358544698	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1357682399	Honor Thy Father	Dream Theater		3b924e11-f7a2-43e5-a5d5-16af98ba8b8a	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1357682104	This Dying Soul	Dream Theater		199af5a3-026f-4847-a069-3bd3d7c78893	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1357620618	Atmas Heave	Aghora		8335a60d-cf91-4cf9-88ac-f20cdc839488	3c0630ac-f0b7-4852-bf36-61d8ff33ca77	
+1357579733	NYC: 73-78	Philip Glass		5ffcb7ba-af74-4e65-969a-9f0455ed011f	45908599-e061-434f-a900-dd2df7931beb	
+1357579380	Opening	Philip Glass & Cornelius				
+1357579060	Floe '87	Memory Tapes			fbd33a5a-06b5-4b46-98d1-8677f5dc44c6	
+1357578857	Etoile Polaire	Silver Alert			de5d6bf7-79d9-4aae-a657-7d9e593a1ee0	
+1357578311	Alight Spiral Snip	Dan Deacon			8dd73d1a-0424-4581-af8c-ade3edb44c5a	
+1357577757	Rubric	Tyondai Braxton			9b771025-f34d-4dbf-a313-c46495ef5505	
+1357496952	Warda's Whorehouse	Amon Tobin			630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1357334270	Days Like Eternity	Time's Forgotten		197870d3-16fb-441b-9a74-8c5ddd64feba	09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1355894804	Blue Orchid	The White Stripes		51f587f2-a65c-43bc-8ef3-df23e0f65f9a	11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5	
+1355894117	Icky Thump	The White Stripes		08fdd1c9-fae7-45ab-8a72-8e4d1f0e639c	11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5	
+1355773073	Some Skunk Funk	Panzerballett			2d11f5e0-1a0f-4681-8239-5539776b6076	
+1355509342	Crystalline (Matthew Herbert Remix)	Björk		dd374d2c-b344-4e21-b3b5-235f8632b10b	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	
+1355507956	Thunderbolt (Omar Souleyman remix)	Björk		8c6648c2-d94f-4ae7-85a7-9a0c1948d84e	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	
+1355503930	Crystalline (Omar Souleyman remix)	Björk		081c39bd-febb-4ff1-93a3-b44ad2ff0cf0	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	
+1355499313	Battery	Metallica		85a12613-64b0-4067-aba6-2b13ddb4aca4	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1355425996	I Walk Beside You	Dream Theater		3351210d-db86-4f10-87b5-7c1653f2c6ac	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1355406648	Harvester of Sorrow	Metallica		b077dad3-42f5-42fa-b71c-ce207f474af9	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1355406645	One	Metallica		e19df88b-80f0-4c74-913a-73b8175ecd25	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1354897968	Tell Me A Tale - Spotify Sessions Curated by Jim Eno	Michael Kiwanuka			11f570ff-44d9-4e9c-8812-e6d56103c5c1	
+1354591634	Manticore érkezése II.	After Crying		d0e21ef4-e7c9-4b3e-b56f-bff056a1e1de	bc86859e-2509-4977-9de4-909805ea24ed	
+1354080952	Cum on Feel the Noize	Quiet Riot		3caffd6c-aeb9-4a65-8f77-b43c169fa5ca	5c6acb91-4b9b-4245-b92f-e817295c4ed0	
+1354080931	We're Not Gonna Take It	Twisted Sister		c6c0da1c-d17a-4c2b-827c-30a5311c3a9a	c6122fee-089f-41c4-a34f-e5f7e5607b05	
+1354038920	Hypothèse B	Karcius		aa19887c-2965-4cfb-8c4b-4e543f1c42a4	10d1ae85-c7d0-4ca3-bd7c-146561c61ee9	
+1353365039	Vándor	After Crying		0e0278f7-070a-479f-a2fb-d8cf7ce418f8	bc86859e-2509-4977-9de4-909805ea24ed	
+1353018065	Led On - Vapourspace Remix	Steve Morse			6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0	
+1352912443	Hallogallo	Neu!		b5e80682-0785-4659-b57f-f42de78af3c2	adec1fc3-83c1-48f7-9e49-8347ac6d40b0	
+1352876009	Been Away Too Long	Soundgarden		9f39e8ff-d120-41ec-ac57-4052c24453a1	153c9281-268f-4cf3-8938-f5a4593e5df4	
+1352667440	BaRock	Jelonek		ae51f0e5-068a-4b20-bbc4-36a5260a18e1	679ac3bf-a448-43c2-9864-4bfd14751c2e	
+1352664697	We Got More	Eskmo		77589f74-e6dd-4398-b434-1de811fee8a4	12aac92c-26d3-4b0e-be5e-e7b86ab938b6	
+1352498110	Cloudlight	Eskmo		367d720c-d9d7-4613-ac5a-86212bb90153	12aac92c-26d3-4b0e-be5e-e7b86ab938b6	
+1352403553	Cosmo Retro Intro Outro	Amon Tobin		d90e4e06-4062-4b09-8b63-e2e323006d06	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1352402190	Hey Blondie	Amon Tobin		58440a54-272e-4132-89ec-35c9fe050e52	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1351708986	Volte-face	Riverside		5babf00f-4452-4081-8c12-4fd8a1b7023d	077102c2-9dbf-4515-8531-3878461c68b0	
+1351707965	Sonic Maze	Animations		484c3f28-03cf-4bcf-9640-31648a30ec50	197c7215-3bb2-4402-b4ec-a6a930d9a025	
+1351631843	Han som tuggar med öppen mun dör	Slagsmålsklubben		34de1fe6-9a33-4708-8f96-cfdffd672e76	3869dbb7-da0c-455f-ad74-332a9d35d016	
+1351611828	Atom Heart Mother: Father's Shout - Breast Milky - Mother Fore - Funky Dung - Mind Your Throats Please - Remergence	Pink Floyd			83d91898-7763-47d7-b03b-b92132375c47	
+1351544588	Ran Kan Kan	Tito Puente		a355a837-5ef6-422f-a544-a5e1b5386fbf	07b4fd25-647e-4ec5-98df-20367e13cd29	
+1351463421	Tubular Bells	California Guitar Trio		76f881ad-83eb-4ebc-96bd-c1ac49c03b3e	9cf33209-55f0-4f75-bd9c-30623db33b16	
+1351202217	Areas of the Brain	Tweaker		22612ddb-59da-4709-9381-457c3143c866	bbcf65ec-b49a-4612-a767-c1062fba84f8	
+1351088425	Holdin' On - Skrillex & Nero Remix	MONSTA			c06fac23-d006-4d48-8341-ccb3b861026e	
+1350398944	The Base	Paul Banks			57db9752-a6dd-444c-9268-6251418cd507	
+1349969828	Kayleigh	Marillion		a88efb71-b989-48a2-b489-51e291e418fc	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1349969414	Market Square Heroes (Battle Priest version)	Marillion		5a0b0997-7011-44da-a896-09fa7b45d4fd	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1349798495	Oye Como Va	Tito Puente		ee557b41-9710-4513-be31-fa361c59120a	07b4fd25-647e-4ec5-98df-20367e13cd29	
+1349798179	Ran Kan Kan	Tito Puente & His Conjunto/Orchestra				
+1349794451	Thunder	Stanley Clarke			5ab6ca23-9e17-43f2-ad92-869d28bdbf11	
+1349793929	School Days	Stanley Clarke		77fdaf62-6c30-4bd7-beee-a845869b8ab7	5ab6ca23-9e17-43f2-ad92-869d28bdbf11	
+1349792049	Sons of the Sunless Sky	Pathosray		8a300e78-d634-402e-86bc-a15a91b8f8f2	35b96405-db28-4363-b791-8afae97954be	
+1349365939	Panic Station	Muse		ef6bbd33-a3a6-479a-ab93-7d0f4510431a	1695c115-bf3f-4014-9966-2b0c50179193	
+1349243976	Transitions	El Ten Eleven		7d97a1ef-5e8c-49ce-b28b-6199edef7c1f	6c99afec-a207-4519-9d39-616880b6177b	
+1348864228	Mama Said Knock You Out	Street Sweeper Social Club		9ae4e4bd-88ec-4262-a1c6-37a8d248f1c6	fdde76e2-6450-4fab-8b6a-64ab21f1d8fe	
+1348857349	Thousand Island Park	Mahavishnu Orchestra		a12daa62-5168-4e80-aa6d-555a60d3acc8	a2be74f5-0735-46f7-a295-7e41aab30029	
+1348780112	Medieval Overture	Return to Forever		29f8a0b2-7881-41df-8aad-98cf92197189	5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36	
+1348777872	The Ghost	Efterklang		7111e56b-648b-4323-b66a-7e96323c11b7	8a7bed97-f080-4984-8db5-2ea5c82d8b33	
+1348731609	Song to the Pharoah Kings	Return to Forever		037b7ecc-1e48-445c-aae4-d782b3dbe661	5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36	
+1348730836	Smoke	Medeski, Martin and Wood				
+1348728662	Duel of the Jester and the Tyrant, Parts I & II	Return to Forever		7d3d3366-68dc-4152-84a4-22c6326bdfbf	5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36	
+1348726605	Still Loving You	Alex Skolnick Trio		c23c345a-1334-42bd-9bcb-dd8e6fd876a6	07ec9525-b53e-4eef-8f65-b6f45bdc62e1	
+1348725025	Miles Beyond	Mahavishnu Orchestra		edc0ee6c-65cb-49a9-904c-46d10a76ad29	a2be74f5-0735-46f7-a295-7e41aab30029	
+1348151776	Port Of Harlem Blues	Port Of Harlem Jazzmen		892890cf-79fb-4797-bcde-a0c92b389673	02ead6df-e83f-4f77-8d99-ee4560f103e1	
+1348123489	The Queen Is Dead	The Smiths		7c181b33-a4b3-4f0e-9a35-162a60ff8bf9	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	
+1348122515	Masters of War (feat. Mike McCready)	Eddie Vedder			1a60d6dd-9d3e-40fc-a66d-3184f9ee0d61	
+1348121553	Handsome Devil	The Smiths		1fb7125d-47fa-48cd-bb28-a98c15ae6170	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	
+1347988085	Fraccions	Soen		660c6128-e3b7-447f-8033-568ee41287f8	7a42f70d-7c01-46d2-bd88-738967a631f0	
+1347896605	Two Fingers (Instrumental)	Two Fingers		ebd9b4a6-164d-4ab7-96c5-796c9467b698	89d21333-d040-4602-9dac-b565651f5a92	
+1347774602	Hey Man, Nice Shot	Filter		c18b75ab-03ff-4c53-a95f-1f569c11bdf8	6ae51665-8261-4ae5-883f-1899651ad31b	
+1347773180	Stop	Pink Floyd		8082237a-d811-4692-b067-f0253e66b8ab	83d91898-7763-47d7-b03b-b92132375c47	
+1347772454	Vera Cruz	Santana			1bc6816a-d056-4113-9b0a-6c52e5c31a3c	
+1347394996	Caesar Enters the Palace of Doom	The Grand Astoria		dc5cd93d-0d78-4d7a-b430-def9d4b6bd1b	9988415f-3c5a-422b-8e6c-1091b22ec97f	
+1347165616	Eight Sum	Amon Tobin		b117dc0d-de9e-480f-98a6-b4b72bfee1a5	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1346362995	I Love It (feat. Charli XCX)	Icona Pop			c5f259d0-abd8-418e-81ee-3965fd4e4e9a	
+1345837086	Señor Sereno	Orchestra Harlow		180640bf-fce8-451e-b786-e66b20491d14	20d92853-affd-417a-8122-7ad7312a4ab2	
+1345577146	Don't Be a Slave to No Computer	Minotaur Shock		597dddcc-fc51-4970-8bc5-198b36accd57	68efbbef-3e2d-488b-ad0f-ca9b7e4f0d46	
+1345559405	Janet	Minotaur Shock		3f95855c-45df-42fb-9f85-681f85ba1cd6	68efbbef-3e2d-488b-ad0f-ca9b7e4f0d46	
+1345240812	Jews Caboose	Traffic Sound		2e2b14b9-ec14-4b47-b7d7-0582ad35cf51	239ce544-9cae-4b23-abef-231c909b8131	
+1345239843	Virgin	Traffic Sound		d57157d0-db45-4668-8d1e-1e0048a60dad	239ce544-9cae-4b23-abef-231c909b8131	
+1344633714	Che Che Cole	Antibalas Afrobeat Orchestra				
+1344627880	When We Emerged	Samothrace			d7438341-7165-494e-9ed8-25b5330c2da7	
+1343886307	The Last Drop	Serpentina Satélite		c5404d0a-d03e-470d-a858-07ed928ad14e	227eca57-5c34-4997-a202-83a4125d36be	
+1343882376	Amelia	Cocteau Twins		3e8debd0-1342-4d2f-ac53-2976e9426ddc	000fc734-b7e1-4a01-92d1-f544261b43f5	
+1343880676	The Cardinal Sin	Dead Can Dance		1b326e4a-6812-4f9e-a593-2e6c736c8e8c	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1343771192	Potters Field	Anthrax		8ac42787-a209-492f-81bf-3e34cb0f08f7	315126eb-86bc-475c-a308-b8edfdd6c08c	
+1343771117	Room For One More	Anthrax		a8c9b575-f310-4aa4-97a6-116614d60ab5	315126eb-86bc-475c-a308-b8edfdd6c08c	
+1343505882	Return of the She-King	Dead Can Dance		ba81c91d-ff13-4513-aa94-f928c57205d5	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1343503374	Children of the Sun	Dead Can Dance		06e54294-d8a7-4a50-ab8d-9a881fee1b3b	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1343320480	The Sinister Minister	Béla Fleck and the Flecktones		5f2a05dc-3e70-4033-9887-582eaa2d44f6	5143fb36-d09d-4439-bc70-ab4ca8dc27d2	
+1343194545	Derezzed	Daft Punk		f0142aa4-593e-46cb-916f-bf9c3868def2	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1343176983	The Dark Keys	Branford Marsalis Trio		ddf41c09-69cf-47a4-98fb-18b91a611fdf	0c24bd24-630a-42f6-81b1-c0d4e0879b47	
+1342458439	Oolong Oolong	Ozric Tentacles		8d6269ec-c3b7-4ac4-86cc-0417c240b5cd	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1342455996	Once	OSI		19d96c07-dcca-4d2b-b5fc-337af53d6395	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1342453909	Self Control	Division By Zero		d957c354-8165-4eca-a8ed-e2e41610f48f	37979421-20f3-4230-b94d-2a824d701a1e	
+1342451779	The Escape Artist	OSI		2fd5e774-e437-4e78-a898-59a1793a5bc5	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1342451551	The Time I Was Daydreaming	Riverside		41d3ba08-a251-44a6-a669-9fb3646c0e5e	077102c2-9dbf-4515-8531-3878461c68b0	
+1342450715	...and Weak II	Indukti		60e8b892-6a91-473a-9cf2-53766522e8f5	216de703-21b9-4396-a01f-7927a754c4a7	
+1342214924	Hangfunk	Dante Bucci		07ca2074-f480-4171-acf3-d1dd34bab1de	0c70e20a-5b84-4b89-aecb-b8e10da45ab5	
+1342112865	The Memory Of Nothing	Time's Forgotten		a715a518-dc21-48cb-a419-eb65cdf1b219	09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1342112191	Louder Than The Sun	Time's Forgotten		d2bd6afc-527a-497b-938d-0adff7766208	09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1342112129	Disconnected	Time's Forgotten		128d089b-ea10-43c2-8123-845de5bd47b9	09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1342112097	Burn My Eyes	Time's Forgotten		5b3e42ef-2d46-42e0-a6a0-f641be6895bc	09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1342018276	Temple Of Love - 1992	The Sisters of Mercy			553d8166-27b0-49fe-b8e4-89a984e2c375	
+1341608365	This Troubled Heart of Mine (part 1)	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341588584	The Tale Of The Sun And The Moon (Dandelion)	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341587483	Indifferent	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341586729	8:03pm (these streets)	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341584844	Walking Towards the Sun	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341584691	Of Raindrops And Windowpanes	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1341583532	Halo Of Ashes	Screaming Trees		5a41d71b-9052-4977-a66a-f3f78f51834b	bc5e6e42-73ba-44fa-a41e-3379402f0429	
+1341504397	TNT	Sister Machine Gun		4308caae-cb24-4499-8d9c-070a8d4a7242	22f7d404-3d61-4b39-a7ce-1a123d0ea934	
+1341248580	Hearts on Fire	Hammerfall		2c54a172-8a45-4e1c-92f7-3c8187025194	abf5f674-dbad-4219-b3ad-dbd6fb163c8e	
+1340743195	Who	David Byrne & St. Vincent		67eb3567-c7f7-48ce-a179-ed98276578f5		
+1340600797	Sound Chaser	Yes		45dbec48-6348-418b-85f2-9416553f02c2	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1340519663	Sonido Amazónico	Los Mirlos		8af66260-941e-4361-9c5f-03be0982e353	967775fc-8997-47ed-8c2e-55a0eb59bfae	
+1340400543	Pepper	Butthole Surfers		1600925c-db3f-4244-8359-7a542ad8363c	2339bc21-aa92-4850-86f0-4bb9433910c8	
+1340398173	Shadow of the Season	Screaming Trees		248c1f55-1207-48df-a3fd-1b63e2af46d9	bc5e6e42-73ba-44fa-a41e-3379402f0429	
+1340382659	My Machine (feat. Tom Morello)	Queen V			b9de990e-2ece-42dd-827c-30c4ca4a99a4	
+1340380841	How I Could Just Kill a Man	Rage Against the Machine		b73c007a-4235-4e6c-9818-326b5f99f85a	3798b104-01cb-484c-a3b0-56adc6399b80	
+1340376630	Gold In These Hills	Brandon Michael Kinder				
+1340313505	ProzaKc Blues	King Crimson		0599ecdf-ebe4-4825-bb78-ef7c69df2138	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1340307094	Victorious Cupid	Pure Reason Revolution		1b5bf9b9-874e-4204-a4e9-c89cba54f3f3	f443a331-2623-4d50-8797-bfb204850253	
+1340298831	Rosetta Stoned	Tool		5e0dabb8-19aa-4693-99c2-9dd81d6bf403	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1340296288	Lateralus	Tool		81ba5b73-a0d7-4912-9fec-7c7013538576	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1340295297	Parabola	Tool		016d9643-722e-4283-85ed-2844038dc537	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1340295108	Parabol	Tool		06c5531f-00d7-4886-a735-b6161f49627c	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1340294898	The Grudge	Tool		04c688ab-025a-4785-af6a-d2cca6a9110c	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1340291656	Bilar	Ratatat		401f1ffb-8413-4b1c-940b-6921ec2f40dd	f467181e-d5e0-4285-b47e-e853dcc89ee7	
+1340289267	Quasar	The Smashing Pumpkins		d0c71ed5-d6ab-4f5a-a482-b08c3f177982	2b42ec56-6785-4ed8-b3cb-190f750111bb	
+1340221106	The Celestials	The Smashing Pumpkins		d1fea859-d433-43c3-b99b-c7d82ef70f13	2b42ec56-6785-4ed8-b3cb-190f750111bb	
+1340037140	Thunderbolt	Björk		64f750e0-0c63-4e76-8493-fdf9e3e99e01	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	
+1340036878	Laughing and fallin'	Los Conchas Negras				
+1340036784	Carmencita	Los Conchas Negras				
+1340033456	Sinnerman	Los Conchas Negras				
+1340032894	picture yourself	Los Conchas Negras				
+1339690306	El Cargo - The Qemists Remix	Amon Tobin			630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1339524529	Summit - feat. Ellie Goulding	Skrillex			ae002c5d-aac6-490b-a39a-30aa9e2edf2b	
+1339512340	White Noise / Red Meat (Radio Edit)	Dada Life		f3df00ca-450b-4140-9239-e3b14f07d0ab	5b3cc848-942f-4363-8e89-b63a13c3fd0e	
+1339511593	Youth Without Youth	Metric		289b5cfc-34a1-4077-99fd-5f51c0983aa0	4449ccf6-c948-4d33-aa97-b6ad98ce4b5b	
+1339442891	The Devil's Den	Skrillex			ae002c5d-aac6-490b-a39a-30aa9e2edf2b	
+1339440395	Breakn' a Sweat	Skrillex			ae002c5d-aac6-490b-a39a-30aa9e2edf2b	
+1339440377	J'aime pas l'art	Data		69bb335f-df96-4807-8a43-1343a4b881ea	16a332eb-7bb8-49eb-a7d3-c321ad8717ee	
+1338676817	Some Chords	deadmau5		40fe10e3-98f7-46bd-8f8d-d5a2a895a75b	316f2aab-3477-4c62-bb08-eb04dcdcc18f	
+1335476883	Senegal Fast Food	Amadou & Mariam		0e833b18-160c-41e7-b46d-a141af084b21	1fb60b6c-0f4d-42b4-8a5e-de705ec76660	
+1335339094	Unison (Mikkas Remix)	Porter Robinson		e577d9ec-2bdc-4c34-93d7-439b12efc68f	4ae36ade-1798-48c4-b06b-cc68b7d3d83f	
+1335338959	Mordez Moi	Feed Me		598a1951-ce74-4432-aba1-8ee1ad80dff1	c8eec78b-f3c5-4d59-a010-e709f7be4508	
+1335305851	Take Me Out	Franz Ferdinand		2f5f5cad-f018-4cbf-8254-21d90e05ae1b	aa7a2827-f74b-473c-bd79-03d065835cf7	
+1335300512	Howlin' for You	The Black Keys		d04c11b5-0f7f-4ee2-aa22-a08bc2cb1093	d15721d8-56b4-453d-b506-fc915b14cba2	
+1335300293	Search And Destroy	Red Hot Chili Peppers		e9d51685-2a39-4fa4-b7e4-9bef9154ecda	8bfac288-ccc5-448d-9573-c33ea2aa5c30	
+1335294649	Sixteen Saltines	Jack White		e27829e8-8a95-4dd4-b22d-5d9eecd31937	0d59d6a4-994a-4436-a7e6-1684057d9bb1	
+1335285764	Los Ojos de la Mora	Irfan		18030e7e-577f-490a-bcf8-0e1c03336d03	47dcd369-e489-4e11-b53f-3b2d38137fef	
+1335285502	Fei	Irfan		397b4117-aee0-4ed7-88b0-da1d7ff43d6e	47dcd369-e489-4e11-b53f-3b2d38137fef	
+1335284284	Simurgh	Irfan		b1f4fe45-21cb-450d-8f54-90b4038a4541	47dcd369-e489-4e11-b53f-3b2d38137fef	
+1335054012	The Prowl	Dan Auerbach		06db1d19-bc2c-460f-bbd3-61dae34b43ec	fa4f4b89-3ddc-4e97-88fa-0e30121f986a	
+1335051143	Night Dreamer	Wayne Shorter		19678f5d-c6e9-437a-8971-b7cae0eab758	2379937f-6e0d-46a2-b8ff-633fafd72002	
+1335050705	Whatever Happened To My Rock 'N' Roll (Punk Song)	Black Rebel Motorcycle Club		8b57020f-b7ff-4c39-bf97-78d2d99df09e	32b90c92-9978-4a07-90eb-caa4b22f4907	
+1334869571	Ain't No Easy Way	Black Rebel Motorcycle Club			32b90c92-9978-4a07-90eb-caa4b22f4907	
+1334846750	Waking Up to Hand Grenades	The Brian Jonestown Massacre		bbb83b88-d245-45aa-9688-f560c23a40ae	381e8434-109a-439c-8acc-5d328359f2e0	
+1334844150	Panic In Babylon	The Brian Jonestown Massacre		06c48e8d-98b3-473e-87e1-712bf991b81f	381e8434-109a-439c-8acc-5d328359f2e0	
+1334729189	La route	Minimum Vital		4dcfa962-0e2e-4a77-b092-1e68c0b6ff6f	4f68fd86-a313-4641-9ac3-804500458260	
+1334717652	Le chant de Gauthier	Minimum Vital		db696eaf-b735-4362-b7be-91e49f13898a	4f68fd86-a313-4641-9ac3-804500458260	
+1334675419	Sold To The Highest Bidder	The Electric Prunes		0574e938-4af2-49fd-a41e-5bc24f98051b	8cb8b329-e152-4394-80d0-6aab033ec16c	
+1334671924	Make Me Sway	echolyn		a85c92cd-e61e-482a-95f6-1bf019f39db9	2407d0c3-884e-4f01-ad00-11ca97469189	
+1334536093	Better Git It in Your Soul	Charles Mingus		3963b358-ea74-461a-884b-6e506c03449c	447a0588-f20c-4e87-a377-60dba9a6e0c6	
+1334423391	The Way It Was	Wolfgang Gartner		dc8a4f29-b2cf-4069-87e5-449c9059196f	fc3f7bc9-8ced-48e3-8d6d-66384e9e01dc	
+1334367553	Back In Black	Fisk			232dc4a8-d625-4d7c-b841-ca8bc1f05b90	
+1334348047	Death In The Streets	Fisk			232dc4a8-d625-4d7c-b841-ca8bc1f05b90	
+1334347942	Punk Handshake	Sao Paulo Punks				
+1334091998	Top Yourself - Bluegrass Version	The Raconteurs			be407b02-f3e6-4ed5-9489-f8e5f0ab36dc	
+1334043659	Treat Me Like Your Mother	The Dead Weather		c6a0f42f-ff51-4389-b7cb-f97a335b2491	334bd887-9044-4c38-aebd-4baab851efb4	
+1332304328	Girlfriend(feat.Sexy Sushi)	Näd Mika			1dbe3260-f944-4679-9148-50c454587bb5	
+1332275414	Bizness	tUnE-yArDs		2d122261-f520-48e9-b6a9-c385a34480ce	fac3ff34-6ba4-425a-8f01-b181ef4a908a	
+1332256996	No Church in the Wild	The Throne			d1a1547d-6406-4f06-a520-b9af80c168a0	
+1331839726	On Fire	Spiritualized		03c7699e-553c-4ce1-832d-2765fafc94bd	1b37dcf1-0ae1-4e62-8994-5b6e2d98b6cc	
+1331328436	Deja Vu	Fareed Haque		0bca0a42-bfa5-449b-8934-313143adc369	2f5c1676-7236-4191-9524-856a67794bbe	
+1331324889	Cookies	Keller Williams		991f3c7a-4ec9-4e07-964a-058105c98cab	536a68e9-049b-4d9f-a0d1-2630c92acc4b	
+1331242687	Sagan om den Irländska Älgen - Overtyr	Isildurs Bane			af127443-e1c4-4ed1-a608-3991e194d07e	
+1331073230	14 Ghosts II	Nine Inch Nails		0339f547-4660-4ef7-a9a9-c61205b43c2f	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1331057628	Sin	Nine Inch Nails		91612571-eaf0-4599-a9d2-84f4d3218e8d	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1331018776	Magnetic Fields, Part 2	Jean Michel Jarre		5c28ef9a-7aab-4aa5-85de-5ae8548ca86d	86e2e2ad-6d1b-44fd-9463-b6683718a1cc	
+1329150454	Kaiowas	Sepultura		76824179-e333-41cb-9055-a5edcdb1010f	1d93c839-22e7-4f76-ad84-d27039efc048	
+1329109437	We Who Are Not as Others	Sepultura		2ab4a7f4-1472-4089-bf3f-8988653a9130	1d93c839-22e7-4f76-ad84-d27039efc048	
+1328544318	Ave maris stella	Rolf Lislevand			e4f4eab7-e864-4838-9908-8ccd37c9ce35	
+1328219328	Come on in My Kitchen	Taj Mahal		367985b3-741a-40ea-bcfa-fc830f1f6cee	31c3d2e1-da2c-455c-9319-1bdcc22741a7	
+1327341193	Home Again	Michael Kiwanuka		5fda3026-beb8-4e0c-87f9-00596baaa69c	11f570ff-44d9-4e9c-8812-e6d56103c5c1	
+1327268202	Avenida Revolucion	Chickenfoot		88db4f27-36af-475d-aa49-614fbd3cbc0c	28830d2c-95d7-492c-82d3-7d1240bb1c6b	
+1325114319	Modus Operand Hermetik	Hidria Spacefolk		6445f08b-0525-47f5-b2e4-81318e6be048	10cb71af-9838-4401-8288-b5e14448bf5f	
+1325084455	Enter Sandman	Metallica		0d3dc069-4de2-4c87-a775-89d16b960043	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1324621248	Imperio de Cristal	Flor de Loto			b42a1066-a303-421e-a0e8-316db542b3f4	
+1323960348	Skate or Die	Sideview			68efa8dc-eeb6-425c-8ce9-d9f63855c4a7	
+1323934632	Nobody Knows Anything	Anthrax		2e0d6cc5-71b4-4dd8-b2b0-f2dc95c4d633	315126eb-86bc-475c-a308-b8edfdd6c08c	
+1323664399	4h30	Danger		14101067-9bdc-4da3-831c-828066197488	30be9fa6-ef7e-4987-8cd6-e461a701be50	
+1323642057	Get Your Snack On	Amon Tobin		24730e8e-986e-425d-ad41-4e3ad9056b88	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1323462631	Mechanical Universe	Instant Suppression		1e49e5c7-7531-4e4b-8855-752b3599566a	b085a871-2408-4c07-a394-443545b14752	
+1323453488	The Love That Cannot Be	Dead Can Dance		112c56d2-ba7a-48fc-b9d8-5a0139cc7c4a	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1323195936	Morseca: Di Perra Mora (Guerrero)	La Capella Reial De Catalunya, Hespèrion XXI, Jordi Savall				
+1323195926	Fly Me To The Moon [The Frank Sinatra Collection] [1966 Live At The Sands Album Version]	Frank Sinatra			197450cd-0124-4164-b723-3c22dd16494d	
+1323195917	When Trust Becomes Sound	The Gathering		e44e1b73-9750-4712-a1c3-f57ae2a84f5a	004e5eed-e267-46ea-b504-54526f1f377d	
+1322768312	Six Degrees of Inner Turbulence: VII. About to Crash (Reprise)	Dream Theater		02a6d635-deef-4c15-a18c-2e3605b3d3fd	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322762560	Scarred	Dream Theater		0e7b5822-461e-46e0-9c15-3027ee277939	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322755004	A Change of Seasons	Dream Theater		183dde22-04e3-48b0-a3f3-06903e1df047	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322672933	Under a Glass Moon	Dream Theater		0d8cb197-458c-4244-a847-fe00a8d81e74	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322672477	Metropolis, Part I: The Miracle and the Sleeper	Dream Theater		10eeaf1c-aa56-4d08-a092-97eb8b0696e7	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322672287	Another Day	Dream Theater		63f03bc9-f882-4b3f-b045-67b6e9e8f185	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1322670580	Lines in the Sand	Dream Theater		71949792-b405-44a9-8946-46c4ca88479a	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1318484181	Pull Me Under	Dream Theater		2100f970-de29-4ba0-814c-4bee24df572a	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1318052253	Dominion / Mother Russia [Medley]	The Sisters of Mercy			553d8166-27b0-49fe-b8e4-89a984e2c375	
+1318052247	Hong Kong Garden	Siouxsie and the Banshees		58f7dd0a-bacd-4c9f-b4ab-00671ea73214	78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2	
+1318052244	Black Betty	Ministry			13df2a46-f72f-40e7-aa63-26fcf62c7048	
+1318019453	Dominion / Mother Russia - Medley	The Sisters of Mercy			553d8166-27b0-49fe-b8e4-89a984e2c375	
+1318019427	This Corrosion	The Sisters of Mercy		32d6e064-393f-4d2e-b2e0-72282c76cccb	553d8166-27b0-49fe-b8e4-89a984e2c375	
+1317314680	Quantumleaper	Scar Symmetry		7f199474-fa95-48dd-8b6b-69d921d82244	b9a20306-a4f5-4d3c-8680-e9cdc7e3af5b	
+1317156826	Genesis	Justice		d47f27a5-7756-4ee6-b41b-cdd8cabdbf38	31a88d29-827e-4c67-ad46-e47fab0de3c1	
+1317010973	Since We've Been Wrong	The Mars Volta		06bba2fb-8a52-41eb-8195-7cb5e7a782b2	20883363-1ea4-4d72-ad72-c0e767038f3e	
+1316927315	Superheavy	SuperHeavy		beb2c401-13b0-4361-8817-0ec81244c170	7c891f6b-1abd-4b35-bb48-b163bdbf9c0e	
+1316927290	Mahiya	SuperHeavy		6d345815-2db8-4c33-95c6-219e61f72770	7c891f6b-1abd-4b35-bb48-b163bdbf9c0e	
+1316713790	Déjate Algo	Molotov			4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1316713547	Yo Fo	Molotov		af870562-aadd-431c-8069-2e6412a9e40b	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1316617986	Hasta La Basura Se Separa	Molotov		a6102409-cf47-4bcb-8f37-b9892f280427	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1316617983	Yofo	Molotov		e2db1a25-feb8-4b0d-9cab-2580193c3f2e	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1316617964	Que No Te Hagas Bobo Jacobo	Molotov			4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1316121678	Clipper	Autechre		37ce7c8d-0fab-42b8-962d-574132b316e9	410c9baf-5469-44f6-9852-826524b80c61	
+1315631715	Abrázame baby	Los York's		d5464b50-f798-4465-992f-cb109f7f3eac	8b6e2f66-a85c-4c47-86a6-1d827a1fce68	
+1315515211	Cuckoo	AFX		1ec554b7-7ce7-4444-ba25-0a4e9f308cb7	87225a21-c925-41cd-852f-be4b052d0824	
+1314215903	Magic	Ladyhawke		69546b55-9fec-443b-a62f-411291d68e58	2e547c75-36c1-49d0-984e-b14498c936f0	
+1314215900	The Revolution	Traffic Sound		9edfcf92-770c-4c51-90ce-b371e1c9ba83	239ce544-9cae-4b23-abef-231c909b8131	
+1314215898	Meshkalina	Traffic Sound		3d227720-8eda-4219-97f9-657f2effdf99	239ce544-9cae-4b23-abef-231c909b8131	
+1314022683	Demolición	Los Saicos		d4fb87fb-bd94-4e19-a8c4-d6e8496f2d82	096e3e94-0faa-41a0-a94e-da54eeac7466	
+1312322616	Street Justice	MSTRKRFT		5855ae24-cbe1-4005-bb3d-cc8a122a332e	69270fb7-a01f-4787-8b31-5670c992e17f	
+1312320873	Rainbow Man	Busy P		27b2303f-53f9-4aef-a7bd-08118df7b37d	03ba9e7e-0452-4f39-bd3d-c29671155122	
+1312320624	Deladeu 2	Yuksek		b940f1fe-e5e0-4185-b4a9-6827b0a50ef1	d6285d95-8ee1-4de2-8ceb-ff90098ab1d1	
+1312305024	Unda	Faun		7ca84c80-e244-4e3c-9bc6-e6abf6fd75a2	0f06b40e-8bb9-4c59-814b-540a801f22d1	
+1311653572	Garden Of Dreams: Attack Of The Monster Briefcase	The Flower Kings		7ace57e3-4345-444f-a7a9-805fe47fe9b1	0a389268-6fd8-4f8c-ab6e-0dba5ecec66b	
+1310849690	Longuita	Inti-Illimani		85c7d9e7-3952-42c8-a41a-d0de9fff90f9	a962cd78-1f5f-4cef-838d-07e2f9d8b02d	
+1310584604	Vandringar i vilsenhet	Änglagård		a7b9ac53-45f6-4ccf-9f7a-a49ca4e98d27	6344d70b-da12-4f93-b7e0-c0be55044c41	
+1310485246	Name of the Game	The Crystal Method		053e4f1b-92a9-4168-8669-56e3f1d39d8b	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1310335065	Monte Adentro	Ry Cooder & Manuel Galbán		922d8b46-c6c4-4fe6-a35e-c5771402319f		
+1309987285	Bring the Boys Back Home	Pink Floyd		5e820a62-f478-4cdc-9bb8-05961744c3cf	83d91898-7763-47d7-b03b-b92132375c47	
+1309987283	A Passage in Time	Dead Can Dance		717b20ba-cd18-4b19-bf25-930f174bf550	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1309987278	In Memoriam	Apocalyptica		09f6dad2-4402-4a83-b02d-4b126ae48e0c	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1309384082	Burn	Nine Inch Nails		d5794bab-4e1e-42aa-95ac-a9f537814548	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1309288354	Haywarikuy	Mino Mele / Gisela Pérez-Ruibal				
+1309124229	Me And You Baby (Picao Y Tostao)	Mongo Santamaria				
+1309027998	Alto Songo	Afro Cuban All Stars				
+1308860198	Monsalvato	Irfan		633544ad-b5a1-419a-b0c3-a3b1570d74b8	47dcd369-e489-4e11-b53f-3b2d38137fef	
+1308849695	Dream Letter	Brendan Perry		04b23352-bd28-47df-9a6d-7e0bd475783c	406fa1ec-0f9f-47ac-b2a3-52eccf987af6	
+1308330055	Ougenweide	Nachtwindheim		a541e5aa-2756-4bb4-b56c-4ba531ea4ae3	93c82e6e-dfdf-42d9-b2c3-453c4ec09a34	
+1308329180	Joglar	Stille Volk		6b3579af-7fa0-46bd-95b2-28857d4dc920	f3569bd0-2acb-41de-9fec-409c067f1abc	
+1308327928	From Here on Out	KMFDM		4da48774-c237-40fa-869c-f572a5508de7	45074d7c-5307-44a8-854f-ae072e1622ae	
+1308322676	Ode To The Sun	dredg		2c6d153c-11d2-4994-ad96-264d8eae24b0	7b2f87f6-db90-464e-a27a-deb4f7219e90	
+1308262307	Maniac	Electrosaga				
+1308260588	Trial By The Archon	Lucifer's Heritage		2f767335-79ea-4914-91de-55c8ce6ee389	1cf2a9a4-ce75-4bff-b545-a788535ca3a5	
+1308258607	Rock, Paper, Scissors	Fukkk Offf		84562db8-b985-49eb-b354-8edf32abb17e	f3e2e3be-175b-4360-ab3c-1486a3c82a3b	
+1308256899	I Want I Want	Digitalism		0650940e-caea-49d3-837b-16c4989bb32f	7b52603c-a84c-4a76-8dc8-899bb4dd9fa7	
+1308239275	Shoot First	The Pineapple Thief		2c8e0f15-60b6-4a33-a19a-e222679e898f	e8f55abb-a6d5-4e5f-81b4-14f9cc320519	
+1308092061	The Night We Called It a Day	Celso Fonseca		bd51a125-64d4-4878-ac64-48dece0faa6f	23383ac8-f635-4981-a755-cbe45c13b351	
+1308062394	distraction	melee beats		c5c056b7-922f-4a47-9c10-1a85b826eb07	c1b82b17-3ba2-4ef5-9b27-6f122e1ba1b5	
+1308061528	Eleven	One of the Unique				
+1308060343	Tonight	Yuksek		10929731-c959-47f5-9660-184974598709	d6285d95-8ee1-4de2-8ceb-ff90098ab1d1	
+1307749583	Tu l'as pas créé tu le vends	Helmut Fritz		78722535-f5d4-4dec-837f-1ca4004da83b	6ea13e9f-5051-46e9-b23e-e5b6a0a5391a	
+1307649882	Release Yourself	Dj Lolo				
+1307642150	Born Again Runner (Lifelike Remix)	The Energies			77b670cc-876f-43da-99b3-c869a80f7250	
+1307639069	New New York	Thomas Bangalter & DJ Falcon				
+1307386889	My Violent Heart, Prevention; Rejection, by Dirty Scarab	Dirty Scarab			ff4dc928-2cfd-47ac-a61f-1ec78279e5d9	
+1307374447	The Creationist	Kerli		5a101fa3-2d5e-4ead-8a5a-86d9351c3a3b	6331db7b-6649-4523-8aec-683d2aedc908	
+1307372457	Saltarno	Ophelia's Dream		44bee9fc-d0c5-4502-9574-cf69dc1fc07b	7b49db0b-e0b6-4f43-9f7b-99232bcd3ba5	
+1307368203	I. Vivace, Grave	Arcangelo Corelli			2f04b61d-188f-44fb-9bc6-d77caa1ac056	
+1307309205	Maw Latin Blues	Nuyorican Soul		cbde9b65-f017-4537-ba29-cc69e2590e17	e5b5b78b-811b-4bfb-a463-116e5f4c3114	
+1307289938	Conversacion	Orlando Cachaito Lopez				
+1307223104	Jazzakuti	Snowboy		166ff85d-e576-4766-b0b4-5b073f088349	2ce25884-6ad1-4c5a-ba47-d8b4b1c050c0	
+1307127338	Steam Machine	Daft Punk		b1dbf8f2-b5e0-4dd1-95c5-e50fcf943a47	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1307118248	Dirty Deeds Done Dirt Cheap	AC/DC		2c637eda-9a11-4726-9d24-7b3bd23e147d	66c662b6-6e2f-4930-8610-912e24c63ed1	
+1307118025	Go Sheep	Gescom		7de5e42b-5382-497a-aaa9-0c7a889f0ba5	edc88ebf-4790-4cb8-8a40-13efda4a00fa	
+1307117455	Go Sumo	Gescom		eb41c4ec-ef2e-4310-8096-12b2883db013	edc88ebf-4790-4cb8-8a40-13efda4a00fa	
+1307070798	Birthright	Anderson Bruford Wakeman Howe		18c34dc3-6ef3-4d54-bf11-6eab012de18b	21561489-8e3b-4010-a681-37d3c481ecad	
+1307068998	Thela Hun Ginjeet	King Crimson		10ceb5cd-f656-4fab-ab91-3e6bb1280212	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1307067897	Arsis	Gordian Knot		12d3fa01-ec60-452e-bb3d-a47a4f6b4296	a8beae63-ebc7-49fe-95c7-676bf02bb434	
+1307067804	Thela Hun Ginjeet	Les Claypool's Frog Brigade				
+1307066856	Who Would You Like To Be?	Jonas Hellborg			5f444cfa-cea9-4221-87c0-3f16057b1add	
+1307065444	For Mom	Buckethead		15496a6e-5dde-472f-9005-c9c45479e19a	b5179744-f217-4455-9d8b-17b8d4fdeb93	
+1306957559	Fragility	Eicca Toppinen		13629de3-fc4b-450c-9da5-a69a84cae0fc	2c9bceb0-c14f-4460-af0e-ca387470181c	
+1306955257	Cherry Cola	Eagles of Death Metal		09400f57-e769-4786-90e2-564f77082b0c	de11b037-d880-40e0-8901-0397c768c457	
+1306937171	Rumba Mama	Weather Report		13ae4c14-63b1-4934-9736-f4c19958c2b7	0f9997bd-e079-429e-8ccd-9378c9b0c746	
+1306936889	Get Out of My Way	Joe Torres		5863d1e2-4219-407a-988d-3ec8efe2183d	31eaf6cc-54cf-49f2-91b3-cd27e259d91a	
+1306934668	Blue Bossa	Joe Henderson		2aab10ef-8dee-4be1-af7a-6e1c48f7cb1d	9a914acb-d5ab-442b-ae0b-aa574b70345d	
+1306862227	Filii Neidhardi	Corvus Corax		10e79f68-8364-43b3-a043-17cbd6f56f39	00e6f00b-2a25-4f97-966a-24c19c465d8a	
+1306861560	Where You Are	Deine Lakaien		336d7a31-aad5-4673-8d1d-0f7287008d6c	28078a34-2f82-42e0-b68e-98ee5f814fc5	
+1306861245	Am Morgen Fruo (remix by Bruno Kramm)	Qntal		99e2ab5b-1ed4-4bcb-b1f4-f1dfde9b2955	b3769cde-a39d-444b-a938-95c5fade0de8	
+1306802175	Vamonos Pa'l Monte	Eddie Palmieri		37bad7e6-b464-4c22-b757-2c9a85865f48	0a5e5ce1-2561-4c40-843d-19b3ab5b7253	
+1306801317	Baila Suave	Soneros De Verdad		af2a0b17-b3e4-4685-963f-0af41efac148	db25da28-c64f-494f-b96a-ec578bce9aeb	
+1306800573	Armando's Rhumba	Chick Corea		01f7ac48-f925-454e-935f-5a92cba1aaa4	8446fcca-109e-4c6d-a2ff-5a269b32b4c2	
+1306799484	Poinciana	Ahmad Jamal		70056a90-be88-464e-b1a8-546a40b8d764	cf816800-4e0e-4d80-9cca-50a725e93787	
+1306797645	Like Sonny	Hilton Ruiz		7688c067-a792-4cf1-b7ce-4509a003fde1	857cd2b4-e1f6-4025-96d2-0015777245c9	
+1306690932	Return	Deine Lakaien		4d9f464d-0500-4634-83af-f22498a0b057	28078a34-2f82-42e0-b68e-98ee5f814fc5	
+1306625552	Gunman	Them Crooked Vultures		3f08c8f7-9ee9-4ad1-9749-bf52a0bd8e07	4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d	
+1305918170	Southbound Pachyderm	Primus		6f58ea0f-1933-414c-a7b6-9876893fae3e	4537e316-c2d8-430c-a663-f1f3d3432e02	
+1305908145	The Oath	Street Sweeper Social Club		006c9890-b5b6-4262-a3cf-8cb1cab67dad	fdde76e2-6450-4fab-8b6a-64ab21f1d8fe	
+1305902760	Clap for the Killers	Street Sweeper Social Club		38b93c88-4709-4a08-ba85-dea18c7b1826	fdde76e2-6450-4fab-8b6a-64ab21f1d8fe	
+1305835229	Kid A	Radiohead		22b7a492-9c6f-4631-b617-944544076cc9	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1305834869	Hyper-ballad (Radio Edit)	Björk		66bc71ad-c2ce-4186-9049-f0962d81e90f	87c5dedd-371d-4a53-9f7f-80522fb7f3cb	
+1305827303	Echoes	Pink Floyd		93b61be8-8e3c-45ef-9f8c-a59314fdde61	83d91898-7763-47d7-b03b-b92132375c47	
+1305320191	Terrible Lie	Nine Inch Nails		f63c824b-726f-49e7-9e00-c9432ec12003	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1305306598	ABCD	Máirtín De Cógáin				
+1305224814	Everlong	Foo Fighters		faf3057d-6ee5-4859-8c5f-a016e2cafca4	67f66c07-6e61-4026-ade5-7e782fad3a5d	
+1305036239	Era Vulgaris (bonus)	Queens of the Stone Age			246aa41e-8a40-4018-a6d6-8fb646418c25	
+1304609609	Last	Nine Inch Nails		ccb5b74d-8ee4-4828-865e-3aeb131d39af	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1304609605	Epicentre	VNV Nation		05c1a75d-59a9-42ff-80ed-6ea77cebd16a	8385f26a-f374-4a04-9aad-4442ce24db2b	
+1304609602	Forever (Original Club Mix)	Bruderschaft		f910fed5-314c-48c6-9b1e-f323b3eaa133	28e2cb1e-6b65-468d-9217-dec412eaf205	
+1304609599	Stalker (Club Version)	Covenant		08432f27-151d-4267-8120-3d50497cadb7	879a449d-506a-422c-9fb8-8af01d3d04ae	
+1304609140	Murderous	Nitzer Ebb		04d0ad43-3d6a-468a-a3bb-76257beee498	d260c14e-2ef1-4d3d-8739-70d517efac8a	
+1304112930	Once in a Lifetime	Wolfsheim		5f76a597-da0f-4fdc-a65b-7cf413930e06	b9c87d34-e3d3-4b29-bc17-aaa91c7d5a06	
+1303743612	Bad Horsie	Steve Vai		f064744d-8c1d-4637-9281-f9f6f24b5aa4	5e7ccd92-6277-451a-aab9-1efd587c50f3	
+1303572280	Actium	Aphex Twin		0095a07c-0b31-4b6e-a58d-4e39951038d0	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1303401950	Voice	VNV Nation		28c9e7ea-72fd-4e70-9108-6baee47ceb2c	8385f26a-f374-4a04-9aad-4442ce24db2b	
+1303231118	Selig	Helium Vola		c319b4d7-ee65-4b74-9c99-63c98d548944	e0a1ff5e-3737-4569-b0e5-46079545fa20	
+1302981498	Eidolon Alpha	Rishloo		1a3be22f-19f1-4ce8-b05c-58a8e5600a43	9d07f2ed-7bcf-4c60-86cc-0c29654120a0	
+1302896698	Spectral Processor	Androcell		105f5f79-60a2-4180-a3a2-2083c859413e	eb29a721-2e0c-490a-a4c6-73bbb685f13f	
+1302884466	Gwely Mernans	Alarm Will Sound		e97ebdf8-efc5-4341-a3a8-79387116cf98	9c52f2bc-bca9-40ec-9640-2976fdf24236	
+1300393784	Nemesis Voices	Indukti		465cde7b-1124-44c0-8932-3b8348ce660a	216de703-21b9-4396-a01f-7927a754c4a7	
+1300392450	... And Who's the God Now?!	Indukti		b34867a9-a764-450a-b5e7-59377771e79a	216de703-21b9-4396-a01f-7927a754c4a7	
+1300212607	Mouth for War	Pantera		910f87ae-ec18-446e-bd84-be5d1dc8164d	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1300202616	Walk	Pantera		218c932a-ed44-491e-a08a-d4913177989a	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1300202610	3 Libras	A Perfect Circle		2fef2793-bf70-41b4-bddb-713dd5c9b2b9	078a9376-3c04-4280-b7d7-b20e158f345d	
+1300202608	Hurt	Nine Inch Nails		310f737c-aa4d-4218-99b7-8741dcc26b0e	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1300202605	Them Bones	Alice in Chains		76884ede-e918-4916-ba5c-4202f1183555	4bd95eea-b9f6-4d70-a36c-cfea77431553	
+1300202601	I'm Not Jesus (feat. Corey Taylor)	Apocalyptica			788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1300057764	Alberto Balsalm	Aphex Twin		c7fe6d65-5152-4151-9391-1f85104f3f88	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1299872763	Ghostsong	Moonspell		826a948d-3ec0-4f43-8115-5b441420f165	386b19c6-a3d2-414a-bef2-c178572b1cbe	
+1299872317	Photos Of Ghosts	Premiata Forneria Marconi		1583a367-dc1d-4e97-ac90-d49c334f6ee5	85e65d5f-4d9b-407d-b261-882caa52bff3	
+1299737175	Losin' Your Mind	Pride & Glory		7c8b4746-f531-4911-9151-40a612d6acf4	d5bd9aeb-08e8-402c-afaf-9dd0e1a974d2	
+1299623149	Transformer	Gnarls Barkley		2e1c6e79-1a08-4b41-855b-489391c7a124	2c0c0a9e-8b81-46a0-be99-c3f16b047c2b	
+1299623147	Feng Shui	Gnarls Barkley		eb3621d3-b5ac-4484-8cab-e953482586c6	2c0c0a9e-8b81-46a0-be99-c3f16b047c2b	
+1299623143	Gone Daddy Gone	Gnarls Barkley		ae8b77db-822b-443f-bffd-cdcd7a66711c	2c0c0a9e-8b81-46a0-be99-c3f16b047c2b	
+1299623141	Crazy	Gnarls Barkley		3ff45eda-2d5d-4c58-94c8-0fc2c7621d31	2c0c0a9e-8b81-46a0-be99-c3f16b047c2b	
+1299343040	Todo (Feat. El Gordo)	Cultura Londres Proyecto				
+1299342532	Todo	Cultura Londres Feat. El Gordo				
+1299221070	Had Enough	SX-10		18ef0e14-9484-49b4-b9fd-3bae73f153c3	8a6536e5-bbf0-4a28-8b5d-65ad10a61908	
+1299215751	Top o' the Morning to Ya	House of Pain		0fa5fe65-08b6-4d09-86a9-af545cce5dd7	c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95	
+1299215727	Break 'Em Off Some	Cypress Hill		3ab4db3d-f2cf-41e4-9e64-14fef45aa155	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215724	Cock the Hammer	Cypress Hill		a5713532-3b1a-42fd-aaa0-80d4d0c415a9	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215722	3 Lil' Putos	Cypress Hill		949b60cb-178a-46f8-9de8-74894127d655	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215719	A to the K	Cypress Hill		3b7608c9-5f14-407f-9744-c642aaf8a75e	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215717	Lick a Shot	Cypress Hill		406ee036-f36f-47a8-a364-01590b4e25e6	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215711	Hits from the Bong	Cypress Hill		13c6542e-bf57-4919-9b76-37b35add56ac	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215709	(Rock) Superstar	Cypress Hill		1c07ed06-eee8-4d32-8328-fa88213af557	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215707	When The Shit Goes Down	Cypress Hill		814f290d-0255-426a-a76d-8b635a1eef1f	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215691	The Gnome	Pink Floyd		e6e7242d-30f0-4c09-a4f6-9f35f72710c5	83d91898-7763-47d7-b03b-b92132375c47	
+1299215687	Insane in the Brain	Cypress Hill		a688f6a6-4768-4e30-92d3-0a603ed20491	51508c1f-8d07-4a00-9cf1-26c570fe7b78	
+1299215649	Intergalactic	Beastie Boys		1814199f-8c7f-4f52-85c3-b1cfd61c5cea	9beb62b2-88db-4cea-801e-162cd344ee53	
+1298700570	2am	pinkroom				
+1298516782	Torn Apart	Stabbing Westward & Wink		796cc50c-dd1f-4264-a80c-b347b28f7899		
+1298493496	To Fix the Gash In Your Head	A Place to Bury Strangers		8ad37be2-f105-4b58-8c85-493abef73684	99fe4613-84ec-4f48-bb4f-f036880ed2ac	
+1298492547	A Violet Fluid	Nine Inch Nails		2d89ec45-3155-4c45-8a5c-509ed67c8ec0	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1298475005	Kings of the Nordic Twilight (edit)	Luca Turilli		1c31ef40-ff9f-42c3-a35b-ff27df825c1b	e1fa99a5-b761-45ab-b0bd-71cd6f2718d4	
+1298258618	Crazy Train	Ozzy Osbourne		f55dc354-dc4f-402d-9592-c4ca27b70f0f	8aa5b65a-5b3c-4029-92bf-47a544356934	
+1298258327	Peace Among The Ruins	Presto Ballet		f2524047-01de-4600-b9bd-05b9562ff68d	001084d0-2650-4596-91e9-0b3ed7d9e22f	
+1298256339	Quietus	pinkroom				
+1298179159	Wild Side	Mötley Crüe		66541380-b8a2-4898-9773-9bf986faa7b7	26f07661-e115-471d-a930-206f5c89d17c	
+1298176580	Cemetery Gates	Pantera		036c4fe6-403c-4444-9c2f-87452d9c99df	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1298175781	Hallowed Be Thy Name	Iron Maiden		aff31939-8631-4dcc-b79e-b4b363acaa88	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1298175402	N.I.B.	Black Sabbath		0ac6b753-a578-4302-a6e7-0de24e32413e	5182c1d9-c7d2-4dad-afa0-ccfeada921a8	
+1297560311	Let In Hollywood	Karmakanic		d8cd38a4-c5d2-4e7f-a85c-c82b3752b6eb	44d3bc56-3910-4a33-9291-79a6185be41d	
+1297528550	The Manhattan Project	Animations		6aad01bc-0d78-484c-a074-59ea5dd80589	197c7215-3bb2-4402-b4ec-a6a930d9a025	
+1297471212	Blissfull	Kick Bong		fe6c26f5-5829-478f-8a2b-82fbac17eefe	d1f52341-81f2-47b8-9ae0-32134991268f	
+1295890204	Disco Eterno	Soda Stereo		3bdbe67f-c24c-4066-9eb0-9789b8f2a854	3f8a5e5b-c24b-4068-9f1c-afad8829e06b	
+1295890198	Ella Usó Mi Cabeza Como Un Revólver	Soda Stereo		64e9ad11-c017-452a-a07a-2306b40c529c	3f8a5e5b-c24b-4068-9f1c-afad8829e06b	
+1295886408	It Was A Lover And His Lass	Miranda Sex Garden		89f36744-1c7f-4753-8184-df6b9d639b41	ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f	
+1294869852	The Flight Onward - Phases 1-5	Isildurs Bane		8997d7cd-ccf5-45f2-b1aa-4209e13d2f85	af127443-e1c4-4ed1-a608-3991e194d07e	
+1294790004	I vo' bene: Ballata	Ensemble Cantilena Antiqua				
+1293678147	Halo	Porcupine Tree		8eb00994-0309-4675-a587-1f1ccc85c1fd	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1292275846	Out on a Limb	Lunatic Soul		3980ee80-6939-4783-9ee8-6d5b7e973c5b	d228968a-d5e6-447a-80c0-c4fe9d25ef52	
+1292270948	Fight Fire	Pure Reason Revolution		659fa331-b7fa-452a-a303-f40ad9bbafab	f443a331-2623-4d50-8797-bfb204850253	
+1292270946	Black Mourning	Pure Reason Revolution		a3912619-d81c-441e-b66c-f2497b143939	f443a331-2623-4d50-8797-bfb204850253	
+1292270944	Patriarch	Pure Reason Revolution		f0131455-7d0d-404b-a0ff-661f77fa2b88	f443a331-2623-4d50-8797-bfb204850253	
+1292270942	Last Man, Last Round	Pure Reason Revolution		726fcc24-1001-4c24-9bf2-38c003fcfcba	f443a331-2623-4d50-8797-bfb204850253	
+1292270940	Valour	Pure Reason Revolution		ae18b856-2654-4706-9eca-e525c4cbc8d1	f443a331-2623-4d50-8797-bfb204850253	
+1292270937	Blitzkrieg	Pure Reason Revolution		196fe997-db90-41a1-abd4-b1a10de6e2cd	f443a331-2623-4d50-8797-bfb204850253	
+1292270935	Over The Top	Pure Reason Revolution		1a6840c4-030f-4ae4-a8d5-9da5fdcf9e8a	f443a331-2623-4d50-8797-bfb204850253	
+1292270932	Never Divide	Pure Reason Revolution		be4586f7-3bd4-45ba-8207-80d6ea82685b	f443a331-2623-4d50-8797-bfb204850253	
+1291770519	Elephants	Them Crooked Vultures		6d732b93-015d-4e41-b3b4-67d7d7e35294	4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d	
+1291751831	No One Loves Me & Neither Do I	Them Crooked Vultures		39840207-eefb-40fe-a42c-7851bb6751fb	4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d	
+1291750247	Black Ice	John Petrucci & Jordan Rudess		17bed304-92df-44e1-b08c-b77488df76cb		
+1291748317	Dreamlab (Telescopic Dub Mix)	Dub Trees		d8a53211-bb1c-4dc1-a1eb-e562d10eed65	fac24966-fc3e-4221-905a-f8897011bb76	
+1291747529	Glasgow Kiss (Live Album Version)	John Petrucci			556e6577-24b9-49df-944b-242c9c32bf08	
+1291661460	Closure	Opeth		089ded79-6a92-443b-8b9f-43d15ae086fd	c14b4180-dc87-481e-b17a-64e4150f90f6	
+1291574727	Wax and Wire	Loch Lomond		7c0ce1b5-2346-4cc5-889c-901da1f261e0	f89784af-5484-4937-80a1-fa1d9ff001df	
+1291064416	Jordrök	Änglagård		050a9f6e-248c-4818-87cf-285121c3bafe	6344d70b-da12-4f93-b7e0-c0be55044c41	
+1291006678	Heads Will Roll	Yeah Yeah Yeahs		c17e71f5-5cf4-4d3e-9e1c-24119b824292	584c04d2-4acc-491b-8a0a-e63133f4bfc4	
+1290665263	Spring - Allegro	Antonio Vivaldi		08322580-3988-4367-a3e3-a7bd25f89278	ad79836d-9849-44df-8789-180bbc823f3c	
+1290406573	Ninth Symphony: Second Movement (Scherzo)	Wendy Carlos		313c7029-5b14-497f-8ccf-84ff656496c4	008624c8-df6e-4c8a-bcbe-6688554b3ff9	
+1290406410	The Sky Is Fallin'	Queens of the Stone Age			246aa41e-8a40-4018-a6d6-8fb646418c25	
+1290406407	Goodbye Cruel World	Pink Floyd		718f5b03-eec8-495d-a57a-2e621671b7b6	83d91898-7763-47d7-b03b-b92132375c47	
+1290406401	Shallow	Porcupine Tree		0bfb3fed-8856-409f-888c-ce3e7b460f60	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1289547006	Goodbye City Life	Deadsoul Tribe		23814631-e23c-4c7b-8a12-cb2d1019c1d2	c98ca195-b19a-47a2-ab96-667cc21afd8b	
+1289525403	Tongue In Chic	Banco De Gaia		3b206e62-8626-49c4-bbf3-830cb6c147bc	2687dbd4-089f-40df-94c3-f6216458adc2	
+1289518179	Eastern Sunbreak	Perpetual Loop		9b9add07-0b54-4a1b-94ca-e55016ecd75e	0aa63be0-5e31-40e3-8735-1da060590b30	
+1289111053	Cat DNA	Ozric Tentacles		75b1d402-16b6-483c-860b-09997305d8e1	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1289110587	La Espuma De Venus	Héroes Del Silencio		a6578e0e-74e3-48d4-98e0-190415467766	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1288939633	Liege	Para One		62febb69-56f3-48ec-a0bd-4873dca6681a	421c468e-a4bf-4597-b1a0-77092ffb1f0a	
+1288938268	Love Juice (Danger Remix)	SymbolOne		12e500a4-9748-4b03-aa59-bdaf4940b2bc	4e285f6a-0f34-4fa5-8d90-c8ebee122244	
+1288934272	Runaway (Original Mix)	Grum			ec4a9bed-1a6e-4b74-ac3e-53bbcea1bb94	
+1288760991	The Sun Road	Bozzio Levin Stevens		2cf18be0-ad59-4f2e-b4b9-70e06139680b	7f76b176-6f20-4845-85a4-5d616e421734	
+1288677214	Armor and Sword	Rush		cc98ffaa-34ae-49ea-a1f7-3c6288e4a54d	059afdf5-77e8-4e51-90f5-453b623232ec	
+1288677209	The Main Monkey Business	Rush		9374fee3-6646-4086-bd9f-255f9001039e	059afdf5-77e8-4e51-90f5-453b623232ec	
+1288673731	Set the Controls for the Heart of the Sun	Pink Floyd		12f088bc-1b5d-4f5d-82da-549bdaa7a75b	83d91898-7763-47d7-b03b-b92132375c47	
+1288673018	Let There Be More Light	Pink Floyd		040343f5-85e4-45da-aa56-699a91c0998e	83d91898-7763-47d7-b03b-b92132375c47	
+1288642485	The Trial	Pink Floyd		2ed5ec81-cea7-4412-8786-14e388f81b52	83d91898-7763-47d7-b03b-b92132375c47	
+1288641205	Comfortably Numb	Pink Floyd		2e7c919c-cd21-46a8-99a6-aa0c733dabaf	83d91898-7763-47d7-b03b-b92132375c47	
+1288640094	Another Brick in the Wall, Part 3	Pink Floyd		c67397c8-9039-450e-bed4-1b70de5d45ee	83d91898-7763-47d7-b03b-b92132375c47	
+1288638499	Another Brick in the Wall, Part 2	Pink Floyd		e8c9f80d-8268-433e-9859-055f1dbe3b38	83d91898-7763-47d7-b03b-b92132375c47	
+1288625806	The Hero's Return	Pink Floyd		46d1af5e-8b3e-4f66-b348-3e6c58a734dc	83d91898-7763-47d7-b03b-b92132375c47	
+1288592473	What Do You Want From Me	Pink Floyd		064f43e8-d31c-4dad-a8b1-9873d105c8fd	83d91898-7763-47d7-b03b-b92132375c47	
+1288590983	Wish You Were Here	Pink Floyd		c0d30d61-585d-4ec7-bb14-a5ffe35ba59e	83d91898-7763-47d7-b03b-b92132375c47	
+1288590564	Have a Cigar	Pink Floyd		1be43297-c0e6-44ff-915c-0313678cc062	83d91898-7763-47d7-b03b-b92132375c47	
+1288590201	Shine on You Crazy Diamond, Parts I-V	Pink Floyd		31fc57a6-c448-4913-a912-a6000e9ce684	83d91898-7763-47d7-b03b-b92132375c47	
+1288590189	Welcome to the Machine	Pink Floyd		38ed2ab9-e13c-42d5-93ce-c7f26213816d	83d91898-7763-47d7-b03b-b92132375c47	
+1288549717	Duende	Sieges Even		65e7964e-1b20-471c-b1f5-7f3971c0209f	07e37770-5c78-4107-9a8f-ddeece52a007	
+1288549408	Good Morning Little Schoolgirl	The Yardbirds		07219bf3-863a-4892-aa3f-1318a458f387	191de76f-a224-445d-b041-54df16d65bf7	
+1288543628	The Protecting Veil	John Tavener		18c13de0-e470-4cd5-9f19-3db2a4406128	7b0a18b7-2b32-4b26-8db3-3ea39a59e1e6	
+1288541246	Psychosphere	Deadsoul Tribe		03f7d582-9a1b-42f7-9f40-b83483db5435	c98ca195-b19a-47a2-ab96-667cc21afd8b	
+1288504204	Für Alina	Arvo Pärt		a757c092-8972-48dc-8c1b-db5e0c89d452	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1288504049	II Lento e largo - Tranquillissimo	Henryk Górecki				
+1288503081	Ain't Talkin' 'Bout Dub	Apollo 440		41ee7148-e14b-4f3d-996f-ca95dd9d5850	1ff10dff-7ac7-4e53-bc02-d5c3cbd8448b	
+1288475319	Deceiver	Stream of Passion		0bc684ca-b4f9-4e06-81a1-2e8f79ee3faa	ad6f1484-1da9-49c5-b9ab-fa136a7ebea1	
+1288474805	High Moon	Star One		5e7da416-54e1-4748-891c-54b4b25d2b8d	54b62975-f9a0-428a-852c-2b26febb4658	
+1288162223	Symphony No. 3, Op. 36: II. Lento e largo - tranquillissimo	Henryk Górecki				
+1288126331	Greece 2000	Three Drives		6d0e25aa-5960-49ef-987b-327e360047fd	2b159dcd-eb21-4f0d-8181-54da0e116e47	
+1288125309	Lento - Cantabile-Semplice	Henryk Górecki				
+1288122943	Soft Rain	System 7		2d369005-2797-4264-a787-7db0042b20d9	74102466-c9fa-4dbe-a9cd-3afbf0aa0929	
+1288110999	I. Allegro ma non troppo	Ludwig van Beethoven			1f9df192-a621-4f54-8850-2c5373b7eac9	
+1288078854	Bolshem	Ozric Tentacles		0aa11802-a948-484b-b1f3-948f660cc8b1	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1288076201	Te Deum	Arvo Pärt		a41c570e-818b-47de-94d1-57a6118baf6d	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1288071195	Missa Syllabica: Gloria	Arvo Pärt			ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1288042139	Wall Banger	Eat Static		c61560c9-fe11-4d8b-89af-e3094215382e	9cd39202-6c67-400a-b96e-df351c9f9484	
+1288040636	Cantate Domino	Arvo Pärt		177a3a33-1279-4e71-b7d5-317658b5a87e	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1288028896	Bron-Y-Aur Stomp	Led Zeppelin			678d88b2-87b0-403b-b63d-5da7465aecc3	
+1287873768	It's Still Happening (feat. Hamilton Leithauser)	Tweaker			bbcf65ec-b49a-4612-a767-c1062fba84f8	
+1287766586	Delphium	Aphex Twin		008083c0-3a73-4072-a14d-860eaa628f05	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1287545233	Genesis (single version)	VNV Nation		289a39e5-e742-4461-bac7-0ddd5b2d39b0	8385f26a-f374-4a04-9aad-4442ce24db2b	
+1287545080	Electronaut	VNV Nation		64129d80-9af6-4b4e-b5ed-ddabf04cfe85	8385f26a-f374-4a04-9aad-4442ce24db2b	
+1287436068	The Wild Hunt	Therion		ac72e175-fba2-43cd-b7c6-8c8529d60900	c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a	
+1287420327	Rock Balls/destination Unknown	Platypus		16370ca5-f273-42c2-8696-a230dfd04ec0	b79ac6e4-c486-40d7-bf83-432e818fc212	
+1287378844	Standing In Line	Platypus		59cfb516-6d4e-4b74-a263-4b650ba1531a	b79ac6e4-c486-40d7-bf83-432e818fc212	
+1287378841	Platt Opus	Platypus		31435c1f-e58f-40b5-a14b-354d05b7cdd4	b79ac6e4-c486-40d7-bf83-432e818fc212	
+1287351184	Another Life	Iron Maiden		af436d4e-5638-452e-b436-a3a1b931f9cd	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1287351182	The Rise Of Sodom And Gomorrah	Therion		ee56597e-91fa-4afa-b14c-e0c30b974e5a	c6b0db5a-d750-4ed8-9caa-ddcfb75dcb0a	
+1287351182	Peace	Apocalyptica		4f9b419a-adb1-4ed5-8e36-23824de69fa3	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1287351132	Ikoyi Blindness	Fela Kuti		e6a44777-bb00-4d61-86de-0adf396a1887	6514cffa-fbe0-4965-ad88-e998ead8a82a	
+1287297881	Until Dawn (Angels of Light)	Beto Vázquez Infinity		7bffb454-2f21-407a-97f6-c791ae3205a6	fbc256d6-d717-4768-9dfd-ac6dea6d36ed	
+1287294736	Bright Eyes (Acoustic Version)	Blind Guardian		70196a6b-634d-446d-a5f9-bf545b9e4f9b	7fa7fc04-1011-4876-8095-ecd232edea87	
+1286779727	Pièce instrumentale (Live)	Ars Antiqua de Paris			ac7d9296-d714-4843-9998-8dfcce64b5e3	
+1286402848	Soldier's Resolution	Ars Antiqua de Paris			ac7d9296-d714-4843-9998-8dfcce64b5e3	
+1286261895	Face to Face	Yes		4bb873d1-5008-47d6-8ff3-39bfa7e7a173	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286261893	Can I?	Yes		33785bc5-b391-400b-a268-5fd4e2d3dfdd	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286261883	To Be Alive (Hep Yadda)	Yes		3364a333-6ac5-445f-a136-eb111a9679f4	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286261444	If Only You Knew	Yes		47d9d137-0bae-4e8a-b545-99691dbe0d36	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286260812	Lightning Strikes	Yes		310301c1-777b-4844-99e1-316e3fea1238	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286260588	Homeworld (The Ladder)	Yes		94427314-7be0-4e57-9391-d828941191d0	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286260586	It Will Be A Good Day (The River)	Yes		27c26fb8-438c-44d8-bd39-bc464def1d24	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1286175515	Crescent	Brendan Perry		c678b6f3-5db9-4b6f-a2bc-5cbcba86cd45	406fa1ec-0f9f-47ac-b2a3-52eccf987af6	
+1286171398	Voyage of Bran	Brendan Perry		514afef8-3323-4a3f-b87c-4eba6fe568af	406fa1ec-0f9f-47ac-b2a3-52eccf987af6	
+1286171147	Saturday's Child	Brendan Perry		b1f108ca-6e9e-46f9-8cc7-623c73bc647f	406fa1ec-0f9f-47ac-b2a3-52eccf987af6	
+1285967866	Flaming	Pink Floyd		a0230b90-ac23-40cb-90c7-f40fcafc7ecf	83d91898-7763-47d7-b03b-b92132375c47	
+1285967571	Matilda Mother	Pink Floyd		a28f9c6e-2e33-420e-a28d-9aef1728b8b9	83d91898-7763-47d7-b03b-b92132375c47	
+1285776604	Angbands Schmieden	Summoning		2e63b734-d77f-409a-a8e5-74b7d9164244	8363f94f-fd86-41b8-a56b-26eacb34f499	
+1285746363	Karma Police	Radiohead		7a5aff92-a14b-4155-8ede-7f961e06814f	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1285701842	Karma	Kamelot		2f8e863a-deeb-4780-a526-b5aa886d0935	2449300a-6ca7-45da-8102-22789d256475	
+1285700889	Oman	Grido			55fd34f2-638e-4c67-8305-362636d7b8da	
+1285654466	What Difference Does It Make?	The Smiths		efcf9a76-fd1a-41e3-9242-16f0fa6ba69a	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	
+1285603146	Heart-Shaped Box	Nirvana		ba2e1bd3-75db-41a2-a3cb-85f5731622f7	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
+1285567550	Ch'Ai?	Ozric Tentacles		dcd94eb3-317a-4fae-b6d4-a62927d7c6d5	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1285557226	Lake Of Fire	Nirvana		26320b44-7cef-48d4-90be-85614d93402b	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
+1285556799	Plateau	Nirvana		60333825-a2ac-4606-b31d-d2811cca6abe	5b11f4ce-a62d-471e-81fc-a69a8278c7da	
+1285554613	I Stay Away	Alice in Chains		1beb9673-a42b-4d96-88ca-bad238825a07	4bd95eea-b9f6-4d70-a36c-cfea77431553	
+1285484689	How Fortunate the Man With None	Danny Cavanagh		f229663d-779c-483f-aa99-ee5e519825b8	f4709d99-be19-42e4-b92d-99db48ded93f	
+1285481759	Spirit	Persephone		43c6bc82-74c4-4bc6-a8df-c5301c90308b	850cdef2-c0a0-4331-a651-4c54022c5d4a	
+1285475400	In Hollow Halls Beneath the Fells	Summoning		63bfba72-4b29-40e6-b3ed-e6197839a338	8363f94f-fd86-41b8-a56b-26eacb34f499	
+1285339478	Song to the Siren	Tim Buckley		450f0986-445e-4001-9f77-907684d55885	8546949d-f46c-45ab-8391-85b26dda6b65	
+1285313160	Where Hope and Daylight Die	Summoning		1320d4fd-816a-4ca1-8639-e1f7baa14c94	8363f94f-fd86-41b8-a56b-26eacb34f499	
+1285309476	Aconcagua	Los Jaivas		84dbb43e-1072-44e8-8bb6-51e1d1dbc6ab	e3d766c2-aad2-469e-ac94-c90939f4a294	
+1285274127	Leave You Far Behind	Lunatic Calm		9ebd0b46-69c2-4f42-9736-e3aacc3893c8	2393ebdb-c80f-4439-8ddb-9e2f96caaabc	
+1285217639	Black Dog	Led Zeppelin		c1aedb57-1002-4f26-93bd-abb85b03987c	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1285217637	Stairway to Heaven	Led Zeppelin		ccbf4fcc-85d0-4fe1-9e41-04561e5e0549	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1284960786	Of The Girl	Pearl Jam		c5dab94a-f978-4cb7-a4e3-a44bf728132d	83b9cbe7-9857-49e2-ab8e-b57b01038103	
+1284954212	Fear, Part II: The Weapon	Rush			059afdf5-77e8-4e51-90f5-453b623232ec	
+1284568229	Équinoxe, Part 7	Jean Michel Jarre		d0c93385-65ca-41c9-8c88-6b339384ab25	86e2e2ad-6d1b-44fd-9463-b6683718a1cc	
+1284397125	Preparation	Camel		0a3cdf99-cc17-4847-827b-876560f9927a	4b7d4b63-9fc5-443f-a8b2-ca6252135db6	
+1284277847	Hybrid Times	Riverside		08b10571-c286-4880-b73c-34d83045ab2d	077102c2-9dbf-4515-8531-3878461c68b0	
+1284276905	Egoist Hedonist: I. Different? - II. Hedonist Party - III. Straw Man Dance	Riverside		692dfdb3-89c7-40cd-a801-0a5d64854a31	077102c2-9dbf-4515-8531-3878461c68b0	
+1284275074	Hyperactive	Riverside		17efbeda-789c-4f3d-8aeb-b4ec1b33e0c2	077102c2-9dbf-4515-8531-3878461c68b0	
+1284179439	Sophisticated Side Ponytail	Brite Futures		73151faa-bdae-4f66-aaf7-2a649ca683d9	05fca765-a5f4-4d17-b47f-75bffc57457a	
+1284154921	Serpent's Kiss	Symphony X		e037716e-91de-4204-ba84-f680ecec0904	b669c53e-5a1f-4adc-80be-755e64e8115e	
+1284148445	Evolution (the Grand Design)	Symphony X		0673e007-406b-470a-b7b6-1c2cf14f4e69	b669c53e-5a1f-4adc-80be-755e64e8115e	
+1284089414	The Hidden Step	Ozric Tentacles		4f8b8192-1d8c-48d8-a160-dab137f4d29e	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1284087518	Iberia Sumergida	Héroes Del Silencio		1ac6db3c-7626-471e-967b-6c9fba56ba6f	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1284087515	Avalancha	Héroes Del Silencio		6f9ef877-20e5-436a-a1d4-0bc4fbe393eb	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1284087444	La Chispa Adecuada (Bendecida 3)	Héroes Del Silencio		1ad21440-a0ce-4b5a-9c27-1692d4191275	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1284085561	¡rueda, Fortuna!	Héroes Del Silencio		0f0e2d93-f136-46ed-975f-c6ae438f261d	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1283615037	In The Amber Room	Faith and the Muse		aa8751e9-c70e-4af5-a681-c68b3924be5e	f1019a9e-2937-42ea-b2be-291eb1003573	
+1283614401	Sorgsen ton	Garmarna		a9c7f685-0511-4b90-8b51-625de6f96197	a1db6190-4f83-482e-a794-0088b2b4136d	
+1283613681	Bluomenrot	Estampie		62b006af-e275-44f9-a001-4c4723e955d6	b4534df7-18e3-4035-93a5-473b72efc19f	
+1283612472	Suam Elle Ires	Corvus Corax		c3c1cda7-9b0c-42a3-8cb9-e23efafbc2b1	00e6f00b-2a25-4f97-966a-24c19c465d8a	
+1283611708	Miri It Is	Mediæval Bæbes		7e00e3fe-6cd5-42e3-865b-21cf95caffcc	278fe007-ee33-410c-be59-eabb4b87b68f	
+1283610904	Shining Water	Anúna		0ebfcb58-d75c-472b-b322-9a81e208ae8e	a6e8ab8b-3035-4145-b740-0b94aebbe357	
+1282754354	Money	Pink Floyd		532a866b-090c-470b-b9ae-cab6daa23383	83d91898-7763-47d7-b03b-b92132375c47	
+1281891832	A Dream Within a Dream	The Glitch Mob		b85a3f8b-b6c8-41ed-958d-49ab40ff5755	2e62daef-dc0d-40ad-b430-fd6872e992aa	
+1281122129	From Out of Nowhere	Apocalyptica		0241d6e2-67e0-436f-815e-9472cd6ac58e	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1280734149	Rock It	Sub Focus		92b90ac5-d780-4022-9eaf-abfc8c22da17	8cf49f40-b8fe-4a63-b4ea-f922d6145bb4	
+1280533546	The Other Side	Pendulum		b0739c5c-cde0-4528-afd5-10e6f7659c90	2030e776-73b2-4cf8-8c15-813e801f8151	
+1280533230	Take Me Away	Chase & Status		90087976-eb90-4739-98c1-b0bf9125ae86	82e454e2-38ee-4e69-89a6-cc65167753d1	
+1280532964	Join the Dots	Sub Focus		7ebeea01-e534-4c70-b3de-26413615b7db	8cf49f40-b8fe-4a63-b4ea-f922d6145bb4	
+1280532436	Stompbox (Spor Remix)	The Qemists		6a9946ad-d136-45fd-a618-ff0bc465a162	eae38719-96b6-4aa5-8303-5bb08f953c86	
+1280531028	The Immortal	DJ Fresh		3b9eeb5f-dd6b-407e-a374-0acf305a3894	07cfb445-3c53-473f-949e-c60fb1e1b7d7	
+1280337969	Wanderlust	Nightwish		8aba7f89-4133-41b7-bfa8-2f09ecf7eda6	00a9f935-ba93-4fc8-a33a-993abe9c936b	
+1280333285	Over the Hills and Far Away	Nightwish		872dbcb3-7fd3-4358-97e5-4430cfeb7393	00a9f935-ba93-4fc8-a33a-993abe9c936b	
+1280255459	La princesa Dolça de Provença	Trobar de Morte		29e8f622-ed4f-4e0a-88c5-b564eacb0ef5	c2a02eb8-5cab-4f42-83f1-8e3233ac4106	
+1280087525	Reflections	Gordian Knot		54be3685-86e1-4c4d-a73a-972aa24d19f9	a8beae63-ebc7-49fe-95c7-676bf02bb434	
+1279727149	Andromeda Sunrise	Dali's Dilemma		57ec89fc-e403-48ac-8235-adfd12211241	bf2a8568-570f-4cdf-a647-7fb35f899af3	
+1279121910	Celebration Day	Led Zeppelin		575b26a5-fcb0-46ba-95a1-337a4d6e2f9c	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1279121391	Immigrant Song	Led Zeppelin		c4798d1c-828f-4d07-a920-38b01413b312	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1279084551	Schism	Tool		98657023-dbf2-43cc-b15c-4802ccde5476	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1279082687	Jambi	Tool		089fa5f1-7da2-4b73-8a0f-546ecfd72be6	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1279079116	He Knows You Know	Marillion		ec89a534-0994-4592-8a97-da49c74ef74f	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1278959205	Martyr	Soilwork		423ed7ef-19dc-448e-9629-fd90e3b63b60	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1278900615	Another Kind of Blues	Fluke		31da03b5-147f-4b17-8750-63d94d91bbaf	3c3d3ad8-3935-4c00-affb-768563916f36	
+1278361073	1991	Crystal Castles		1bea9fc6-a5b3-4320-9089-31b910dcbc1e	b1570544-93ab-4b2b-8398-131735394202	
+1277832607	Spirit	Dead Can Dance		0369cbe2-49a3-450b-8844-f3d89a5cde96	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1277417087	Yellow Fever	Fela Kuti		3be90df9-c19a-44b9-b186-a4e80c3a9513	6514cffa-fbe0-4965-ad88-e998ead8a82a	
+1277413509	Forgotten Sons	Marillion		3c375c4f-23d8-42e2-901f-e3f97fb732d9	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1277413083	Garden Party	Marillion		0a7f1b44-6de5-44e1-8b5e-20f47e2c4890	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1277411617	Script for a Jester's Tear	Marillion		a60b15f8-2d88-413b-a016-2a56d2c70974	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1277309261	Figure Number Five	Soilwork		a42b7508-29f2-4341-8bb7-da7c8bae32d9	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1277308296	Rejection Role	Soilwork		25d39f35-4e50-4dfe-9ba2-d4a4f5ea511f	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1277308041	Distortion Sleep	Soilwork		3b052af2-7de7-4df0-af7f-93abceba2017	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1276793333	Whole Lotta Love	Led Zeppelin		bfb30fcb-ee6a-4d64-9f92-65fdd76ee5a7	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1276272511	Sine nomine	Estampie		3ce3aeb9-c615-42e7-aa06-a0ba2a9a51e4	b4534df7-18e3-4035-93a5-473b72efc19f	
+1276271745	Alle psallite	Estampie		83382e1a-27bd-49df-8199-f5d4cbda3d22	b4534df7-18e3-4035-93a5-473b72efc19f	
+1276202742	In Power We Entrust the Love Advocated	Dead Can Dance		d74641aa-37dc-4afc-bd3c-51462a410703	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1276141949	Une ombre au tableau	Lazuli		104d0f8c-8a76-45db-94b3-87722f7d5634	3a192d2c-7cdd-41ee-904b-b4d06cf36592	
+1275628090	Falling in Circles	Bozzio Levin Stevens		2441eece-4cfb-4414-bf4e-f7a0d9d1392e	7f76b176-6f20-4845-85a4-5d616e421734	
+1275627047	Duende	Bozzio Levin Stevens		0bcca627-ffa1-4cf7-ac88-f5f96172e72b	7f76b176-6f20-4845-85a4-5d616e421734	
+1274893094	The Way	Amorphis		12d6c232-ab4d-4849-91b6-8755abdce3cd	efaefde1-e09b-4d49-9d8e-b1304d2ece8d	
+1274720665	Yonder Lea	Mediæval Bæbes		ee92b4e4-babb-4593-968c-0acf19b109ea	278fe007-ee33-410c-be59-eabb4b87b68f	
+1274719485	Miracle	Mediæval Bæbes		9cd3f503-f7c5-4d63-9eac-4a9c3a52ce6e	278fe007-ee33-410c-be59-eabb4b87b68f	
+1274149815	Another Brick in the Wall, Part 1	Pink Floyd		219e46d6-e885-4b57-9add-e370042627e7	83d91898-7763-47d7-b03b-b92132375c47	
+1274111115	Minne	Subway To Sally		9d741344-eb0d-4f93-9d5f-229b0b8a691a	5533fa1c-4102-4ae7-92ae-78dddb17fe7f	
+1273857544	Run Like Hell	Pink Floyd		284c1fd7-f418-4bfb-bde2-dc67003c7332	83d91898-7763-47d7-b03b-b92132375c47	
+1273772595	Problem Me	Modwheelmood		0afbe373-b3c9-4102-9123-dec28767c524	5dd561f7-7264-42cb-a3b2-bddeb750eb39	
+1273772263	The Black Halo	Kamelot		236b0220-ab83-453b-871f-e321ba952778	2449300a-6ca7-45da-8102-22789d256475	
+1273696300	Floods	Pantera		44a2b9d3-6979-4aec-a82b-2d30bb01061d	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1273266106	Undertow	Tool		4fabb62e-2d76-4c96-a34f-bc42d60f4b9e	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1273173598	I Can't Dance	Genesis		b02353d2-815f-4bd6-971b-58250354541f	112ea791-90a5-4665-af51-93ce47dc503b	
+1273025453	Facts of Life	King Crimson		05d8eea5-5422-48bf-a125-7e984b179329	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1273024261	Eyes Wide Open	King Crimson		4bdf37fc-9316-4170-98db-da114f5bee28	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1273023137	The Power to Believe I: A Cappella	King Crimson		34a94101-ff58-41cd-91f5-a6f79d34938c	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1273010402	Friendship	Camel		2d7c1742-f9be-4702-9057-b4fbab9c27e4	4b7d4b63-9fc5-443f-a8b2-ca6252135db6	
+1273009738	Rhayader Goes to Town	Camel		a9109283-3ab6-433e-abfe-759fb697059e	4b7d4b63-9fc5-443f-a8b2-ca6252135db6	
+1272998979	Fearless	Pink Floyd		43998b23-acc0-408f-8059-e69b0334970f	83d91898-7763-47d7-b03b-b92132375c47	
+1272860626	Bitches Crystal	Emerson, Lake & Palmer		b871a861-7ccf-478e-bc6f-098798e421e6	ad996aef-cc1c-42ac-af5c-619c370f4b8a	
+1272858139	Travelling Riverside Blues	Led Zeppelin		114ebc17-a872-4ac0-97c9-52e02003979e	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1272857043	Elephant Talk	King Crimson		f02c6aa0-c778-4092-8cb0-4776fb283683	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272854390	People	King Crimson		277ea32d-ede9-44e0-a89f-6ee5aebf673b	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272853443	Lark's Tongues in Aspic, Part II	King Crimson		360a3535-cba9-4b32-a55d-4b7fe5882507	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272850826	One Time	King Crimson		675ad299-e642-4e8b-975a-f5b4e39c2cdd	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272850804	Frame by Frame	King Crimson		541204c9-c022-450b-b90e-93a78b8565de	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272850803	Sex, Sleep, Eat, Drink, Dream	King Crimson		d4b97e5e-72a4-46c8-8dca-50b6e5862891	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272849421	VROOOM	King Crimson		c209e743-6511-4a3d-8c17-6c07826f398d	b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3	
+1272665278	Tour De Force	Covenant		37da7178-7b45-4aa7-8004-8e92715ef06a	879a449d-506a-422c-9fb8-8af01d3d04ae	
+1272603918	Trampled Under Foot	Led Zeppelin		4ec8b1dc-f104-4137-b346-c87092fd5c20	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1272512722	Weak and Powerless (Tilling My Grave mix)	A Perfect Circle		954e5526-3c93-43f4-9d54-7989e4cf4b92	078a9376-3c04-4280-b7d7-b20e158f345d	
+1272502975	Osmosis	Liquid Tension Experiment		cbeb74dc-8244-4fbd-b90a-c2053a020a03	bc641be9-ca36-4c61-9394-5230433f6646	
+1272399283	King Wasp	Add N To (X)		89c0a70b-873f-4c1e-a20c-47fcbedb9e82	8a723345-c62c-45ec-a45e-c1007f2981b4	
+1272311923	Down in a Hole	Alice in Chains		0a8562e8-3c05-4ab4-b578-8553a001d8f3	4bd95eea-b9f6-4d70-a36c-cfea77431553	
+1271885461	Luna de miel	Virus			10cd6fa4-5955-4002-bee7-c6e1a7bff507	
+1271869148	Like Statues in the Garden of Dreaming	Arcana		6a211780-5d9d-4661-8299-808723361707	07e0b2c6-46c4-4475-a858-37fa324083d9	
+1271867200	Nine Voices (Longwalker)	Yes		d62a54ed-986a-4d7e-aade-98281a62ce58	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1271867158	The Drive-bye	Tweaker		83db1b43-dcaa-4995-9a33-e6038b2ad968	bbcf65ec-b49a-4612-a767-c1062fba84f8	
+1271804784	1967 Poem	Junkie XL		5081d3b8-af2b-4d58-a7ae-9d82287fa45e	2620ee21-4535-4bc3-87a0-2a2a602d9a73	
+1271804730	She's My Pusher	The Crystal Method		00ea4948-4d5d-4465-94b6-fe55a3870a96	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1271804727	Cherry Twist	The Crystal Method		04f1839a-24fe-4788-b580-8c192a6d038d	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1271804716	Double Down Under	The Crystal Method		28e5191f-8f7e-4064-a7d6-0e7e3fdd96af	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1271804713	Trip Like I Do	The Crystal Method		311582c4-7a7e-406b-94c4-b4c8555cce06	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1271804703	Roll It Up	The Crystal Method		044f5be1-bb82-497a-9d50-3fd1fa0c0c4d	8e72cc9f-9e5f-4641-b7c9-3e7d1a4ef6a2	
+1271714346	Denmark	The Chemical Brothers		891cf051-fb4e-45e0-8e12-0d620814db27	1946a82a-f927-40c2-8235-38d64f50d043	
+1271698940	The Battle Rages On	Deep Purple		0a8b7b94-2b1d-48e2-9238-b971b11ff164	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1271612822	Cities in Dust	Siouxsie and the Banshees		0168cda0-14e2-4a5d-8361-78186a9058d3	78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2	
+1271521840	Cities in Dust	Junkie XL		62401e5b-ce27-47ca-ab45-7245d68cefeb	2620ee21-4535-4bc3-87a0-2a2a602d9a73	
+1271439572	More	Junkie XL		9cce5139-62e5-4d33-a2a3-8ccb4df73254	2620ee21-4535-4bc3-87a0-2a2a602d9a73	
+1271433828	Inertiatic ESP	The Mars Volta		41dafe00-f45f-4ae6-8b90-c6dffa3e454a	20883363-1ea4-4d72-ad72-c0e767038f3e	
+1271428000	Testify	Rage Against the Machine		56be7e53-0276-4118-a470-30f27dc84988	3798b104-01cb-484c-a3b0-56adc6399b80	
+1271383916	30 Pieces	Anekdoten		3b8966f1-6c72-49b0-9004-6d20678751af	0cf0af1f-20ca-4863-9b24-5f52772f7715	
+1271257630	Alive	Pearl Jam		034f9f1a-10a0-40f9-afa6-7caa574e4f7d	83b9cbe7-9857-49e2-ab8e-b57b01038103	
+1270793334	White Punks on Hope	Crass		1154f03f-1723-4cf3-9e04-1020d17f834b	c7437df4-6fac-4c89-99ae-f8640f268222	
+1270792106	I Wanna Be Sedated	Ramones		084c9d3e-2855-4dad-97e6-b1de7b8530fe	d6ed7887-a401-47a8-893c-34b967444d26	
+1270754229	Cowgirl	Underworld		6b1f624d-0a16-457a-a496-4f26fdae1c17	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1270666490	One	Apocalyptica		24f4eac6-71b9-4740-a4af-bf9e1c7c87b7	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1270665684	Domination	Apocalyptica		b522701d-b7d3-4114-833e-e5d6f5f8fc82	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1270665459	Fade to Black	Apocalyptica		878320e7-6fc4-4cb2-bfef-83aecc5f8357	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1270661373	Goz Quarter	Autechre		7f220b4e-59e8-4e54-bbd5-8431c2faf303	410c9baf-5469-44f6-9852-826524b80c61	
+1270584927	Little Speaker	Underworld		0521ad5a-246a-49b2-8632-4c60c9a975e4	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1270485454	Blue Bell Knoll	Cocteau Twins		03eafdba-f562-48b4-8beb-ae3c0e4a51b9	000fc734-b7e1-4a01-92d1-f544261b43f5	
+1270480873	Höstsejd	Änglagård		144d774f-4a52-433a-a912-a418cac7dbae	6344d70b-da12-4f93-b7e0-c0be55044c41	
+1270415705	Up in the Sky	Joe Satriani		519b43cb-fb16-42bf-8490-610b9a164098	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1270271083	Festival De Los Robots	Theremyn_4				
+1270268432	Roundabout	Yes		029b2c9f-3095-4406-abf5-16470fddb6a3	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1270252002	No Quarter	Led Zeppelin		1205d96f-b3bc-4a49-b49f-d3bbe5e13049	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1270070051	Pow R. Toc H.	Pink Floyd		3819bd84-58b6-4c0a-acd9-44199dcb0fa7	83d91898-7763-47d7-b03b-b92132375c47	
+1270061748	Heart of the Sunrise	Yes		968e58cf-527d-419d-981f-a8e48d8608ba	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1270053177	The Wizard	Bullring Brummies		9ff9d69a-77b7-4fa2-b2f1-e3e71509f5ec	0010692c-b17b-408b-aaf6-4e9e35fb9319	
+1270001553	This Troubled Heart of Mine (parts 2-3)	Time's Forgotten			09a1930a-9d6e-4edf-bd34-1d73a8558326	
+1269930601	One Man Army	The Prodigy & Tom Morello		607d97fb-2a73-4ee6-93d3-44212237149d		
+1269930564	1901	Phoenix		b3581bfd-64dd-48c2-ace6-8873823b4b39	02f4c1ff-65e0-4412-8e8b-6239b0faecb5	
+1269920229	Sand	Demians		3e285dc6-b0f5-4a8a-8742-3405d319791b	9b78f864-86fa-4345-8024-9a23c335378c	
+1269578678	Mystery of the Jew	John Zorn		ad65fd02-5824-4814-a178-58a247f63e3b	7ec4a553-73e5-4c0d-a071-a82b83a309e6	
+1269451928	The Good Soldier	Nine Inch Nails		dc879b82-2439-44c8-872f-2c8efefd9a41	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1269445375	Mi Novia Tiene Biceps	Soda Stereo			3f8a5e5b-c24b-4068-9f1c-afad8829e06b	
+1269443817	Morir Todavía	Héroes Del Silencio		2d42abff-f146-4f49-a36c-731967a10ee1	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1269440910	Parasiempre	Héroes Del Silencio		3025ccff-cc68-4e7e-8ca8-2cf534fb83a8	4bb712d6-8be9-4c09-810a-eb3bed2be345	
+1269403063	Dos Gardenias	Buena Vista Social Club		a89cf811-8d05-45ce-a904-0666606e651b	2a85ecff-41e9-4be1-aca6-c87054a4c334	
+1269402501	El Cuarto De Tula	Buena Vista Social Club		471cc66c-7772-4d6c-b780-b2429a48edc2	2a85ecff-41e9-4be1-aca6-c87054a4c334	
+1269401962	De Camino a La Vereda	Buena Vista Social Club		a6df5416-a288-4af7-8545-61b7880b93b9	2a85ecff-41e9-4be1-aca6-c87054a4c334	
+1269401135	Chan Chan	Buena Vista Social Club		12f34ccb-7832-4b7f-9173-fd41036e6e7a	2a85ecff-41e9-4be1-aca6-c87054a4c334	
+1269296325	Piku	The Chemical Brothers		18d6cd0e-7a29-4c28-97aa-db07cc6eec75	1946a82a-f927-40c2-8235-38d64f50d043	
+1269280350	Honey	Moby		49d09d0f-d5e6-4352-8b47-f4aff31568ec	00810267-f0ac-45a6-ae99-0b8c9c18f3c2	
+1269197948	Go Do	Jónsi		01a674f3-c168-476f-8a66-771ba5eaf7be	0ecc2c46-d335-485c-a077-240482609672	
+1269015891	The Twyncyn / Trembling Willows	Pure Reason Revolution		9c7fdb02-94ec-4c10-8fcf-adce7bba6308	f443a331-2623-4d50-8797-bfb204850253	
+1268856808	Saturn Return	Banco De Gaia		96bdc992-bc8c-4b64-b919-e014a9c30e99	2687dbd4-089f-40df-94c3-f6216458adc2	
+1268853363	Tongue	Underworld		d03f4d6f-893e-46ba-a113-b4b352d85ef9	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1268802293	You And Me Against The Sky	Harold Budd & Hector Zazou		005bbd5f-c1ea-4b70-b4bd-7f121a6c6ac4		
+1268801198	Absurd	Fluke		a1dc7cee-85fc-4581-a1ea-16d70e2f89e8	3c3d3ad8-3935-4c00-affb-768563916f36	
+1268801047	Emboldened/My Dreams Perish.	Harold Budd With Zeitgeist				
+1268791312	Popsicle	Cujo		6ee2de6c-e36c-4f07-b5eb-d921c88f382a	2b87a2be-702d-44b3-a1a6-5d111a5d8e52	
+1268791282	One Armed Scissor	At the Drive-In				
+1268461052	Hanging Tree	Queens of the Stone Age			246aa41e-8a40-4018-a6d6-8fb646418c25	
+1268460767	Do It Again	Queens of the Stone Age		a384fb3a-e7df-4144-bfd5-f565839b8d61	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1268447143	Labyrinth	Enter Shikari		0393e13c-7758-4d52-b031-36a8aa74da42	329f95db-f02e-40bf-a5f7-0dea11529ce3	
+1268082542	Push Upstairs	Underworld		3bed03fe-9c67-408d-af2e-c54bdb2fbbd7	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1267631413	Black Mountain Side	Led Zeppelin		3de6ddf3-d481-43f1-9bb2-9595822245ed	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1267483582	Whiskey in the Jar	Metallica		1d10ed6c-9a32-40dd-a865-4e3ff258c3d1	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1266634613	Need You Tonight	INXS		a825022a-6851-4d35-8db3-85bf857b2f56	481bf5f9-2e7c-4c44-b08a-05b32bc7c00d	
+1266554872	Seventh Heaven	Deep Purple		03d0b538-a927-4b7c-866f-210ebf6a1319	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1266549091	03 03 Reflections	Gordian Knot			a8beae63-ebc7-49fe-95c7-676bf02bb434	
+1266518846	The Mad Data Race	Spastic Ink		a82a2d27-7319-45a5-822c-76fc0fc01772	d686bc35-ed46-4f85-8a79-6ff690475cd7	
+1266508303	Open Close the Book	Aghora		640c54d4-edad-4d58-9381-8d4b7fbd71ff	3c0630ac-f0b7-4852-bf36-61d8ff33ca77	
+1266465664	Ptolemy	Aphex Twin		3a028d7d-d5ba-40c7-9547-ba6af62a275a	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1265495797	Legacy	The Gone Jackals		a3972138-8598-4c42-aabd-753ead50cc87	52781c26-6a8c-4326-a825-64f7b2898bb0	
+1265481884	Still Remains	Fates Warning		1d928ae9-7c57-4367-b00c-330795427917	17fbada3-6dac-42f3-8a6c-8c1c1484f730	
+1265480088	One	Fates Warning		0b4955b7-fe85-42f6-ae12-fab4c1586223	17fbada3-6dac-42f3-8a6c-8c1c1484f730	
+1265479911	Monument	Fates Warning		cf3b37b0-bebd-42fd-a696-39065bf11c31	17fbada3-6dac-42f3-8a6c-8c1c1484f730	
+1265479039	Murderous (Instrumental)	Nitzer Ebb		f29f538a-0854-4495-8f22-e443e975ed70	d260c14e-2ef1-4d3d-8739-70d517efac8a	
+1265475906	Smear Body	Nitzer Ebb		260b6350-ddec-4442-ba91-ef6a7b65cd5d	d260c14e-2ef1-4d3d-8739-70d517efac8a	
+1265438001	Protocols of Zion	John Zorn		3d98e553-4c72-4361-9a55-2a583971f5cb	7ec4a553-73e5-4c0d-a071-a82b83a309e6	
+1265413826	Sister Andrea	Mahavishnu Orchestra		47de4f0b-a797-4b18-8886-98ab682e3df1	a2be74f5-0735-46f7-a295-7e41aab30029	
+1265397177	Elders of Zion	John Zorn		be799f2e-d3f3-415a-91fe-2fedbec5e3ae	7ec4a553-73e5-4c0d-a071-a82b83a309e6	
+1265396731	In The Hand Of The Inevitable	The James Taylor Quartet		253c4b5a-751a-4599-87c1-7aa416c01df0	95495d6a-c1f2-4a62-b0e3-b9c5f2e9dea6	
+1265396485	Green Hornet	Al Hirt		3b478935-e97d-4f43-983a-f4c852dfa4da	d14ab1ae-0400-4345-9f5b-6083110a5c7a	
+1265392329	Gibraltar	Weather Report		3f75d61b-9d6d-40ef-b7f1-98a7a23a39c3	0f9997bd-e079-429e-8ccd-9378c9b0c746	
+1265390770	Sweet Running Water	Spectrum		298eae56-c597-492e-aa48-4c96ba9f1295	1a014449-7fdb-481c-b971-d0dac73a56ac	
+1265390421	Celestial Terrestrial Commuters	Mahavishnu Orchestra		f9c0e02a-0345-472b-b646-37e70b63d68e	a2be74f5-0735-46f7-a295-7e41aab30029	
+1265388376	Locomotion	John Coltrane		d933a621-70bf-4c17-a49e-4f5752a337f1	b625448e-bf4a-41c3-a421-72ad46cdb831	
+1265387498	The Juggler	Weather Report		f44c3320-87f8-427e-92ac-942eb2399b25	0f9997bd-e079-429e-8ccd-9378c9b0c746	
+1265386330	Vix 9	Béla Fleck and the Flecktones		61424885-f416-4be1-b102-937b08c97004	5143fb36-d09d-4439-bc70-ab4ca8dc27d2	
+1265341238	Dream	Mahavishnu Orchestra		12107d48-1455-4eac-a3a3-7ef62fc7a895	a2be74f5-0735-46f7-a295-7e41aab30029	
+1265135006	Newjack	Justice		27f35480-17aa-4b1e-9654-e6438b377bc5	31a88d29-827e-4c67-ad46-e47fab0de3c1	
+1265089216	11h30	Danger		c23ee699-4d9d-4aba-8675-6a8d1b3d849c	30be9fa6-ef7e-4987-8cd6-e461a701be50	
+1265042333	19H11	Danger		ff2a58c4-25dd-4d37-8442-c377186e33bd	30be9fa6-ef7e-4987-8cd6-e461a701be50	
+1264999119	Crash	Bozzio Levin Stevens		12e8f7f8-bda5-4ee7-997c-ff1aae2c9d49	7f76b176-6f20-4845-85a4-5d616e421734	
+1264998921	Endless	Bozzio Levin Stevens		dd80025d-5572-4708-8503-777d8b799943	7f76b176-6f20-4845-85a4-5d616e421734	
+1264794783	The Other Room	John Foxx & Harold Budd				
+1264617608	Hoedown (feat. Jordan Rudess)	Robert Berry		630b9f23-0332-45f8-9bbe-7b784a7c329d	78c4a733-0088-44d3-97f5-a5666aea9ac2	
+1264442115	Orange Crush	R.E.M.		500d66ed-596c-49de-b38c-eee232707e1e	ea4dfa26-f633-4da6-a52a-f49ea4897b58	
+1264360571	11h30 (DatA Remix)	Danger		8143965b-cc1a-4607-8d77-e41139085b3d	30be9fa6-ef7e-4987-8cd6-e461a701be50	
+1264359368	& Down	Boys Noize		a8ca8097-c1a1-445b-b623-e7264224b5b5	acaad4f2-f29a-4134-a46a-9687c50fe22c	
+1264358923	Luna Park	Kíla		e0324958-d30d-4418-a2c1-f52f1c5bd130	1d88ba17-a816-40e6-9194-9c249097323b	
+1264318027	Migra	Santana		07ce7b63-dd96-44f7-b3b8-a2c21c318518	1bc6816a-d056-4113-9b0a-6c52e5c31a3c	
+1264312599	Even Better Than the Real Thing	U2		30acb788-aeab-42d6-b3fa-6627ff4cfa51	704acdbb-1415-4782-b0b6-0596b8c55e46	
+1264308537	Immaculate Crucifixion	Juno Reactor		335a0c97-b58a-43cc-8953-e8bee1dbe785	16231a34-9ccd-410e-8690-f74e98fe16a4	
+1264307740	Restless (feat. Toastie Taylor)	Evil Nine		a4cd1bab-19dd-4631-a944-23c1f81f160e	250b7089-69e4-43b2-bae3-a83d9f6d71bb	
+1264307572	Fundamental	Sasha		6d5bca6d-2f25-410d-a33e-bfcb47b54ff9	13d96a81-5ea1-45b5-95a5-d8bb91d77158	
+1264306396	Conga Fury (Animatrix mix)	Juno Reactor		90d68580-cf86-4a39-8c86-233006e132f1	16231a34-9ccd-410e-8690-f74e98fe16a4	
+1264306376	Forgotten Rites	Eat Static		fe3e4279-db69-490e-97cc-1cd0cf714656	9cd39202-6c67-400a-b96e-df351c9f9484	
+1263934327	Where Did Ya Hide That Train, Joe?	Kíla		0e181181-ee69-4fe4-8e27-cc255e29191e	1d88ba17-a816-40e6-9194-9c249097323b	
+1263932813	The Compledgegationist	Kíla		d26838ac-6a2d-4a2e-ac85-b1f60c630e7c	1d88ba17-a816-40e6-9194-9c249097323b	
+1263843536	Gwerzy	Kíla		46840b65-5d3e-49d9-9166-58b018423724	1d88ba17-a816-40e6-9194-9c249097323b	
+1263765914	Ful' Tae The Heid O' Troots	Shooglenifty			e2c442cc-2c23-42c7-ad37-042ca326f1ba	
+1263765151	Paddy Rainey's Jig/Johnny Leary's/Winnie Hayes'	Danú			0614c68a-89ee-40bb-a1be-0d588f7987cd	
+1263489787	Blood	OSI		c88f62d8-3ec7-4ffc-8a9f-f5bc1f7978cc	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263422005	Another Permanent Address	Chroma Key		a44c269a-ec93-48f0-b7f4-81bd8ef3bcbe	4492c65a-533e-4189-b865-b5af36003b30	
+1263413733	Uluru	Indukti		c307b37f-8adf-478c-8b30-ce5ff753f825	216de703-21b9-4396-a01f-7927a754c4a7	
+1263409434	Free	OSI		1875437c-9638-4535-ba5e-e4b458eeb630	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263354976	Head	OSI		00a021f8-0be0-41b7-80b3-1e3cd19d3e6e	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263354704	Horseshoes And B-52's	OSI		1f5d3ab0-bd9f-48b0-bd03-536666e86a2b	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263353763	OSI	OSI		1df30a70-591b-4f70-aa1d-2425701085d8	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263353451	The New Math (What He Said)	OSI		1becbccc-7152-4c96-85c2-e0110ff6bc93	fc19c778-f7c9-40e4-85d1-427236ef8b4d	
+1263340971	Princess Mee	Caprice		2c56b302-4cc6-4222-9c63-3e1188078915	0c1e487e-7451-42d3-887d-dfdfbd79d24a	
+1263264622	Within A Stare	Dali's Dilemma		b23ad757-9b36-469b-8d39-ee4b154d1df5	bf2a8568-570f-4cdf-a647-7fb35f899af3	
+1263009103	Mental Torments	Spheric Universe Experience		cdb4156d-1512-4d8f-b1fd-c601aa5310fe	74a38d5b-55c0-4256-a544-fbbf847e6fab	
+1262919755	Heightened Awareness	Steve Morse Band		ad92c5c7-8ba1-4721-b4d0-cea11294694f	2bd98e1b-dc3b-4759-8131-59544069ffeb	
+1262675990	The Sound of Muzak	Porcupine Tree		9a25d131-5e40-4dfa-b798-d33736333bf4	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1262671271	Shesmovedon	Porcupine Tree		24ee8729-fdb9-4b56-b691-6bc5eff468f1	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1262671100	Four Chords That Made a Million	Porcupine Tree		206cbf6b-2e4c-4a4c-a44d-c3c8eb6ea609	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1262670783	How Is Your Life Today?	Porcupine Tree		61f37e16-0998-4cbd-ac05-c06d65715621	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1262670290	Before	Riverside		03cf093e-a587-48ae-b17d-375392852142	077102c2-9dbf-4515-8531-3878461c68b0	
+1262664885	Artificial Smile	Riverside		13bb2851-5a0b-4884-8a42-ae50104d4edd	077102c2-9dbf-4515-8531-3878461c68b0	
+1262663760	Conceiving You	Riverside		0b2a2363-9333-4441-8a36-22f0c75aec31	077102c2-9dbf-4515-8531-3878461c68b0	
+1262648417	String quartet project III: celestial moments in the afternoon	Pavel Haas Quartett, Masumi Per Rostad				
+1262647577	A virgen mui groriosa	Trouvere				
+1262574928	The Serpent's Army	Dead Can Dance		641caef0-7f38-475b-b7ba-778820808621	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262569309	Persian Love Song	Dead Can Dance		a54fdc23-ebb9-4209-ae45-337d6b131e25	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262569298	Yulunga (Spirit Dance)	Dead Can Dance		6c74a7bf-0c5d-4619-9269-bb2376239391	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262569295	I Can See Now	Dead Can Dance		3837fb1a-c01d-4cf6-8492-94e00790e3d3	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262569292	I Am Stretched on Your Grave	Dead Can Dance		95cbfaa0-877e-4215-b9e6-3120499b6e93	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262556719	American Dreaming	Dead Can Dance		18761af8-2385-41df-879a-e31daabe76a1	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1262414360	Hiding	Wolverine		ad5e3ad3-131b-42f0-8b2d-381e1b11f3d9	736bd961-11e7-4201-a4ee-6c438f608ee8	
+1262411358	Bloom (instr.)	Brian Eno & J. Peter Schwalm				
+1262410926	The Passion of Words	Zero Hour		b968cd04-d012-494f-9940-4c3dfe83aea3	56a6e033-b063-452f-9e06-510ee3e0fd92	
+1262072249	Vertiphon	Bola		81a1b53a-6876-434a-aa57-77b8680bc82d	037bb92d-efd5-48d9-b197-3ce699067e3c	
+1262071882	Da que Deus	Faun		4223d521-f66b-4453-8d53-311651a5deea	0f06b40e-8bb9-4c59-814b-540a801f22d1	
+1262070031	Neptune's Revenge	Spheric Universe Experience		d0bdfcc9-29b5-4066-bea7-a0b1ac7a29f4	74a38d5b-55c0-4256-a544-fbbf847e6fab	
+1262068660	Sauff aus und machs nit lang	Estampie			b4534df7-18e3-4035-93a5-473b72efc19f	
+1261674214	Birdland	Weather Report		870235a3-22e7-4486-80b9-442cfe16eea8	0f9997bd-e079-429e-8ccd-9378c9b0c746	
+1261604429	Ôwî, Tristan	Qntal		3508cbf8-4b8a-4496-a8b6-dca497995cba	b3769cde-a39d-444b-a938-95c5fade0de8	
+1261519109	Palestinalied	Qntal		2b942f44-5c39-4c64-bd18-f20cb734e432	b3769cde-a39d-444b-a938-95c5fade0de8	
+1261514950	Killers	Iron Maiden		fbdfb8f4-b49d-413b-9787-b66789b1b63f	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1261463609	Cupido	Qntal		5ecc7b10-d635-45d0-ae0c-49670f19f7f6	b3769cde-a39d-444b-a938-95c5fade0de8	
+1261462777	Blac	Qntal		22f1cb19-6dab-4ea5-ac2e-86da91cd0e52	b3769cde-a39d-444b-a938-95c5fade0de8	
+1260994097	The Piece Reflecting the Mental State of One of the Members of Our Band	Riverside		1ada2039-d621-40a5-b776-15056210d2ba	077102c2-9dbf-4515-8531-3878461c68b0	
+1260979932	Day Of Your Beliefs	Amorphis		1ac87f90-7484-4dcc-aa03-28c4957aafe9	efaefde1-e09b-4d49-9d8e-b1304d2ece8d	
+1260857575	Song of the Troubled One	Amorphis		b9d5a863-7685-49aa-b578-c3d3bef1095d	efaefde1-e09b-4d49-9d8e-b1304d2ece8d	
+1260855317	Innocence Faded	Dream Theater		d92043a2-8759-431a-af83-662cbd7f41c7	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1260854168	Like The Average Stalker	Soilwork		07763084-d726-403e-851f-a7c6df2daf5c	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1260854000	Be My Druidess	Type O Negative		995ccded-20de-447c-b8dc-6448b4bd73eb	a63df8c3-28e4-41db-bac2-c6c6e8ff8f28	
+1260853996	Wait for an Answer	Blind Guardian		757785fd-631e-42b8-8673-734d041efc70	7fa7fc04-1011-4876-8095-ecd232edea87	
+1260853990	The Number of the Beast	Iron Maiden		130a1bbc-3596-4600-a7e7-828fb979523b	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1260853947	Deathzone	Apocalyptica		1133c988-8b33-490c-8bea-ddad15560c7b	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1260849178	Wait for Sleep	Dream Theater		26b5d092-322e-4041-a2f9-4cac9f8e724c	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1260836875	My Kantele	Amorphis		6ec27d58-a388-4f4c-99b7-7daf8984f2f4	efaefde1-e09b-4d49-9d8e-b1304d2ece8d	
+1260836868	Somewhere Around Nothing	Apocalyptica		0f9f7917-3629-4523-ab2a-3b1985c0920e	788ad31c-bf0c-4a31-83f8-b8b130d79c76	
+1260836846	Learning to Live	Dream Theater		629754a2-0936-4bd0-a6c8-50507ad396c5	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1260760362	Ooh Yeah	Moby		3828ea9e-de9e-4404-a178-b5ad682a83f8	00810267-f0ac-45a6-ae99-0b8c9c18f3c2	
+1260756539	Watercolour Guitars	The Fireman		52c787cc-71a2-4a16-a913-e543e6366d5e	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1260746207	Damián	Miki González			4ef6731b-2d1d-4aba-b139-87e9f74c61e0	
+1260732179	E.W.I.F. (Angelburn version by VNV Nation)	Aïboforcen		0aa00284-694f-4b2e-ad9e-5f451bfef1f0	5f2a29b9-201a-4888-8cb5-077e9d501fb7	
+1260695082	Muevan las Industrias	Los Prisioneros		1b57bd23-e5cb-4232-8789-7463bf4acd8d	a1d044b9-76c9-46d7-a5a6-0f52421e1ed7	
+1260689188	Cuando Pase El Temblor	Soda Stereo		951fa96c-c26d-4c34-a25e-0d694c234734	3f8a5e5b-c24b-4068-9f1c-afad8829e06b	
+1260682098	Welcome to the Jungle	Guns N' Roses		9415a92d-fcec-46bd-9345-cc965686e52b		
+1260659585	Debaser	Pixies		2a3985d3-7f8d-4e2e-ab06-b3ea944ffebc	b6b2bb8d-54a9-491f-9607-7b546023b433	
+1260657380	Beat It	Michael Jackson		d6cbcead-60f0-4f39-9486-d448626958c0	210769a3-4aca-4199-a2e1-676ef376e078	
+1260602609	Motorcycle Driver	Joe Satriani		84fbf93d-fcd2-4d66-8f16-66c9c290cfc8	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1260601589	Rubina's Blue Sky Happiness	Joe Satriani		34f579de-d626-433d-8cfa-fbea2d8a7c04	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1260600665	The Extremist (Living on the Edge)	Joe Satriani			29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1260600593	Friends	Joe Satriani		474637a2-481a-4045-954c-4e01abe0556e	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1260597312	Personal Jesus	Depeche Mode		8dec25cd-fbe7-443c-bb2c-652a7cad202a	8538e728-ca0b-4321-b7e5-cff6565dd4c0	
+1260570473	Anthem	Rush		04b7f8a3-61f9-4c4d-8a81-b776e604a5d8	059afdf5-77e8-4e51-90f5-453b623232ec	
+1260549306	Black No.1 (Little Miss Scare All)	Type O Negative			a63df8c3-28e4-41db-bac2-c6c6e8ff8f28	
+1260549303	We Hate Everyone	Type O Negative		241b2092-9a51-4fd3-91d6-5f2b6a79a8a6	a63df8c3-28e4-41db-bac2-c6c6e8ff8f28	
+1260478058	One Small Step	Amon Tobin		4fbb42d7-23f9-45b3-9a9e-d76b5e3cafc7	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1260425885	Pride	Damageplan		3aaf3b48-a4eb-4ee7-8e0a-52a3a28c84dd	fdd1f131-4bae-456b-8bb1-c132d2af8e6c	
+1260409806	I Don't Wanna Be Me	Type O Negative		95fffab3-13a1-4f9a-8634-9ef260881135	a63df8c3-28e4-41db-bac2-c6c6e8ff8f28	
+1260399695	Dead Stars (version)	Covenant		1ae34972-e31f-4555-b7c9-0ebe0a7e1461	879a449d-506a-422c-9fb8-8af01d3d04ae	
+1260304318	Maare	sToa		5d28ee43-2d8d-4596-9a18-f9dcad412234	0d1a6b7b-da84-44bc-ae44-3690a7425b03	
+1260087112	RSVP	Attention Deficit		b4552b4f-d794-443e-abfe-6aab9c0057eb	30e7ef9d-ce99-4988-a6b3-08f11434d496	
+1260081513	Mother Tongue	Dead Can Dance		2070c1d6-b765-49b4-ba21-fde4a15665c7	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1260052051	Bevezetés	After Crying		e28f2cd1-5fb2-41b4-99b9-009edca60f41	bc86859e-2509-4977-9de4-909805ea24ed	
+1259945885	Christian Woman- Body Of Christ (Corpus Christi)-To Love God-J.C. Looks Like Me	Type O Negative			a63df8c3-28e4-41db-bac2-c6c6e8ff8f28	
+1259865948	Side B	Lego Feet			9aa362c3-2449-4057-b8a8-4343de036a71	
+1259825999	Getting Closer	Nitzer Ebb		c4222d7d-9a72-4d07-bd08-f74d62494b42	d260c14e-2ef1-4d3d-8739-70d517efac8a	
+1259654765	Send Me an Angel	Zeromancer		210575c0-b9d7-4c96-baf9-9fbc1a322c47	0b5aab47-3b3b-45f4-8488-2fc98e035166	
+1259654726	Need You Like a Drug	Zeromancer		6a5b52bc-e983-44a7-bf75-55d96736ee6c	0b5aab47-3b3b-45f4-8488-2fc98e035166	
+1259654712	Doctor Online	Zeromancer		9d299f65-fded-4c27-879d-0f3b550013e6	0b5aab47-3b3b-45f4-8488-2fc98e035166	
+1259546297	Kalasnjikov	Goran Bregović		9548b002-3fc1-4107-ad70-4b7cd7ee937e	883ece23-2779-4091-b527-62eb07ee79d4	
+1259545309	Lady Double Dealer	Deep Purple		638c430e-2811-4346-b769-517d1ed2b746	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1259544078	Stormbringer	Deep Purple		1fa09bd4-c18c-4812-99d3-e60822d140be	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1259529611	Simmm	Autechre		48e592d0-7af9-45f2-8813-ee952221c988	410c9baf-5469-44f6-9852-826524b80c61	
+1259473668	Dirty Laundry (Skeewiff Remix)	Bitter:Sweet		51d9863c-0d81-44cb-86f6-b0880c99fbed	dcebc476-b53c-42ee-9251-f946a4c3cea2	
+1259473452	Salty Air (Fort Knox Five Remix)	Bitter:Sweet		0ea31da9-16fc-4aff-9086-96908223bd58	dcebc476-b53c-42ee-9251-f946a4c3cea2	
+1259463020	Paisaje Cifrado 2	Radio		f1dfac86-361e-4d3b-a40c-099ba01abbca	2300caa6-e8d4-4ef2-ad45-4ef58b156f1e	
+1259462773	Cielo no futuro	ciëlo			f09b818e-b3b9-4d3d-b203-65ca0326bb77	
+1259446165	Technologic	Daft Punk		f0d09632-b55f-4a57-bbb6-3052d71efc67	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1259445798	Robot Rock	Daft Punk		11e07072-4fae-416e-9295-bc991d9f8e5c	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1259313254	Cruzer	Cujo		3bbdc1cb-dcb4-4c0a-aec8-e46864fca970	2b87a2be-702d-44b3-a1a6-5d111a5d8e52	
+1259171501	.215061 (cd version)	AFX		1c1fa146-7ada-44ac-9bb3-5e44a9bb7db3	87225a21-c925-41cd-852f-be4b052d0824	
+1259165819	Isonauta	Silvania		b73f7b57-7558-41f4-9bca-4d6a66d8c299	90eb8fe8-ee0e-4330-812b-780b83381f2c	
+1259093994	Gran Plaza Asimov	El Aviador Dro		6a6a8d57-23c6-495d-b7c1-11ec3a666d86	c30cc8a0-2312-4332-9117-d0e6d77b4c65	
+1259093379	Mercy Seat	Televise		0d252bb2-5d13-4b76-8fce-a3978538ff11	77a32873-c52d-456c-9b55-9b523cfddeef	
+1259093074	luz artificial	ciëlo			f09b818e-b3b9-4d3d-b203-65ca0326bb77	
+1259038021	Verbal (Toplo Gigio remix)	Amon Tobin			630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1259037819	Verbal (Prefuse 73 Dipped Escalade mix)	Amon Tobin		5a696b43-4ddb-4ce2-989e-a6a9780f4f1e	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1259014601	El Cargo	Amon Tobin		57624e10-9cae-41ee-b7cc-798b9e626326	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1259011599	Ten Piece Metric Wrench Set (feat. Steinski)	Amon Tobin		ffe996cf-f73c-488d-8164-4a7bdc4d7e83	630662ea-1c7d-4208-99fd-ba3afec20f0c	
+1258994806	The Perfect Drug (Nine Inch Nails remix)	Nine Inch Nails			b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258994319	The Perfect Drug (Plug remix)	Nine Inch Nails			b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258950859	True Life (VNV Nation RMX)	Lights of Euphoria			80c1b7c9-a4de-4a47-9fdb-e85e48d35061	
+1258869345	The Great Destroyer	Nine Inch Nails		030251c3-382d-402a-8b2f-452435cedd2e	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258868229	My Violent Heart	Nine Inch Nails		482864df-6b9d-441b-8d36-9fbc4c36522d	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258866602	The Beginning of the End	Nine Inch Nails		c67d9a5d-43d1-4190-a500-3f96747b6d54	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258866149	Right Where It Belongs	Nine Inch Nails		8e9ff27a-4306-4836-926f-b22cc0dcc1af	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1258607571	Chant of the Paladin	Dead Can Dance		4ec49551-3ae3-4cd8-9f28-7e70009df2c5	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1258607458	Bullet (Club Version)	Covenant		86288aa4-52bd-4134-a92d-e194d79fd3d0	879a449d-506a-422c-9fb8-8af01d3d04ae	
+1258606728	All For One	Qntal		32643026-3512-4da4-a5dd-9c3c01efb0f7	b3769cde-a39d-444b-a938-95c5fade0de8	
+1258606620	Kiss	Deine Lakaien		0fcdd66e-b7cc-4f70-8dd0-ff31dceb68f7	28078a34-2f82-42e0-b68e-98ee5f814fc5	
+1258488606	Sign Of The Cross	Avantasia		0f2be98b-ea72-4bf1-aec8-fefa8579cc55	2ecbc483-dee4-442f-8ce7-f3ab31c73f87	
+1258442914	Carolina IV	Angra		1c71961e-ac68-4afb-ba7a-a8ac1f64fce6	b0fe8ef0-d59b-4d41-afee-2d21b59112ab	
+1258442392	Inferno (unleash The Fire)	Symphony X		1d807e3b-3f1d-4b4a-9693-45882e031789	b669c53e-5a1f-4adc-80be-755e64e8115e	
+1258441123	Accolade II	Symphony X		2575dbcd-31c1-4e60-b7d1-4f6ecb08953b	b669c53e-5a1f-4adc-80be-755e64e8115e	
+1258440469	Around the World in a Tea Daze	Shpongle		f3972581-5041-4a12-831c-456170256783	97a486d4-a7f9-4bbe-9685-ed798890958e	
+1258438608	Divine Moments of Truth	Shpongle		651b3f24-173b-4caf-9bd9-08b26dbcc745	97a486d4-a7f9-4bbe-9685-ed798890958e	
+1258428947	Kalika	Eat Static		1b3aa687-6f1c-4b41-8bc4-33a3162b0cf5	9cd39202-6c67-400a-b96e-df351c9f9484	
+1258341692	O Fortuna	Estampie		1500a7d6-a8be-49a5-a5fc-c20ab338e24c	b4534df7-18e3-4035-93a5-473b72efc19f	
+1258144348	Modern Idők	After Crying		c8e366dd-fcb8-4bcd-9bba-9913f89e0335	bc86859e-2509-4977-9de4-909805ea24ed	
+1257991090	Berceuse, Op 57	Frédéric Chopin		9476c232-149d-4320-8091-82f9fe9e57c0		
+1257920564	Bubamara (Vivaldi version)	Goran Bregović			883ece23-2779-4091-b527-62eb07ee79d4	
+1257790988	Five Seconds (feat. Odd Nosdam)	Peeping Tom			4caec583-cdcb-437c-af84-8797b11b6807	
+1257789558	White Unicorn	Wolfmother		227577ec-122f-45a9-ae85-ba3d98d784e3	f0c8f75f-8736-4b1d-b312-9349fcff321d	
+1257715385	Angelike	All My Faith Lost ...		416c19c5-4167-417b-9f92-032ddf96e03f	18965cf3-5a0c-4c51-9cb2-a338bd8c0e4a	
+1257715214	Takhisis Dance	Dargaard		ac7ef16e-7dbd-4fb0-94fd-8e26a666291e	4fc06895-2693-4802-8b30-172b6b6196c7	
+1257647752	La chute de l'ange	Dark Sanctuary		bf67f0d2-3481-48dd-80be-a43844f5495a	bfb552a0-7b6c-4069-9936-7d0a9d4f15f6	
+1257622508	Ladonna Wosh	Ophelia's Dream		4b2d5dd5-1949-4622-a631-b2ade8498e52	7b49db0b-e0b6-4f43-9f7b-99232bcd3ba5	
+1257620861	Mistrust	Die Verbannten Kinder Evas		1bad259c-2544-4005-aa03-411ae5a1de1e	bbb57df2-8fc2-4e22-801b-259624761a55	
+1257620260	The Wake of The Angel	Elend		1fa9eaa7-cf23-4799-9313-691f940279a2	142fd48c-1f15-4f29-9bec-51d159be3586	
+1257613697	Du tréfonds des Ténèbres	Elend		83a83fe7-6cae-424c-87e3-6d12ef2e4503	142fd48c-1f15-4f29-9bec-51d159be3586	
+1257613053	Rosmarin	Faun		e00beb83-dd5c-44ab-abbe-dd0cd1f8050a	0f06b40e-8bb9-4c59-814b-540a801f22d1	
+1257485209	Altibzz	Autechre		2a89ce30-c0ca-4f87-a7d9-467bbf23e2fb	410c9baf-5469-44f6-9852-826524b80c61	
+1257485092	Kesson Dalef	Aphex Twin		29d27ac7-840a-4844-84d8-cfb4bcf31bcc	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1257449198	Cygnus... Vismund Cygnus	The Mars Volta		364d7763-4a69-42aa-9a1a-3c48835ada34	20883363-1ea4-4d72-ad72-c0e767038f3e	
+1257278913	Salute Your Solution	The Raconteurs		1476b8f5-dce7-40a1-a18a-dcb0f68dca81	be407b02-f3e6-4ed5-9489-f8e5f0ab36dc	
+1256786694	Plug in Baby	Muse		41501234-edbf-40fd-8cbc-1a80c7c86a24	1695c115-bf3f-4014-9966-2b0c50179193	
+1256786690	Bullet in the Head	Rage Against the Machine		ed6f5e5f-9d1b-405c-b0ae-971063f1adb0	3798b104-01cb-484c-a3b0-56adc6399b80	
+1256786684	Girl	Beck		19d2c431-a4fa-4784-8da3-7ab9e4742df0	1cc5adcd-1422-4b5c-a3cd-3ecd4f43f506	
+1256786680	Bodysnatchers	Radiohead		e056764c-ed2f-4cf0-9632-9f95568ad260	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1256708220	The Ubiquitous Mr. Lovegrove	Dead Can Dance		0f406d89-a400-4b63-b5f4-9a6e35dbe347	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1256706812	Peek-A-Boo	Siouxsie and the Banshees		b102d742-772a-4e8e-86cb-22106f08b710	78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2	
+1256704214	Justin Case	Dunderpatrullen		dbd631c4-a83c-4426-a068-4ed4f75898d8	0ebdeda5-1ee9-4f22-8b5b-8c44ae9dc08a	
+1256162848	Six Degrees of Inner Turbulence: VI. Solitary Shell	Dream Theater		2ee14267-3d70-4edc-84ef-2b4f30ad66db	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1256162844	Six Degrees of Inner Turbulence: III. War Inside My Head	Dream Theater		0051c20e-e3e8-4990-9f6d-04c883b1f08b	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1256162841	Six Degrees of Inner Turbulence: I. Overture	Dream Theater		091109fb-48b9-4d49-af64-c47a6f9257b5	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1256162813	Why Does My Heart Feel So Bad?	Moby		adc7ff59-067e-4d57-b253-a5d779eddf60	00810267-f0ac-45a6-ae99-0b8c9c18f3c2	
+1256162798	My My Metrocard	Le Tigre		0511ac2d-d637-44a3-81cc-1bee765bdd2a	2d67239c-aa40-4ad5-a807-9052b66857a6	
+1256162790	Deceptacon	Le Tigre		07556299-2d77-4da6-a318-0f315e7a9ac6	2d67239c-aa40-4ad5-a807-9052b66857a6	
+1256162787	Devils Haircut	Beck		9b5249c5-5d7a-4312-b2e0-8feae727a8bb	1cc5adcd-1422-4b5c-a3cd-3ecd4f43f506	
+1256162779	Dancing Shoes	Arctic Monkeys		b8b1f3e8-5021-49d5-a7b9-81b46f6d0374	ada7a83c-e3e1-40f1-93f9-3e73dbc9298a	
+1256162775	Glósóli	Sigur Rós		ab56c05c-b2cb-4c95-9939-4a2fb8a77db6	f6f2326f-6b25-4170-b89d-e235b25508e8	
+1256162772	Bigmouth Strikes Again	The Smiths		e06c9bd0-5a50-4780-8b8c-eca4ea0e8674	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	
+1256162767	Jigsaw Falling into Place	Radiohead		ad129eb0-0dc3-471a-b4f0-fa84f8adefdc	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1256162703	Modern Way	Kaiser Chiefs		40b85002-6109-446a-8a6f-f58e10c29bb1	90218af4-4d58-4821-8d41-2ee295ebbe21	
+1256162699	Blue Monday ('88)	New Order			bdcaf0ca-4718-40a9-b9b3-372b227b423a	
+1256162689	E Pro	Beck		946166c3-f73a-4861-b5f2-aa2977caa961	1cc5adcd-1422-4b5c-a3cd-3ecd4f43f506	
+1256162686	Boys Don't Cry	The Cure		c5d7f3b0-0bd2-470d-b637-61e16f4a3f7d	69ee3720-a7cb-4402-b48d-a02c366f2bcf	
+1256162683	New Year's Day	U2			704acdbb-1415-4782-b0b6-0596b8c55e46	
+1256015631	I still believe	Calis		33c3ec13-674b-4ce5-9e2c-5337dedfc323	d5ca0327-07d1-44e1-97fb-182d298078ca	
+1256015184	Tetrapak	Maskinoperatör			0364f41f-4fb2-4438-8b2f-f9fad25cbd1c	
+1256012186	For Great Justice	Dunderpatrullen		39d91b8b-638f-4600-ad48-88abfc507917	0ebdeda5-1ee9-4f22-8b5b-8c44ae9dc08a	
+1256011275	Yes Please EP	Morgonjuice			84077cb1-32d4-4442-8038-72c9a06cf740	
+1256011093	The things I remember	Calis		5ca4846f-4100-4f96-969b-de9d647955e4	d5ca0327-07d1-44e1-97fb-182d298078ca	
+1256009834	How Soon Is Now?	The Smiths		044c00ee-4d7a-4105-a3b9-d2e4e3bc6ac0	40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27	
+1256009619	Love Will Tear Us Apart	Joy Division		7f2365fd-9949-42b5-87bf-d956c7cf35db	9a58fda3-f4ed-4080-a3a5-f457aac9fcdd	
+1255976319	Six Degrees of Inner Turbulence: II. About to Crash	Dream Theater		472b6395-a1bd-4713-81f6-5d4186320df9	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1255972590	The Glass Prison	Dream Theater		e0930df3-af2b-41a5-bd0d-a1c6fc23f6f5	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1255899908	Roadblock I	Alberto Iglesias		afc15c3d-cabe-46bd-893c-4630c931a7a5	1de1b2e2-2881-4e7e-bf75-60de23f1ed4b	
+1255894661	Blasphemous Rumours	Depeche Mode		0cb49083-84a9-462d-a0f3-edeb002f44f3	8538e728-ca0b-4321-b7e5-cff6565dd4c0	
+1255893404	The Passenger	Siouxsie and the Banshees		24816f76-4eb3-47db-8fc2-4d54fcc786aa	78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2	
+1255891977	Master and Servant	Depeche Mode		35443f11-b45b-45ff-a597-661e7a02f9c7	8538e728-ca0b-4321-b7e5-cff6565dd4c0	
+1255890782	Private Idaho	The B-52's		8e1804b9-53c4-46f4-b102-face9e4bda7a		
+1255888915	Rods And Cones	Blue Man Group		2f1b5c50-2071-48be-996f-5bf44d6d1b0e	dbcec54d-49c8-4d61-8512-8025bb37bf8e	
+1255885912	Tainted Love '91	Soft Cell		128f18b5-2691-4988-9717-32ac81fffbe8	7fb50287-029d-47cc-825a-235ca28024b2	
+1255884136	Whip It	Devo		887560f7-7e95-4afb-b8a0-b814e9274277	237aab96-5085-4617-bd3d-81990e46d244	
+1255828674	Rakim	Dead Can Dance		61423c53-c185-4694-85a1-8d54dd80d991	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1255826820	The Wind That Shakes the Barley	Dead Can Dance		b7710188-0d80-4639-b6ed-b5dacd28eb5d	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1255744899	Concerto I, en fa majeur, BWV 1046 - I. [Allegro]	Johann Sebastian Bach			24f1766e-9635-4d58-a4d4-9413f9f98a4c	
+1255703717	Ode I	Arvo Pärt		b146c623-e51b-40eb-8ee9-fe731576da94	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1255671431	Tabula Rasa	Arvo Pärt		e3bc839a-fd18-4fb4-895a-7cc4c2a53f95	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1255670956	Fratres (For 12 Cellos)	Arvo Pärt			ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1255669703	Fratres	Arvo Pärt		27be16c0-1b05-4bc4-a13b-36c04e24272d	ae0b2424-d4c5-4c54-82ac-fe3be5453270	
+1255536434	Nothing Else Matters	Metallica		08e71c27-1725-43ba-a1f0-5a60ff2ec84e	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1255536049	Fight Fire With Fire	Metallica		060c41c6-67a9-4184-aab6-badd1e862b0d	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1255533781	Sad But True	Metallica		1302f784-9dae-417c-aa73-3ae78a1424a2	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1255532186	Holier Than Thou	Metallica		3cd5eeca-8b8a-4f84-bbde-86029d5c58f7	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1255531779	Ride the Lightning	Metallica		aa2d9dc0-8d10-4419-a22c-71adca33274e	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1255383257	Mercenaries	Pain Confessor		77d56efc-5bae-440a-a760-115b2687f5f0	d9d6c4d8-10dc-47c5-a0de-ff260c8b8afe	
+1255382809	Millionflame	Soilwork		062faa44-fb75-406a-86d9-29effa667ded	d8d1b067-78bb-4db7-8f91-db2ff9a83ee5	
+1255378015	The Psychonaut	MyGrain		71e6fb09-142c-42c5-99ba-273993533d20	60296efb-4d77-419e-b95e-29ae2e1131d5	
+1255244271	Act I: Scene Two: I. Overture 1928	Dream Theater		0b6749bf-0326-4b69-9962-2b5df4df1189	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1255243912	Act I: Scene Two: II. Strange Déjà Vu	Dream Theater		08ab57a0-c8ed-4bbd-bedc-c91170a31b6c	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1255229904	Pants	Orbital		65b520a1-5dee-4086-86a4-c1897c02925f	c5691882-9bc7-4c25-9bac-2d81dc9ef636	
+1255229046	Symphony 103 In Eb 'drum Roll'/Allegro Con Spirito	Franz Joseph Haydn				
+1255228934	Fife and Drum	John Petrucci & Jordan Rudess		7affb983-9461-4638-8608-0ca875b65ba9		
+1255225290	Arps and Arcs	Animal Style		8d8e88f8-c26a-4e8a-bcb1-4024b78a56ff	570b419b-e35c-46dc-a2e2-e293090488e9	
+1255112003	The Battle of Evermore	Led Zeppelin		5fb4f548-bfad-4c19-ac46-02c4a650d47c	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1255028733	Gravastar	Hybrid		1f32905e-fd55-44a1-80f5-5f56aef6eb0e	0d507b31-3330-4c57-a7ef-272d714b96c4	
+1254969877	Out of the Silent Planet	Iron Maiden		aa75a47c-4d19-4b7a-bf5b-1783e26167d6	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1254969031	Crownless	Nightwish		30b164ab-5941-49b4-b0a2-6846a839cfff	00a9f935-ba93-4fc8-a33a-993abe9c936b	
+1254967713	Carry On	Angra		f8b69237-abb7-43c1-9d49-358832631ea0	b0fe8ef0-d59b-4d41-afee-2d21b59112ab	
+1254967006	Mirror Mirror	Blind Guardian		793dae4f-6592-419e-8e07-ba2ce9b129fe	7fa7fc04-1011-4876-8095-ecd232edea87	
+1254949860	Antenna	Bit Shifter		2d8c5725-43a4-4cdc-836d-59ae33e194df	09c26e52-0e3c-451a-8a7d-34e8ce7c1062	
+1254947875	Radioactivity	David E. Sugar		969c7605-27bc-4a94-bd6d-acb21cbfda3f	ad57c336-45bf-4aa9-8f44-79eacc2fa281	
+1254942555	Little Fluffy Clouds	The Orb		39c1dad7-e536-4458-9c23-6eeefd6c3d8f	42c14c80-bd17-47e4-9bb2-a35897638c4d	
+1254852114	Glasgow Kiss	John Petrucci		2f1d3a63-8ac9-408c-9baa-9fb6573cbe75	556e6577-24b9-49df-944b-242c9c32bf08	
+1254808530	Pocket Calculator	Glomag		0a1cef22-5fda-45dc-9c3f-988f818b876a	3fa19fac-bcbd-4dea-902a-bc4f92caca8d	
+1254805694	Take the Time	Dream Theater		8eec1157-cdb6-44c4-bc31-f70b94ec51a8	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1254793741	The Spirit of Radio	Rush		1869708a-4b5c-439d-b4ce-ebafdd3de3ff	059afdf5-77e8-4e51-90f5-453b623232ec	
+1254716928	Break on Through (to the Other Side)	The Doors		f3d8ed7c-2daf-4125-9ba1-737513864874	9efff43b-3b29-4082-824e-bc82f646f93d	
+1254716925	Tom Sawyer	Rush		3037d7b4-94ca-4932-9ec5-90ce692e4b55	059afdf5-77e8-4e51-90f5-453b623232ec	
+1254713028	When the Levee Breaks	Led Zeppelin		04d1e563-5fd6-48df-8dd9-79a0f1655dbb	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1254713025	Oye Como Va	Santana		cf5148af-7a30-4c71-a8e4-afae23262d2c	1bc6816a-d056-4113-9b0a-6c52e5c31a3c	
+1254709595	Summer Song	Joe Satriani		f78fb093-4063-4169-8e92-b2fe6cdd2cb9	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1254709583	Burn	Deep Purple		e439cccd-7d15-44a9-9fb3-d591a4f51541	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1254708526	Kashmir	Led Zeppelin		22e840c6-46a0-40fc-b315-ab3b95bf463c	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1254708521	Jumpin' Jack Flash	The Rolling Stones		06055646-4b76-4ccc-980f-83dc1dbe5afd	b071f9fa-14b0-4217-8e97-eb41da73f598	
+1254708517	You Could Be Mine	Guns N' Roses				
+1254708515	Love Train	Wolfmother		5a2540df-cb17-4f3e-9b38-3d80415d05c5	f0c8f75f-8736-4b1d-b312-9349fcff321d	
+1254706367	Mr. Roboto	Styx		5f4c31bb-e3c5-4be3-951a-d14f2466247b	835a6d9c-fea0-4a71-ae52-9c4da946433a	
+1254706197	Hush	Deep Purple		a91f775d-a554-4be0-ac75-1e8c4d85df41	4ba36a26-5624-45d7-bd9f-bdc374ec077c	
+1254705256	The One I Love	R.E.M.		6ad798d6-a587-43ec-81e6-e2188e61fead	ea4dfa26-f633-4da6-a52a-f49ea4897b58	
+1254702287	Optimistic	Radiohead		4d7b8fcb-fafc-4416-9170-752f12e10a2e	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1254689069	Donkey Rhubarb	Aphex Twin		52d1dfb8-b622-4f05-86e2-988650405327	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1254583896	With Jupiter in Mind	Joe Satriani		6d0e152a-7d43-49a1-a4fd-0ae17a131268	29762c82-bb92-4acd-b1fb-09cc4da250d2	
+1254496803	Los Chicos No Lloran (Con David Summers)	Miguel Bosé			98ad7a28-1949-4786-b1f6-4fa05b9b440c	
+1254456150	Amante Bandido (Con Alaska)	Miguel Bosé			98ad7a28-1949-4786-b1f6-4fa05b9b440c	
+1253985396	Imagine (Feat. Jack Johnson)	Rhythms Del Mundo			15b4956b-1d83-42ca-b71c-e04d8fb0c93c	
+1253824275	Air Towel	Underworld		d99f4655-4ee3-4bab-83e3-765da268088a	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1253767568	The Song Remains the Same	Led Zeppelin		5d371abf-0b72-40e0-ace5-f4b67ab214c4	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1253761203	El Niágara En Bicicleta	Juan Luis Guerra		5a5b6a83-a792-4fff-838e-795efefb5f24	0ff55d11-0abe-411b-98db-72a0f0ee9668	
+1253757497	Harder, Better, Faster, Stronger	Daft Punk		da39e947-ffe4-4cf6-ab34-88520d9afd90	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1253756902	Aerodynamic	Daft Punk		5bc82f70-7776-4f00-b041-eaf05dac1d68	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1253756800	One More Time	Daft Punk		14b5c0bc-a707-4ad6-94a8-dfdef3721a21	056e4f3e-d505-4dad-8ec1-d04f521cbb56	
+1253562334	Jailbreak	AC/DC		a168bc04-8a8a-4761-8f26-f8e1bfd71fa9	66c662b6-6e2f-4930-8610-912e24c63ed1	
+1253549606	Driven To Destruction	Riverside		6d0dbfbc-b046-4e7b-8632-9c8b80bf1bf5	077102c2-9dbf-4515-8531-3878461c68b0	
+1253237441	Confusion the Waitress	Underworld		0fe4633f-889c-4152-ac59-2fd8a34f53dd	ba2f4f3b-0293-4bc8-bb94-2f73b5207343	
+1251912307	Trial 1: Mr. Bojangles	Philip Glass		860793f8-8b1e-4210-80f6-8645c941b347	45908599-e061-434f-a900-dd2df7931beb	
+1251906579	All the Love in the World	Nine Inch Nails		21f87fad-1f5e-427d-a210-2b371181395f	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1251858630	Only	Nine Inch Nails		9265d3e9-7ec4-4ac1-870c-49f391f8d722	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1251473263	Just Like You Imagined	Nine Inch Nails		de78cfdf-95ec-4c0a-a109-1a5c3b0c04d1	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1251217326	The Wizard	Black Sabbath		0c4ac9d8-806e-4b20-aae4-b2b8a5a3a7c3	5182c1d9-c7d2-4dad-afa0-ccfeada921a8	
+1251215962	Cowboys from Hell	Pantera		e4cf802c-1f78-4e3a-8803-01df46c91f47	541f16f5-ad7a-428e-af89-9fa1b16d3c9c	
+1251213521	Moby Dick	Led Zeppelin		6d9fc2ae-86b1-471f-b843-cd4595d603e8	678d88b2-87b0-403b-b63d-5da7465aecc3	
+1250874525	Old School Hollywood	System of a Down		79476853-b348-411e-8e56-2814498444fe	cc0b7089-c08d-4c10-b6b0-873582c17fd6	
+1250873054	Revenga	System of a Down		a73c99ca-7d38-48fc-a857-f36b608317ee	cc0b7089-c08d-4c10-b6b0-873582c17fd6	
+1250779935	One of These Days	Pink Floyd		0b10e00a-8698-42df-8d43-cf802516652e	83d91898-7763-47d7-b03b-b92132375c47	
+1250516635	Silenced	RPWL		329dcb61-f398-4938-9652-f24424db4ee1	80301f91-cb5a-4f02-bd2a-ead999a7dc06	
+1250515437	Summerland	Lunatic Soul		b197de07-a450-4e97-bb52-ec4f4a76d6d7	d228968a-d5e6-447a-80c0-c4fe9d25ef52	
+1250515136	Crumble	Phideaux		94477309-ffb1-4ba2-9563-aca1ac0d7598	41029b23-ece4-4cfe-9e0b-5aab6d1322fc	
+1250514231	Upside Down	Gazpacho		c34f2349-05d7-4fd3-b654-9d8623c58218	5706c580-e2c4-4763-8709-acd570de258e	
+1249946232	Oj Jabuko	Stellamara		87d009c8-daa6-4e42-8674-05ba5144a98d	02f9016c-6aa6-4c4c-819e-0a49bda2e9bd	
+1249945100	The New Beginning	Lunatic Soul		36eeda11-de51-4ee5-9b13-97b63d1338c3	d228968a-d5e6-447a-80c0-c4fe9d25ef52	
+1249943937	Pearl Of Ashes	Rajna		2fbc5b88-406e-43f0-9fd7-52f7adff58a9	9c615217-2827-46e0-b6a6-292eb232a950	
+1249917260	Oh Yeah	Chickenfoot		d4f66e68-820c-43a7-90e1-d57d64cb4bb0	28830d2c-95d7-492c-82d3-7d1240bb1c6b	
+1249844916	Free Speech for the Dumb	Metallica		5f10af0a-87bc-4180-9ebf-189be0638e08	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1249055929	The Host of Seraphim	Dead Can Dance		290df17f-e78a-4d5b-aba3-9b9834faca6f	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1248375496	Close to the Edge	Yes		158bbb2a-ac5d-42f2-bcca-58363f6012c2	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1248207005	Fade to Black	Metallica		77a83c78-e786-4104-a44c-9f45a7f6c388	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1248206697	Owner of a Lonely Heart	Yes		c8b835f3-eb43-49a6-b1a2-b81ea974bdac	8353f93f-163e-48c2-bb75-9f18987a3d46	
+1248205974	Mr. Brownstone	Guns N' Roses				
+1248195526	Love Me Two Times	The Doors		4f2de778-3839-4f8b-b2df-963ea15b1940	9efff43b-3b29-4082-824e-bc82f646f93d	
+1248193101	Star of the Winds (Khaukab al Hawwa)	Irfan			47dcd369-e489-4e11-b53f-3b2d38137fef	
+1247674519	Freder	Indukti		7607fe9f-700f-44be-b6a6-5794f27e7bcf	216de703-21b9-4396-a01f-7927a754c4a7	
+1247502994	...and Justice for All	Metallica		a64fa192-c3fb-4e60-aa9f-efd2cb8d17c1	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1247501735	Salva Nos	Mediæval Bæbes		d4f9e16d-e03f-4d73-8018-1592fd0b924a	278fe007-ee33-410c-be59-eabb4b87b68f	
+1247496506	Gaudete	Mediæval Bæbes		07744f59-fdf7-4617-9ff8-cf513c345de8	278fe007-ee33-410c-be59-eabb4b87b68f	
+1247495784	Adam Lay Ibounden	Mediæval Bæbes			278fe007-ee33-410c-be59-eabb4b87b68f	
+1246997043	Barramundi	This Mortal Coil		bea12bb1-61fc-4000-8866-ced7d995bb92	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1246995746	Song to the Siren	This Mortal Coil		ac8843e0-7d34-488f-9206-bd0130bacec6	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1246894742	Fortune	Dead Can Dance		4a96a1d4-33ac-4254-9855-0236a87af046	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1246894307	The Trial	Dead Can Dance		7edb2069-619b-4ce9-bd78-07b5820e2d3f	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1246894107	The Fatal Impact	Dead Can Dance		2d136eae-35f4-4b87-865e-44f572bbd641	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1246457437	El Prado	Tom Griesgraber		0725150f-525c-496c-92fe-4ba0770e33b9	f60ac8eb-cba4-4a33-9c79-132edab8b538	
+1246391398	Jump Around	House of Pain		223308c3-cd0c-49ee-a634-4a7c79ce8de8	c2d6a6fb-7999-4bb3-b2df-7d752fdf4e95	
+1246309154	Waking the Day	Tom Griesgraber		e6c53787-b43c-4632-8bfb-143f500d2b81	f60ac8eb-cba4-4a33-9c79-132edab8b538	
+1246307528	Jungle, Pt. 1	Tom Griesgraber			f60ac8eb-cba4-4a33-9c79-132edab8b538	
+1245897243	Every Little Thing She Does Is Magic	The Police		040c208c-9c0f-4e15-a0f4-e681e421d9c5	9e0e2b01-41db-4008-bd8b-988977d6019a	
+1245897054	Spirits in the Material World	The Police		a7b9d52f-eb17-4067-9fa0-19637f94af1f	9e0e2b01-41db-4008-bd8b-988977d6019a	
+1245688392	Mooncalf	Ozric Tentacles		6afba1d8-ca7d-4c8c-b150-3b737f553d7e	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1245523630	Man Is the Baby	Antony and the Johnsons		233d6cee-13f5-45e1-8d81-dc4f1f5454c1	90cc2464-234e-4da0-b39b-576f36e633bc	
+1245422626	Shock Doctrine	STS9		24cd232d-796a-4308-b240-c6994def530f		
+1245422358	Metameme	STS9		645043f7-1740-4dea-931c-2e713ab547df		
+1245355246	The Spectacle	STS9		32686d99-82b4-4e38-b302-053e3dc87623		
+1245352127	Song of the Stars	Dead Can Dance		47d4eadd-a82d-4c8c-8b37-1d5c81c8196c	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1245352125	Nierika	Dead Can Dance		39b436f0-f983-484d-a04c-9941dd355c04	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1245352118	The Snake and the Moon	Dead Can Dance		29713a0b-0621-4abe-a435-9f307ec7eb71	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1245271673	Alone	This Mortal Coil		923c661d-e444-4b56-92d8-9464898024f0	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245270617	I Want To Live	This Mortal Coil		de25087a-62b7-4305-9dd8-0671f277d33b	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245270015	Strength of Strings	This Mortal Coil		4288d1c0-5ac2-49b5-8315-9767c22e32e1	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245269680	Come Here My Love	This Mortal Coil		48fd55d5-2b03-40ef-af0f-d5f9dc6a17ee	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245269051	Meniscus	This Mortal Coil		55ec980c-3690-4c9d-b2f1-5b6c6efa9b11	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245269018	Tarantula	This Mortal Coil		e6b8b0b0-01c1-4ca2-adae-abb4d99be771	60ef8ddb-7676-4056-a357-9a8c228d03a6	
+1245184988	Battle Without Honor or Humanity	布袋寅泰		14705abb-92f4-4889-bed8-6b6eb55b75b4	0682e227-ecdc-4427-9d57-68dffeb8571f	
+1245084452	Sabbra Cadabra	Black Sabbath		16fd263e-26b9-4e82-8594-778d635b7d7d	5182c1d9-c7d2-4dad-afa0-ccfeada921a8	
+1244827488	Paranoid	Black Sabbath		c6c11a2d-98c3-41ed-b68d-4e37f819deb9	5182c1d9-c7d2-4dad-afa0-ccfeada921a8	
+1244827039	War Pigs / Luke's Wall	Black Sabbath			5182c1d9-c7d2-4dad-afa0-ccfeada921a8	
+1244670135	Amerika	Rammstein		a8dd9a61-6239-439d-8f95-d4d41401ec6c	b2d122f9-eadb-4930-a196-8f221eeb0c66	
+1244239364	Mambo de Machaguay	Los Jaivas		3b0681b4-acaf-4c0f-868d-a96860de7c2e	e3d766c2-aad2-469e-ac94-c90939f4a294	
+1244169601	The Patient	Tool		23cfea50-39e5-4ff6-9afd-9de43fa88531	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1244130810	Chronologie, Part 4 (S X S mix)	Jean Michel Jarre		16f3fbaa-e98e-45ed-898c-c8ce153af4de	86e2e2ad-6d1b-44fd-9463-b6683718a1cc	
+1244124545	Un automne	Lazuli		e8e6c456-805f-4cec-bf14-1cfa94095677	3a192d2c-7cdd-41ee-904b-b4d06cf36592	
+1244089231	Come Together	Beatlejazz		0491a88a-70c3-4e80-adb0-8b1a4ab8f647	e013fae7-e6ab-4b77-838f-77622689ce72	
+1244066547	Hell's Kitchen	The Da Capo Players		d0c5279c-5867-4ece-bedd-baa949aafc09	5bcd4eaa-fae7-465f-9f03-d005b959ed02	
+1244063902	Overture 1928	The Da Capo Players		2c3ee51c-d5d9-4ecd-9e6a-8cd4747f5ed0	5bcd4eaa-fae7-465f-9f03-d005b959ed02	
+1243348254	Apocalypshit	Molotov		1c62cbb2-cafa-4c3c-a31f-35ee560fe032	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1243008662	Sunday Bloody Sunday	U2		4fa3bb50-0765-446e-bc38-61fd88d1eb11	704acdbb-1415-4782-b0b6-0596b8c55e46	
+1242939717	Constant Motion	Dream Theater		dd66cc19-2537-494e-99c7-3087c8ce55bc	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1242838933	System Seven	Béla Fleck		5545e15c-0673-4e70-9b9d-2a0c92831d4b	e1a889b7-5e45-447f-baa0-b9c6cbc0d39f	
+1242835413	Beat On The Brat	Dee Dee Ramone		515602d1-808c-4dc6-9e5e-696fef75b3e5	f23feff0-ed20-4e9c-ae45-4ff68a83be70	
+1242835403	I Wanna Be Sedated	Dee Dee Ramone		5faef43d-1b39-482d-aad8-d2c7725976e6	f23feff0-ed20-4e9c-ae45-4ff68a83be70	
+1242835266	Blitzkrieg Bop	Dee Dee Ramone		1d83bc95-9ece-4c60-bec3-c548fd96f37f	f23feff0-ed20-4e9c-ae45-4ff68a83be70	
+1242833525	I Might Be Wrong	Radiohead		1bf59297-2c98-4a70-9459-31b560e2934d	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1242832479	Packt Like Sardines In A Crushd Tin Box	Radiohead		91960108-a251-48fb-a6b7-0587926a7549	a74b1b7f-71a5-4011-9441-d0b5e4122711	
+1242745679	Message From the Mountain	Frameshift		ebf4f63b-5160-43e7-b550-b142d3dedba0	4db46226-630f-4870-a634-88e7d7bdf381	
+1242744750	The Gene Machine	Frameshift		f265b79e-a389-4397-bc29-1c2db309f90d	4db46226-630f-4870-a634-88e7d7bdf381	
+1242674861	Sabotage	Beastie Boys		0085f725-46f1-464e-8a89-ad7949689261	9beb62b2-88db-4cea-801e-162cd344ee53	
+1242406817	No Sleep Till Brooklyn	Beastie Boys		093ac772-2685-4b59-a688-0c2c0382a774	9beb62b2-88db-4cea-801e-162cd344ee53	
+1242314451	Hellraiser (VNV Nation Remix)	Suicide Commando		54ef1029-7c6c-437d-94a1-f831f02d1c02	c37412cd-f0cc-4507-8825-48f95aef3624	
+1242313040	Kara Kum	Banco De Gaia		e3c00ec7-74e9-412d-91ba-3b36fe68d54c	2687dbd4-089f-40df-94c3-f6216458adc2	
+1242312300	Every Day	AFX		13fe1314-2081-4d58-a119-0e3c92c4f66b	87225a21-c925-41cd-852f-be4b052d0824	
+1242311586	Shpongle Falls	Shpongle		8f1f19b1-d974-4c26-bca6-5debd5c847f7	97a486d4-a7f9-4bbe-9685-ed798890958e	
+1242246232	Panem et Circenses: Providence (Dance with the Sleep-Walker Marionnettes)	After Crying		e3afdf76-97ac-4e22-8888-289501ac80f6	bc86859e-2509-4977-9de4-909805ea24ed	
+1242099308	Danza del Agua - Tusuy Puquio	Miki González			4ef6731b-2d1d-4aba-b139-87e9f74c61e0	
+1242076298	Je Me Souviens	Jean Michel Jarre		1d986929-6516-4243-ac7a-d4282d2a110b	86e2e2ad-6d1b-44fd-9463-b6683718a1cc	
+1242069529	Regressa	Novalima			1916112c-7385-4580-bc55-8126d349016c	
+1242068996	Alcajazz	Novalima		380eb091-49b2-4267-90ee-aa009251d8f8	1916112c-7385-4580-bc55-8126d349016c	
+1242067064	Machete	Novalima		109c76f7-b93c-4413-a42c-215af950c9a3	1916112c-7385-4580-bc55-8126d349016c	
+1242061526	Rakim	Grido		d5dfc658-5b73-42f8-96b8-0a0f4af8c11b	55fd34f2-638e-4c67-8305-362636d7b8da	
+1242061304	In Power We Entrust the Love Advocated	The Gathering		1d830315-f4ab-4cd2-8ba2-5643b07558c4	004e5eed-e267-46ea-b504-54526f1f377d	
+1242059009	Bylar	Ataraxia		055a0ca9-e772-46da-aa4b-ef8bd563398e	08be9085-4b2f-49ad-a327-55d0df356c2f	
+1242058603	Black Sun	Antimatter		7efb250c-10d6-4d78-b0d7-f9692cfde865	10c02731-8a4c-477f-8195-d69babb8683f	
+1242057482	Desert Song	Akrabu		47cef9df-e496-450c-97b6-6801993f081f	6d6e365b-969c-448b-a038-226a2be29d7c	
+1242054727	The Duellists	Iron Maiden		2468a5ae-2656-4157-b701-7ea8d2f50a7a	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1242053681	2 Minutes to Midnight	Iron Maiden		2c71dd05-fd53-4cdc-82a0-e1334872d39f	7c3762a3-51f8-4cf3-8565-1ee26a90efe2	
+1241996801	Saruman	Summoning		4d156928-d69e-4af7-8709-c61c4b579d3c	8363f94f-fd86-41b8-a56b-26eacb34f499	
+1241996154	Mirkwood	Summoning		2b55eacd-b224-4042-87b1-a300933dea63	8363f94f-fd86-41b8-a56b-26eacb34f499	
+1241994214	Bridges and Balloons	Joanna Newsom		5faa8a28-b33e-438c-80a0-3b8b5fd8247e	cb69e1f1-bc76-4df5-93c9-cf97dd8a3b5c	
+1241819604	Blue Mondo	Niacin		354ec677-4a73-4e83-b527-244938af9c16	c494890b-465a-4718-ae72-47bd70434e50	
+1241818211	Swing Swang Swung	Niacin		8222478b-03d5-4b2f-be9a-fa964c0640e3	c494890b-465a-4718-ae72-47bd70434e50	
+1241812275	Don't Stop Running	The Fireman		7e35c35a-b0f2-4356-9d74-372b3c16befd	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1241809582	Lovers In A Dream	The Fireman		4fed4c2c-a38a-4d61-b5e7-4bad14df1291	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1241806887	Even the Waves	Chroma Key		66ef9c46-8072-409e-83b2-9a1fe0332451	4492c65a-533e-4189-b865-b5af36003b30	
+1241806875	Nothing Too Much Just Out Of Sight	The Fireman		37cf2c91-b8a8-48a0-a62f-d45b2903bfa4	23466b9d-f57a-4e73-906f-c11dca8b3723	
+1241724898	Peruaya	Mino Mele / Gisela Pérez-Ruibal				
+1241714252	Intron.V	Jega		22a8efb2-0fad-4f1b-9f1b-e1003a01dcda	6b43e5f2-49e8-46ce-94cb-a9b23e5bb4e8	
+1241713354	Dream of Stone	Gazpacho		74b355de-b5e5-45d3-84ac-e905924d0049	5706c580-e2c4-4763-8709-acd570de258e	
+1241712529	America	Resorte		9693904f-02d3-4f2b-b704-5612334f4833	e93539c7-eeb9-4aa5-a09b-81912419ba91	
+1241707660	Yellow	The Section Quartet		5bffbaf6-7c93-40f9-958e-aed9ff45a4bb	2b5929bc-ffbf-496b-a66f-90dae13cbfe7	
+1241641706	Magnificent	U2		8190bf6d-fea1-4e09-8d28-efd2a8d78c00	704acdbb-1415-4782-b0b6-0596b8c55e46	
+1241626294	Arched Maid Via RDJ	AFX		72f81d0a-715a-47df-81e3-93ab6e6f0671	87225a21-c925-41cd-852f-be4b052d0824	
+1241621411	El Capitalismo Foraneo	Gotan Project		7abed054-c4d2-4783-be1e-b57a4b66e411	23f8ae5f-2989-4ba4-a330-cbe5d250c13a	
+1241619134	Hy a Scullyas Lyf a Dhagrow	Aphex Twin		50c14dc8-708d-439b-9ffa-3b091a521e22	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1241618860	Anthem	Gus Gus				
+1241464905	Stella splendens in monte	Hespèrion XX		7da725ed-73cf-46ca-8a0b-005b63227ecd	3a9f0e21-5796-4f04-bd4c-3deafd59ad80	
+1241464686	O Virgo splendens hic in monte celso	Hespèrion XX		523d31bd-51eb-48c8-b45b-ba7c7a4a39a4	3a9f0e21-5796-4f04-bd4c-3deafd59ad80	
+1241455158	Incubus	Marillion		0f1f7d1d-8a4b-4e15-9386-ebbebac64b01	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1241454427	Emerald Lies	Marillion		b0c5a1bd-9e79-46ad-ba20-680224398990	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1241453342	Assassing	Marillion		f0316ce2-6ae5-4601-9d80-7853ee17a684	1932f5b6-0b7b-4050-b1df-833ca89e5f44	
+1241452022	No One Knows	Queens of the Stone Age		1ee7ca93-7ccb-4cc9-aa40-1dc527727bd2	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1241451491	You Think I Ain't Worth a Dollar, But I Feel Like a Millionaire	Queens of the Stone Age			246aa41e-8a40-4018-a6d6-8fb646418c25	
+1241288892	Cerdo	Molotov		2090e505-2903-4498-8a9b-bebce6b551dd	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1241287020	Voto Latino	Molotov		0cb0ad53-ba20-4720-bb2a-96a248a2c550	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1241286503	Que no te Haga Bobo Jacobo	Molotov		f2b895ee-06ea-42cd-8a4a-3e1fae776c98	4f8916d6-a7d2-43e9-96b6-ce3168c39c84	
+1241285566	Canto Enfermo	La Sarita		4cdec090-843d-4322-95c7-4b74424b1887	4140ea84-61ec-4275-a6df-d1a4aebddafb	
+1241241474	Utopia	Brendan Perry		14988818-64db-4298-a151-4ec6434ba9db	406fa1ec-0f9f-47ac-b2a3-52eccf987af6	
+1241202555	Black Betty	Ram Jam		fe25a78f-0f74-437e-804b-81568923848f	0ea69a04-4c6f-4763-b3f4-f90cb9ba5141	
+1241115290	The Pot	Tool		00ba389e-2dff-419c-9e24-884d05a14923	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1241113667	Vicarious	Tool		16c3ffb6-6264-4506-81b0-8bf9219b1da6	22c94bce-544f-49ba-afdc-026beac4fd3e	
+1240848861	Bullitts Dominæ	Pure Reason Revolution		11f07608-d0e1-490f-874b-b296ffb633e9	f443a331-2623-4d50-8797-bfb204850253	
+1240845437	The Gloaming	Pure Reason Revolution		6b0375d9-2ec7-40c0-ad11-4e84d753a37a	f443a331-2623-4d50-8797-bfb204850253	
+1240805865	Goshen's Remains	Pure Reason Revolution		2ccd08e1-2cb8-4e3a-b706-5f2188d2257f	f443a331-2623-4d50-8797-bfb204850253	
+1240705243	Voices in Winter / In the Realms of the Divine	Pure Reason Revolution		05702d0d-fe82-4f6a-a26a-d056e859280d	f443a331-2623-4d50-8797-bfb204850253	
+1240704870	The Exact Colour	Pure Reason Revolution		a3bf46a4-2302-4bbd-a88f-9c79c68dfe21	f443a331-2623-4d50-8797-bfb204850253	
+1240704712	Les Malheurs	Pure Reason Revolution		1f16ef6d-da74-4632-9b39-badc54d0563e	f443a331-2623-4d50-8797-bfb204850253	
+1240426302	Sound of Free	Pure Reason Revolution		432f1966-4e13-4691-8e3d-6f47d49e2b8d	f443a331-2623-4d50-8797-bfb204850253	
+1240416609	Deus Ex Machina	Pure Reason Revolution		442545d7-b8fd-4f84-9ef7-0a58b1af8b0c	f443a331-2623-4d50-8797-bfb204850253	
+1240410218	The Bright Ambassadors Of Morning	Pure Reason Revolution		455ceb9e-fc73-4fd7-af29-6b1b5b81c7d3	f443a331-2623-4d50-8797-bfb204850253	
+1239978403	The Call of Ktulu	Metallica		d4f154dd-74e2-45e3-ba5a-e0bd8f50be74	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1239977459	For Whom the Bell Tolls	Metallica		30dd271d-120d-4364-acaa-091d5127f979	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1239977276	(Anesthesia)-Pulling Teeth	Metallica		0fbba3d1-9a28-4de5-b267-9b884bf26b96	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1239831666	Synthacon 9	The Tuss		d07171e0-30ba-43c7-99f4-43345febd3db	09292e4d-b7ad-476b-86d9-7806303ef8c3	
+1239727632	In Aurélia	Pure Reason Revolution		0351b18a-2abe-4343-8ae6-88d2fccbaff1	f443a331-2623-4d50-8797-bfb204850253	
+1238953707	Adding N To X	Add N To (X)		47b4dace-99a2-4ebc-b884-71809f4c65e7	8a723345-c62c-45ec-a45e-c1007f2981b4	
+1238884114	Dirty Window	Metallica		230f484e-1d62-4405-8758-f2123864c358	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238883617	Some Kind of Monster	Metallica		1ab1aa44-bef7-458c-8911-5767762cdf88	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238881798	Orion	Metallica		09513a90-314a-40e3-ac36-5f28ae0da4c6	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238878793	Welcome Home (Sanitarium)	Metallica		d76167bf-2083-4ef9-82f2-8511d8105cdf	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238878460	Master of Puppets	Metallica		8f38f624-0f72-46f0-8549-e2d458270aba	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238878400	The Thing That Should Not Be	Metallica		aed32fc1-ddcb-4b21-89de-eb296ff353ba	65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab	
+1238531709	Test For Echo	Rush		0094c304-d438-4b7f-bd9d-95d3aae1ed8e	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238530484	2112: I. Overture	Rush		3a710861-c9c9-4ef7-adc1-7fe5c44d4d53	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238528122	Nobody's Hero	Rush		8145f539-f474-447f-96e5-acc701ecff63	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238525742	Dreamline	Rush		820ce686-2f80-4dc1-91c6-0b5cb0c217d1	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238098632	Sponsored By Destiny	Slagsmålsklubben		965da951-d546-42b9-a297-6bf455368167	3869dbb7-da0c-455f-ad74-332a9d35d016	
+1238094942	Earthshine	Rush		3d2fb7cd-c84f-4e12-ae66-391e413e282e	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238088457	Ghost Rider	Rush		ff5daf27-7c7e-4adc-9a15-b5c62eb5965b	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238088196	Ceiling Unlimited	Rush		740d1b18-9cf8-4308-a340-fa3a1ae4a129	059afdf5-77e8-4e51-90f5-453b623232ec	
+1238010406	In the Presence of Enemies, Part I	Dream Theater		b7c7bda3-025a-4994-af6d-c16e8108c650	28503ab7-8bf2-4666-a7bd-2644bfc7cb1d	
+1237919453	Into the Hollow	Queens of the Stone Age		4fa39154-5721-40e4-a7d8-cbcd92e70258	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1237915402	Sick, Sick, Sick	Queens of the Stone Age		e289f2df-05a2-43b2-89cb-059a769252b6	246aa41e-8a40-4018-a6d6-8fb646418c25	
+1237906537	Disolution (The Clouds Disperse)	Ozric Tentacles		626773f8-d9b5-40be-a861-362e8eb7fbed	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1237770619	Trains	Porcupine Tree		3de1fe3c-1ca9-481b-969b-e05b742d929e	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1237576682	Let's Start	Fela Kuti		ae1e4936-f811-4cc8-8d8c-054671c54fba	6514cffa-fbe0-4965-ad88-e998ead8a82a	
+1237138340	Fear of a Blank Planet	Porcupine Tree		48b12288-c47d-428e-8654-2417b31e96f2	169c4c28-858e-497b-81a4-8bc15e0026ea	
+1237007768	Gloria	U2		0b1fe36d-1481-4fa0-a42f-37e5f1c69ba6	704acdbb-1415-4782-b0b6-0596b8c55e46	
+1236798373	In Heaven (Lady In The Radiator Song)	Miranda Sex Garden		99392b14-2bfc-4e57-9195-4df01dd5f3fc	ba5d56ac-b8c4-46ef-8c06-1c1f6a35584f	
+1236288440	Hot Rod	Liquid Trio Experiment		7b9a3073-c39d-41da-937f-d68fd9923fb0	1c63c44e-5716-45ac-a030-75cb7488bd24	
+1235667574	Paradigm Shift	Liquid Tension Experiment		276670cc-04cf-45ce-a81b-2e80ed7c2e5c	bc641be9-ca36-4c61-9394-5230433f6646	
+1235659800	Pretzel Logic	Thanatopsis		b87bea0c-6663-4975-b6dc-0caf388ef4e3	0cddd743-57d8-42d8-bd50-881777462812	
+1235659709	Nostrum	Thanatopsis		8a647934-1c2e-4d64-8f79-c57688734190	0cddd743-57d8-42d8-bd50-881777462812	
+1235516246	Floating Seeds	Ozric Tentacles		8911f112-11fe-4195-8f52-55562a6fdfe0	5629ca87-9086-48c4-8dc4-b4a966c45067	
+1235341980	Hells Bells	AC/DC		00eda483-c7bd-47ca-9160-bdc8c549b852	66c662b6-6e2f-4930-8610-912e24c63ed1	
+1235162617	The Kinslayer	Nightwish		509dbda5-8cbe-4407-ab36-0f46a610099e	00a9f935-ba93-4fc8-a33a-993abe9c936b	
+1235143276	I Am Eve	Mediæval Bæbes		4b9bc1a5-74a2-47b0-91a5-50c78043b86e	278fe007-ee33-410c-be59-eabb4b87b68f	
+1235096618	Pulsewidth	Aphex Twin		213d4632-7d0a-4d14-b458-a9cb7fb7dd6a	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1235096591	Équinoxe, Part 6	Jean Michel Jarre		36025788-7a07-4550-beba-76939c657c8f	86e2e2ad-6d1b-44fd-9463-b6683718a1cc	
+1231263398	Bigfoot	Béla Fleck and the Flecktones		38144725-01a5-4f27-b925-4713f19df619	5143fb36-d09d-4439-bc70-ab4ca8dc27d2	
+1231262139	New South Africa	Béla Fleck and the Flecktones		1426033c-7cbe-4e22-8180-d9737c58908c	5143fb36-d09d-4439-bc70-ab4ca8dc27d2	
+1231185199	We Need A War	Fischerspooner		620c22c6-6c9a-49dc-9bdf-2bd135a454b4	a4f54716-24d9-4c6b-8ba7-1d7e7a5173d0	
+1231175185	From a Distance (feat. The Corporal) (12" Z mix)	The Orb		e254092b-1420-4b72-93ba-833498d762c3	42c14c80-bd17-47e4-9bb2-a35897638c4d	
+1231173455	Rancagua Nocturno	Mar de Robles		28cd9f0c-06ab-46e2-8ddd-25963402669e	b4ef07d0-05a1-4718-ae05-4f4d9f4c52d5	
+1231173277	Mujer Boa	Manganzoides		00aa3fbb-dedd-4d81-b500-fcf9acc86403	3090712c-e79d-4d37-8b9a-6d4066448e43	
+1231173159	La Voz De Los Ochenta	Los Prisioneros		d9cbb128-65e2-484f-9b30-b741cd6fe000	a1d044b9-76c9-46d7-a5a6-0f52421e1ed7	
+1231172456	Prófugos	Soda Stereo			3f8a5e5b-c24b-4068-9f1c-afad8829e06b	
+1230975514	Crescent	Dead Can Dance		4304425f-e516-4289-96dd-293ed8d019a8	ccda046a-2674-4f7d-97e6-f23d6c156432	
+1220323977	On	Aphex Twin		1a07cc65-74fb-4860-be20-29f1363f7965	158c6b17-a00a-4624-9ae0-d614d5dd0d52	
+1219867604	Head Like a Hole	Nine Inch Nails		e78f77c9-7c0b-4200-8698-83821018d19f	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1219809415	Something I Can Never Have	Nine Inch Nails		8279574c-13e9-4302-ad96-9592f0f0c16b	b7ffd2af-418f-4be2-bdd1-22f8b48613da	
+1197062542	Annwyn, Beneath The Waves (Album Version)	Faith and the Muse			f1019a9e-2937-42ea-b2be-291eb1003573	
+1197060680	Waiting for the Sunrise	Love Spirals Downwards		0324c6a8-551e-4a0b-bc03-699eba2c14c5	34b69232-264f-419d-ad62-47d362e2c308	
+1151944241	How Fortunate the Man With None	Dead Can Dance		4425058c-fcd6-4316-b9c5-9dc1122fadc6	ccda046a-2674-4f7d-97e6-f23d6c156432	
